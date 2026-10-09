@@ -1,0 +1,13 @@
+name = "Give Us Terracotta Stairs! (G.U.T.S) 26.2"
+filename = "terracotta-stairs-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7vp8WNo/versions/JTlAwsdv/terracotta-stairs-26.2.jar"
+hash-format = "sha1"
+hash = "605ed88b4eff63435b0edd5f0559c95ee291cc72"
+
+[update]
+[update.modrinth]
+mod-id = "K7vp8WNo"
+version = "JTlAwsdv"

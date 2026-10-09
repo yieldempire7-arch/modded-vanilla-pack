@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "MagnumTorch-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/HTUPKGMb/MagnumTorch-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "843cf6277e65977cfc7d8da088c7f8a38f14267d"
+
+[update]
+[update.modrinth]
+mod-id = "jorDmSKv"
+version = "HTUPKGMb"

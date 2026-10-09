@@ -1,0 +1,13 @@
+name = "Sounds 2.5.1+edge"
+filename = "sounds-2.5.1+edge+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/kv2RxMQu/sounds-2.5.1%2Bedge%2B26.2-fabric.jar"
+hash-format = "sha1"
+hash = "557183656b2a09545c7348507880c5f59293d16b"
+
+[update]
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "kv2RxMQu"

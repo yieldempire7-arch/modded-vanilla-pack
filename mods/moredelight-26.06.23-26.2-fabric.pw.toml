@@ -1,0 +1,13 @@
+name = "More Delight 26.06.23 - 26.2"
+filename = "moredelight-26.06.23-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/RcXOnDXk/moredelight-26.06.23-26.2-fabric.jar"
+hash-format = "sha1"
+hash = "ae44319b769e47ddb635ce9bd81950deb0be6a4a"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "RcXOnDXk"

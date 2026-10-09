@@ -1,0 +1,13 @@
+name = "1.10.15 - Minecraft 26.2"
+filename = "camerapture-1.10.15+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/nbBC1XkL/camerapture-1.10.15%2Bmc26.2.jar"
+hash-format = "sha1"
+hash = "3a598f4b754e8d9df52d0673399d4dde7e5a3de0"
+
+[update]
+[update.modrinth]
+mod-id = "9dzLWnmZ"
+version = "nbBC1XkL"

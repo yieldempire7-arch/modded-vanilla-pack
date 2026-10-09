@@ -1,0 +1,13 @@
+name = "1.11.2-26.2 - Fabric"
+filename = "entityculling-fabric-1.11.2-mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/RWjup6Jf/entityculling-fabric-1.11.2-mc26.2.jar"
+hash-format = "sha1"
+hash = "8a379bf40ab7125756afe7bbdf9501324bc37216"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "RWjup6Jf"

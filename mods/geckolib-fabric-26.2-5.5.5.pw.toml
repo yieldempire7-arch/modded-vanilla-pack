@@ -1,0 +1,13 @@
+name = "Fabric 26.2-5.5.5"
+filename = "geckolib-fabric-26.2-5.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/7gaQHok7/geckolib-fabric-26.2-5.5.5.jar"
+hash-format = "sha1"
+hash = "66bd0b658dadc9345d9b885641b4322e3686094c"
+
+[update]
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "7gaQHok7"

@@ -1,0 +1,13 @@
+name = "AutoFish for Everyone 8.0.1 (26.2-fabric)"
+filename = "autofish-8.0.1-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2WglSFNV/versions/2N35l1Ar/autofish-8.0.1-26.2-fabric.jar"
+hash-format = "sha1"
+hash = "10ad8db5273dd03642d40b159db3a7d15411c2ca"
+
+[update]
+[update.modrinth]
+mod-id = "2WglSFNV"
+version = "2N35l1Ar"

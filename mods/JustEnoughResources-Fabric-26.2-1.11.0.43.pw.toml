@@ -1,0 +1,13 @@
+name = "1.11.0.43 for Fabric 26.2"
+filename = "JustEnoughResources-Fabric-26.2-1.11.0.43.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/K3mFlSd5/JustEnoughResources-Fabric-26.2-1.11.0.43.jar"
+hash-format = "sha1"
+hash = "c33dbfd437b8c42c188e35a239cd106ed4dbc8d4"
+
+[update]
+[update.modrinth]
+mod-id = "uEfK2CXF"
+version = "K3mFlSd5"

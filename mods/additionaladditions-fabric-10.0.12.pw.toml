@@ -1,0 +1,13 @@
+name = "10.0.12 for Fabric 26.2"
+filename = "additionaladditions-fabric-10.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/cF8K7F4d/additionaladditions-fabric-10.0.12.jar"
+hash-format = "sha1"
+hash = "45c1b454f19eafc561d8c301a8284e0615c551d2"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "cF8K7F4d"

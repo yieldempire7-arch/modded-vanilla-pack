@@ -1,0 +1,13 @@
+name = "Crops Love Rain 3.2.1-fabric for 26.1-26.2"
+filename = "cropsloverain-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/YzNJMQVQ/cropsloverain-3.2.1.jar"
+hash-format = "sha1"
+hash = "2c3f5e1a56e638d0e3e5e9917d4efa9ae49a35bb"
+
+[update]
+[update.modrinth]
+mod-id = "cRci7UZp"
+version = "YzNJMQVQ"

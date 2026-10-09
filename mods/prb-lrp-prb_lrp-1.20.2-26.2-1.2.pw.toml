@@ -1,0 +1,13 @@
+name = "1.2"
+filename = "prb-lrp-prb_lrp-1.20.2-26.2-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jK7eldf0/versions/xZ5vaGkY/prb-lrp-prb_lrp-1.20.2-26.2-1.2.jar"
+hash-format = "sha1"
+hash = "1f0794214f0477bb327bbbea7f59cb2566058d59"
+
+[update]
+[update.modrinth]
+mod-id = "jK7eldf0"
+version = "xZ5vaGkY"

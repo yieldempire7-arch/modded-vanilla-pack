@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.1"
+filename = "VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/m2UkOgBN/VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "42794e69e239a5b560f2a2ee1da6f9873685be83"
+
+[update]
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "m2UkOgBN"

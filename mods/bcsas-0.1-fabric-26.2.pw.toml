@@ -1,0 +1,13 @@
+name = "Backported Concrete Stairs & Slabs Fabric/Quilt 26.2"
+filename = "bcsas-0.1-fabric-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m1eHdK2f/versions/cTboJcyx/bcsas-0.1-fabric-26.2.jar"
+hash-format = "sha1"
+hash = "270152c2eb1e22ca6dde36afd8ccb29c962ac22d"
+
+[update]
+[update.modrinth]
+mod-id = "m1eHdK2f"
+version = "cTboJcyx"

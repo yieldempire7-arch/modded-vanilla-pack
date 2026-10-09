@@ -1,0 +1,13 @@
+name = "Mod 1.2.2v"
+filename = "forgetful-sniffer-v1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BJPbl8Cz/versions/BtIDHsOu/forgetful-sniffer-v1.2.2.jar"
+hash-format = "sha1"
+hash = "28a59fef7a22205ab389664981d7766e2ff1f67a"
+
+[update]
+[update.modrinth]
+mod-id = "BJPbl8Cz"
+version = "BtIDHsOu"

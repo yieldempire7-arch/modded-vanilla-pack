@@ -1,0 +1,13 @@
+name = "MidnightLib 1.9.3 - Fabric 26.2"
+filename = "midnightlib-fabric-1.9.3+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/3uBvRFE9/midnightlib-fabric-1.9.3%2B26.2.jar"
+hash-format = "sha1"
+hash = "150ef19c168ef022b554b4c05bc0fdac13fcb2c3"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "3uBvRFE9"

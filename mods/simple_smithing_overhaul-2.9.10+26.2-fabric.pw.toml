@@ -1,0 +1,13 @@
+name = "2.9.10 for Fabric 26.2"
+filename = "simple_smithing_overhaul-2.9.10+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5TJjZc3/versions/GG4f5wOP/simple_smithing_overhaul-2.9.10%2B26.2-fabric.jar"
+hash-format = "sha1"
+hash = "b5337d8fc5c653eb60f200c83c02ea099e1f24de"
+
+[update]
+[update.modrinth]
+mod-id = "U5TJjZc3"
+version = "GG4f5wOP"

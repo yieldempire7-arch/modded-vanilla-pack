@@ -1,0 +1,13 @@
+name = "Polymorph (Unofficial Port) 1.1.7+26.2"
+filename = "polymorph-fabric-1.1.7+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZqpYquTE/versions/8WNYw0oq/polymorph-fabric-1.1.7%2B26.2.jar"
+hash-format = "sha1"
+hash = "22905dd071e714574c3ec176a1dbf6e7b462697a"
+
+[update]
+[update.modrinth]
+mod-id = "ZqpYquTE"
+version = "8WNYw0oq"

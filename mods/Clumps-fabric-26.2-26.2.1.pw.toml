@@ -1,0 +1,13 @@
+name = "Fabric-26.2-26.2.1"
+filename = "Clumps-fabric-26.2-26.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/dEMopoOJ/Clumps-fabric-26.2-26.2.1.jar"
+hash-format = "sha1"
+hash = "98e368bacc9d1a607be81d02f78f9afe913e7cfe"
+
+[update]
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "dEMopoOJ"

@@ -1,0 +1,13 @@
+name = "5.5.6+fn-26.2"
+filename = "tcdcommons-5.5.6+fn-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/NM3aWYRR/tcdcommons-5.5.6%2Bfn-26.2.jar"
+hash-format = "sha1"
+hash = "30b8d4d76710e602732a340a7888835566ee6d96"
+
+[update]
+[update.modrinth]
+mod-id = "Eldc1g37"
+version = "NM3aWYRR"

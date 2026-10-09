@@ -1,0 +1,13 @@
+name = "Swift-Flight v1.0.3"
+filename = "swift-flight-v1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HUkmS2ed/versions/M8eMPIaR/swift-flight-v1.0.3.jar"
+hash-format = "sha1"
+hash = "cd338a348f5b8faa6d6bafbcb1378e60d07971c5"
+
+[update]
+[update.modrinth]
+mod-id = "HUkmS2ed"
+version = "M8eMPIaR"

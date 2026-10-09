@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "EasyMagic-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/5CL4B48Y/EasyMagic-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "3c4a18c4115923c6639edf2b17363b2203e20001"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "5CL4B48Y"

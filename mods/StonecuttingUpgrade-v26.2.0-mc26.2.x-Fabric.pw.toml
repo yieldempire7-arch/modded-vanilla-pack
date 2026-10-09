@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "StonecuttingUpgrade-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCLuNtSF/versions/qHenKuWz/StonecuttingUpgrade-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "02e40535b8f82dd0b635bd682aa479757f6e1e41"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLuNtSF"
+version = "qHenKuWz"

@@ -1,0 +1,13 @@
+name = "Cluttered 3.0.3 - 26.2.x Fabric 0.1.1 (Unofficial Port)"
+filename = "cluttered-3.0.3-26.2.x-0.1.1-fabric-unofficial.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lkSv4ZVS/versions/e0BMNUAG/cluttered-3.0.3-26.2.x-0.1.1-fabric-unofficial.jar"
+hash-format = "sha1"
+hash = "525a27ebb2a8fc4b0ccbc97daa02de7d853f7cd9"
+
+[update]
+[update.modrinth]
+mod-id = "lkSv4ZVS"
+version = "e0BMNUAG"

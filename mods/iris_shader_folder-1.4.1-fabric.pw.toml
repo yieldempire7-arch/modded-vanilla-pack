@@ -1,0 +1,13 @@
+name = "Iris Shader Folder 1.4.1-fabric"
+filename = "iris_shader_folder-1.4.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/f97tHwjq/iris_shader_folder-1.4.1-fabric.jar"
+hash-format = "sha1"
+hash = "120970b88ce232109c3055d9105b14e69bbe87a4"
+
+[update]
+[update.modrinth]
+mod-id = "yv6sGJzN"
+version = "f97tHwjq"

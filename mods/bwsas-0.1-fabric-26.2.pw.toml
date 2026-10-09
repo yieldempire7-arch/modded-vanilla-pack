@@ -1,0 +1,13 @@
+name = "Backported Wool Stairs & Slabs Fabric 26.2"
+filename = "bwsas-0.1-fabric-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Qx8jTpq/versions/NQ22kZ9r/bwsas-0.1-fabric-26.2.jar"
+hash-format = "sha1"
+hash = "9e04a56c57ede1ab45f597b5e356d10ba774685f"
+
+[update]
+[update.modrinth]
+mod-id = "8Qx8jTpq"
+version = "NQ22kZ9r"

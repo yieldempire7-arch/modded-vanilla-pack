@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"travelersbackpack:backpack_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:standard","components":"{\"travelersbackpack:starter_upgrades\":[{item:{id:\"travelersbackpack:tanks_upgrade\"},slot:0}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:raw_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:raw_copper_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

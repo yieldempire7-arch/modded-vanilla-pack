@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.4"
+filename = "PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/aNOJuoCM/PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "aaa8c5c6f446381e118ad5bedbcdb515ccc680d2"
+
+[update]
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "aNOJuoCM"

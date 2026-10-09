@@ -1,0 +1,13 @@
+name = "Early Elytra (1.21.2+) [1.0.0]"
+filename = "early-elytra-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sVgW22C3/versions/xCWvoDQ7/early-elytra-1.0.0.jar"
+hash-format = "sha1"
+hash = "ed5edf36a3d629572d0901bf952df459d4b5e950"
+
+[update]
+[update.modrinth]
+mod-id = "sVgW22C3"
+version = "xCWvoDQ7"

@@ -1,0 +1,13 @@
+name = "fabric 26.2 -- 1.0.2"
+filename = "not_interested--1.0.2--fabric--26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j7Ux0G0U/versions/hgaU2q8o/not_interested--1.0.2--fabric--26.2.jar"
+hash-format = "sha1"
+hash = "56f6933220688cbd879f0e1ac6393e00f07a2168"
+
+[update]
+[update.modrinth]
+mod-id = "j7Ux0G0U"
+version = "hgaU2q8o"

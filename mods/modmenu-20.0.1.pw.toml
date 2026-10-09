@@ -1,0 +1,13 @@
+name = "v20.0.1 for 26.2"
+filename = "modmenu-20.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar"
+hash-format = "sha1"
+hash = "8562dee49eae1a6bdd14b026be1b300aedb5ce0f"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "njXb639R"

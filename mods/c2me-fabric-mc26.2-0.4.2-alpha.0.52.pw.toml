@@ -1,0 +1,13 @@
+name = "0.4.2-alpha.0.52 devbuild for 26.2"
+filename = "c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/LmKTn6Yc/c2me-fabric-mc26.2-0.4.2-alpha.0.52.jar"
+hash-format = "sha1"
+hash = "994dcf809cbbf075a33b3f28c71331c845b415a2"
+
+[update]
+[update.modrinth]
+mod-id = "VSNURh3q"
+version = "LmKTn6Yc"

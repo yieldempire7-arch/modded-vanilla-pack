@@ -1,0 +1,13 @@
+name = "unlimited villager trades patch n°1 for minecraft 26.2"
+filename = "unlimited-villager-trades-26.2-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7PRyCGkJ/versions/UuwFknGN/unlimited-villager-trades-26.2-1.jar"
+hash-format = "sha1"
+hash = "1cde8f08ffe43b84e1f84cbc2fc7c7b52100b1cc"
+
+[update]
+[update.modrinth]
+mod-id = "7PRyCGkJ"
+version = "UuwFknGN"

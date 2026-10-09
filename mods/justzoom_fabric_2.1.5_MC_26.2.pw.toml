@@ -1,0 +1,13 @@
+name = "[Fabric] v2.1.5 MC 26.2"
+filename = "justzoom_fabric_2.1.5_MC_26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAiqcykM/versions/SpyQGrVj/justzoom_fabric_2.1.5_MC_26.2.jar"
+hash-format = "sha1"
+hash = "5ae46b35ab6e063171d5af6b59ea07cc6442010d"
+
+[update]
+[update.modrinth]
+mod-id = "iAiqcykM"
+version = "SpyQGrVj"

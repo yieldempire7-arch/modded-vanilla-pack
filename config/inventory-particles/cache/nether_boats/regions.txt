@@ -1,0 +1,12 @@
+nether_boats:crimson_boat	inventory_particles:crimson_boat/drip/liquid_drip_0	0	0	8	8
+nether_boats:crimson_boat	inventory_particles:crimson_boat/drip/liquid_drip_1	8	0	8	8
+nether_boats:crimson_boat	inventory_particles:crimson_boat/drip/liquid_drip_2	16	0	8	8
+nether_boats:crimson_chest_boat	inventory_particles:crimson_chest_boat/drip/liquid_drip_0	24	0	8	8
+nether_boats:crimson_chest_boat	inventory_particles:crimson_chest_boat/drip/liquid_drip_1	32	0	8	8
+nether_boats:crimson_chest_boat	inventory_particles:crimson_chest_boat/drip/liquid_drip_2	40	0	8	8
+nether_boats:warped_boat	inventory_particles:warped_boat/drip/liquid_drip_0	48	0	8	8
+nether_boats:warped_boat	inventory_particles:warped_boat/drip/liquid_drip_1	56	0	8	8
+nether_boats:warped_boat	inventory_particles:warped_boat/drip/liquid_drip_2	64	0	8	8
+nether_boats:warped_chest_boat	inventory_particles:warped_chest_boat/drip/liquid_drip_0	72	0	8	8
+nether_boats:warped_chest_boat	inventory_particles:warped_chest_boat/drip/liquid_drip_1	80	0	8	8
+nether_boats:warped_chest_boat	inventory_particles:warped_chest_boat/drip/liquid_drip_2	88	0	8	8

@@ -1,0 +1,13 @@
+name = "Colored Nether Portals 1.1 - 26.2"
+filename = "colored_nether_portals-fabric-26.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LY2PqmDY/versions/PBIgQW2O/colored_nether_portals-fabric-26.2-1.1.jar"
+hash-format = "sha1"
+hash = "f04f28f8d396fa06705b42c85cc310aee7922936"
+
+[update]
+[update.modrinth]
+mod-id = "LY2PqmDY"
+version = "PBIgQW2O"

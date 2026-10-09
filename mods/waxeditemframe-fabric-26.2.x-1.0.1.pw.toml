@@ -1,0 +1,13 @@
+name = "[26.2.x Fabric] Waxed Item Frame 1.0.1"
+filename = "waxeditemframe-fabric-26.2.x-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/engAoM9N/versions/bqy1YFwf/waxeditemframe-fabric-26.2.x-1.0.1.jar"
+hash-format = "sha1"
+hash = "f3058e2a217fd0f0e82dc17b3a42d03c172015b8"
+
+[update]
+[update.modrinth]
+mod-id = "engAoM9N"
+version = "bqy1YFwf"

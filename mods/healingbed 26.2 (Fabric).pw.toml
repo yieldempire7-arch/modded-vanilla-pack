@@ -1,0 +1,13 @@
+name = "HealingBed 26.2"
+filename = "healingbed 26.2 (Fabric).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kPukywy/versions/N2pld2GD/healingbed%2026.2%20%28Fabric%29.jar"
+hash-format = "sha1"
+hash = "d989da86a6c9aabeb381c8f1ba7abd0dacfeff9d"
+
+[update]
+[update.modrinth]
+mod-id = "2kPukywy"
+version = "N2pld2GD"

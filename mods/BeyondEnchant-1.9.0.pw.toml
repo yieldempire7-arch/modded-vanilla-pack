@@ -1,0 +1,13 @@
+name = "v1.9.0 (Mod)"
+filename = "BeyondEnchant-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t2pMCVgG/versions/PHTdyLwH/BeyondEnchant-1.9.0.jar"
+hash-format = "sha1"
+hash = "fa5eeb68173e244da9b372dcebe7a8f8b188e987"
+
+[update]
+[update.modrinth]
+mod-id = "t2pMCVgG"
+version = "PHTdyLwH"

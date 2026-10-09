@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2] More Babies 3.1.0"
+filename = "more-babies-26.2+3.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZK4bBM3B/versions/Wdvm7mJ2/more-babies-26.2%2B3.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "1b0f865d3552e9e3ac20b7464d9cd0d4c7e808da"
+
+[update]
+[update.modrinth]
+mod-id = "ZK4bBM3B"
+version = "Wdvm7mJ2"

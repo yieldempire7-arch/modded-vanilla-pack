@@ -1,0 +1,13 @@
+name = "1.0.1"
+filename = "EasySpawnEggs-26.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2vRVBLI/versions/CAJpwlmu/EasySpawnEggs-26.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "788f366e4b752f6e88adc32b01d385a16e2241b1"
+
+[update]
+[update.modrinth]
+mod-id = "u2vRVBLI"
+version = "CAJpwlmu"

@@ -1,0 +1,26 @@
+type = user_variables
+
+variable {
+  name = reimagined_intro_height
+  value = 288
+  reset_on_launch = true
+}
+
+variable {
+  name = reimagined_intro
+  value = 1
+  reset_on_launch = true
+}
+
+variable {
+  name = reimagined_intro_width
+  value = 512
+  reset_on_launch = true
+}
+
+variable {
+  name = reimagined_intro_audio
+  value = 0
+  reset_on_launch = true
+}
+

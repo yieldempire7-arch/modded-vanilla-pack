@@ -1,0 +1,13 @@
+name = "[Fabric 26.2.X] 26.2.11"
+filename = "Jade-mc26.2-Fabric-26.2.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/ue8CO97w/Jade-mc26.2-Fabric-26.2.11.jar"
+hash-format = "sha1"
+hash = "101668371882c3413531025373f5d91b63e26dd0"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "ue8CO97w"

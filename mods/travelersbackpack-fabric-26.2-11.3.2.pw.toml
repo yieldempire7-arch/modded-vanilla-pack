@@ -1,0 +1,13 @@
+name = "travelersbackpack-fabric-26.2-11.3.2"
+filename = "travelersbackpack-fabric-26.2-11.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/jp51VM8M/travelersbackpack-fabric-26.2-11.3.2.jar"
+hash-format = "sha1"
+hash = "835f412743f0dd72459abbaa38a96acb5695c5b1"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "jp51VM8M"

@@ -1,0 +1,13 @@
+name = "[Fabric] v1.11.1 MC 26.2"
+filename = "konkrete_fabric_1.11.1_MC_26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/Ra1AWDOa/konkrete_fabric_1.11.1_MC_26.2.jar"
+hash-format = "sha1"
+hash = "5f7e89dc14016ae63a504780a1d2c2f50d1c0c7e"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "Ra1AWDOa"

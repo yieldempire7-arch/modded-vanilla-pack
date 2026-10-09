@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "BetterTridents-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/rXW0xJZF/BetterTridents-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "c7f51f939fe0c1fe1cbc3109ce4ad61c493b7824"
+
+[update]
+[update.modrinth]
+mod-id = "KNUSlHiU"
+version = "rXW0xJZF"

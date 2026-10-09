@@ -1,0 +1,13 @@
+name = "SuperEnchants 1.14"
+filename = "SuperEnchants-1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpYz9U98/versions/UyvoJpJB/SuperEnchants-1.14.jar"
+hash-format = "sha1"
+hash = "d8713ba4dc4b3f73cf14aaec16c28565700897c0"
+
+[update]
+[update.modrinth]
+mod-id = "tpYz9U98"
+version = "UyvoJpJB"

@@ -1,0 +1,13 @@
+name = "cushionbackport-26.2-Fabric-1.0.5.jar"
+filename = "cushionbackport-26.2-Fabric-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DBGOO7gw/versions/rbaoazxF/cushionbackport-26.2-Fabric-1.0.5.jar"
+hash-format = "sha1"
+hash = "6c35f5c95b82917fb717ae416cb7f77e1c78a171"
+
+[update]
+[update.modrinth]
+mod-id = "DBGOO7gw"
+version = "rbaoazxF"

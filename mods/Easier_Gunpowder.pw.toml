@@ -1,0 +1,13 @@
+name = "Modloaders"
+filename = "Easier_Gunpowder.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SJPVBx6Y/versions/uUzgEXsy/Easier_Gunpowder.jar"
+hash-format = "sha1"
+hash = "d2688ac961844b23e85601987f9671894f0767a6"
+
+[update]
+[update.modrinth]
+mod-id = "SJPVBx6Y"
+version = "uUzgEXsy"

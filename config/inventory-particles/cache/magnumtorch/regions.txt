@@ -1,0 +1,15 @@
+magnumtorch:amethyst_magnum_torch	inventory_particles:amethyst_magnum_torch/glint/glint0_0	0	0	8	8
+magnumtorch:amethyst_magnum_torch	inventory_particles:amethyst_magnum_torch/glint/glint0_1	8	0	8	8
+magnumtorch:amethyst_magnum_torch	inventory_particles:amethyst_magnum_torch/glint/glint0_2	16	0	8	8
+magnumtorch:amethyst_magnum_torch	inventory_particles:amethyst_magnum_torch/glint/glint0_3	24	0	8	8
+magnumtorch:amethyst_magnum_torch	inventory_particles:amethyst_magnum_torch/glint/glint0_4	32	0	8	8
+magnumtorch:diamond_magnum_torch	inventory_particles:diamond_magnum_torch/glint/glint0_0	40	0	8	8
+magnumtorch:diamond_magnum_torch	inventory_particles:diamond_magnum_torch/glint/glint0_1	48	0	8	8
+magnumtorch:diamond_magnum_torch	inventory_particles:diamond_magnum_torch/glint/glint0_2	56	0	8	8
+magnumtorch:diamond_magnum_torch	inventory_particles:diamond_magnum_torch/glint/glint0_3	64	0	8	8
+magnumtorch:diamond_magnum_torch	inventory_particles:diamond_magnum_torch/glint/glint0_4	72	0	8	8
+magnumtorch:emerald_magnum_torch	inventory_particles:emerald_magnum_torch/glint/glint0_0	80	0	8	8
+magnumtorch:emerald_magnum_torch	inventory_particles:emerald_magnum_torch/glint/glint0_1	88	0	8	8
+magnumtorch:emerald_magnum_torch	inventory_particles:emerald_magnum_torch/glint/glint0_2	96	0	8	8
+magnumtorch:emerald_magnum_torch	inventory_particles:emerald_magnum_torch/glint/glint0_3	104	0	8	8
+magnumtorch:emerald_magnum_torch	inventory_particles:emerald_magnum_torch/glint/glint0_4	112	0	8	8

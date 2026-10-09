@@ -1,0 +1,13 @@
+name = "[Fabric/Forge/Neo] 26.2.0-1.6"
+filename = "overworldpiglins-26.2.0-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jKFstkn1/versions/Wez9F4Fu/overworldpiglins-26.2.0-1.6.jar"
+hash-format = "sha1"
+hash = "5aecf00c2d64fa29d225fe0d32facf2b8212d274"
+
+[update]
+[update.modrinth]
+mod-id = "jKFstkn1"
+version = "Wez9F4Fu"

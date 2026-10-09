@@ -1,0 +1,13 @@
+name = "Stacked Blocks 26.06.24 - 26.2"
+filename = "stackedblocks-26.06.24-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYrNpKJN/versions/tvCpo3KM/stackedblocks-26.06.24-26.2-fabric.jar"
+hash-format = "sha1"
+hash = "78a2dc9f5c0073b0485c7b4a916de1d3d9dd048c"
+
+[update]
+[update.modrinth]
+mod-id = "UYrNpKJN"
+version = "tvCpo3KM"

@@ -1,0 +1,13 @@
+name = "BuildPaste for Fabric 26.2 v 3.0.2"
+filename = "BuildPaste_Fabric-26.2v3.0.2-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kNC5Mrh/versions/XsnVihQ8/BuildPaste_Fabric-26.2v3.0.2-3.0.2.jar"
+hash-format = "sha1"
+hash = "d51b6f36aa4394d664065c415248abd0a3a4d4d5"
+
+[update]
+[update.modrinth]
+mod-id = "9kNC5Mrh"
+version = "XsnVihQ8"

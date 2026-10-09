@@ -1,0 +1,13 @@
+name = "Bookshelf-fabric-26.2.0.4"
+filename = "Bookshelf-fabric-MC26.2-26.2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/LCtizH5g/Bookshelf-fabric-MC26.2-26.2.0.4.jar"
+hash-format = "sha1"
+hash = "9e2094064da3653779fe29540e4d0581c9e70f2c"
+
+[update]
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "LCtizH5g"

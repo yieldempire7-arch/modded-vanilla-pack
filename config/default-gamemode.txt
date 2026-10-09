@@ -1,0 +1,6 @@
+# Choose your default gamemode and difficulty for new worlds.
+# Options: survival, creative, hardcore, spectator
+gamemode=hardcore
+
+# Options: peaceful, easy, normal, hard
+difficulty=normal

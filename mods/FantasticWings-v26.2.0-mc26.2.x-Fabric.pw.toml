@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "FantasticWings-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGEcTqwK/versions/xNHD3I9W/FantasticWings-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "91a404bb2efe2122c7c6111140908b150dc07cc4"
+
+[update]
+[update.modrinth]
+mod-id = "iGEcTqwK"
+version = "xNHD3I9W"

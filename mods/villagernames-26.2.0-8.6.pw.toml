@@ -1,0 +1,13 @@
+name = "[Fabric/Forge/Neo] 26.2.0-8.6"
+filename = "villagernames-26.2.0-8.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/D78qWxUx/villagernames-26.2.0-8.6.jar"
+hash-format = "sha1"
+hash = "af645e658675d4e29229ff38ff9e3d14845b03e7"
+
+[update]
+[update.modrinth]
+mod-id = "gqRXDo8B"
+version = "D78qWxUx"

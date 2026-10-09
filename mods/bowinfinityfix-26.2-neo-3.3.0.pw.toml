@@ -1,0 +1,13 @@
+name = "Bow Infinity Fix 3.3.0 for NeoForge"
+filename = "bowinfinityfix-26.2-neo-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFENfScW/versions/gOyGsXL3/bowinfinityfix-26.2-neo-3.3.0.jar"
+hash-format = "sha1"
+hash = "a18b7a2ea6d99e838f88355faa865f11a9f49b68"
+
+[update]
+[update.modrinth]
+mod-id = "BFENfScW"
+version = "gOyGsXL3"

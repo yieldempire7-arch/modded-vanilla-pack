@@ -1,0 +1,13 @@
+name = "Axolotl Bucket Fix 1.1.12"
+filename = "axolotl-item-fix-1.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UyUmjIeI/versions/MOeQHM38/axolotl-item-fix-1.1.12.jar"
+hash-format = "sha1"
+hash = "8bb3ebbb33581c1f548661284001171e8efc424b"
+
+[update]
+[update.modrinth]
+mod-id = "UyUmjIeI"
+version = "MOeQHM38"

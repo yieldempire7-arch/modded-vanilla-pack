@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.3"
+filename = "EasyAnvils-v26.2.3-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/LXFiKoIu/EasyAnvils-v26.2.3-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "6bd859cd12d3db25bdb9bb1633efec057f348d9b"
+
+[update]
+[update.modrinth]
+mod-id = "OZBR5JT5"
+version = "LXFiKoIu"

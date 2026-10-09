@@ -1,0 +1,13 @@
+name = "More Chests Variants 1.5.14 + 26.1.1 Fabric"
+filename = "more-chest-variants-1.5.14+26.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HKKqmr2p/versions/NzCzRxh1/more-chest-variants-1.5.14%2B26.1.1-fabric.jar"
+hash-format = "sha1"
+hash = "204faa933b02bb5a0f4a9b34253289acaf5baaf0"
+
+[update]
+[update.modrinth]
+mod-id = "HKKqmr2p"
+version = "NzCzRxh1"

@@ -1,0 +1,13 @@
+name = "[Fabric 26.2] v5.4.0+26.2"
+filename = "shulkerboxtooltip-fabric-5.4.0+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/IHUNStdu/shulkerboxtooltip-fabric-5.4.0%2B26.2.jar"
+hash-format = "sha1"
+hash = "e67f1fb26f5040118631ec900ffd0761de5282ec"
+
+[update]
+[update.modrinth]
+mod-id = "2M01OLQq"
+version = "IHUNStdu"

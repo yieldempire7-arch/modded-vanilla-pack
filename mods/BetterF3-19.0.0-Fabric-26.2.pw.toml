@@ -1,0 +1,13 @@
+name = "BetterF3 Fabric v19.0.0 (26.2)"
+filename = "BetterF3-19.0.0-Fabric-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/6zNdg01Z/BetterF3-19.0.0-Fabric-26.2.jar"
+hash-format = "sha1"
+hash = "f3e0c3dc93a2c5fba86f8796bd127076df6287b4"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "6zNdg01Z"

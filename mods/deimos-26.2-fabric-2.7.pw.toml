@@ -1,0 +1,13 @@
+name = "deimos-26.2-fabric-2.7"
+filename = "deimos-26.2-fabric-2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/zRp7vgbN/deimos-26.2-fabric-2.7.jar"
+hash-format = "sha1"
+hash = "bc521ee84e0e0beb733bc78348b8a5a3332ec627"
+
+[update]
+[update.modrinth]
+mod-id = "WQaxNzFg"
+version = "zRp7vgbN"

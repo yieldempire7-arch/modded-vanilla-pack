@@ -1,0 +1,13 @@
+name = "5.2.15+mc26.2"
+filename = "bobby-5.2.15+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/KLiFVFju/bobby-5.2.15%2Bmc26.2.jar"
+hash-format = "sha1"
+hash = "7acb26634632894b95ef09c06503c7cc8f04b90b"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "KLiFVFju"

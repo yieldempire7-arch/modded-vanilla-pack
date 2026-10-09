@@ -1,0 +1,13 @@
+name = "[Fabric] v3.1.5 MC 26.2"
+filename = "drippyloadingscreen_fabric_3.1.5_MC_26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/kv882MmK/drippyloadingscreen_fabric_3.1.5_MC_26.2.jar"
+hash-format = "sha1"
+hash = "041306eb119a4c07107eebea9a82b3b33d875685"
+
+[update]
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "kv882MmK"

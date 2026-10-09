@@ -1,0 +1,13 @@
+name = "Defaulted 26.1 1.3.8 Fabric"
+filename = "defaulted-1.3.8.release-26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/Hxl3cE0M/defaulted-1.3.8.release-26.1.2-fabric.jar"
+hash-format = "sha1"
+hash = "c7961b6e1a0120555134d9229ccf71046ce35ce4"
+
+[update]
+[update.modrinth]
+mod-id = "LxgPJAAy"
+version = "Hxl3cE0M"

@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.1"
+filename = "MobLassos-v26.2.1-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftOBbnu8/versions/I33HI2mn/MobLassos-v26.2.1-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "ca4824a740685382fd70e89249110fafc977fc40"
+
+[update]
+[update.modrinth]
+mod-id = "ftOBbnu8"
+version = "I33HI2mn"

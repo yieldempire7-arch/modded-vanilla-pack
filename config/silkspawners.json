@@ -1,0 +1,6 @@
+{
+  "enable-spawner": true,
+  "enable-trial-spawner": true,
+  "require-pickaxe": true,
+  "require-silk-touch": true
+}

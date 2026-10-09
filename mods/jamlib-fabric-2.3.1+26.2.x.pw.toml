@@ -1,0 +1,13 @@
+name = "V2.3.1+26.2.x (Fabric 26.2)"
+filename = "jamlib-fabric-2.3.1+26.2.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/4KQpfS7o/jamlib-fabric-2.3.1%2B26.2.x.jar"
+hash-format = "sha1"
+hash = "d88f3a10c16e4b428db7933c335cf0c47e609fbd"
+
+[update]
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "4KQpfS7o"

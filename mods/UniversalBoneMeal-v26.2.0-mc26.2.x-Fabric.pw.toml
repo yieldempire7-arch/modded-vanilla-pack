@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "UniversalBoneMeal-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/66VIiT1y/versions/DBr4XW76/UniversalBoneMeal-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "09112030820b853e07c05f40e40a987b7d3297ca"
+
+[update]
+[update.modrinth]
+mod-id = "66VIiT1y"
+version = "DBr4XW76"

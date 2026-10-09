@@ -1,0 +1,134 @@
+#The percentage each level of the holding enchantment will increase a lasso's holding time by.
+#Default Value: 0.2
+# Default: 0.2
+# Range: 0.0 ~ 100.0
+holding_multiplier = 0.2
+
+[aquatic_lasso]
+	#Time in seconds for which a lasso is able to hold a mob.
+	#Default Value: 240
+	# Default: 240
+	# Range: 0 ~ 3600
+	holding_time = 240
+	#Is the lasso able to hold mobs forever without any time limitation.
+	#Default Value: false
+	hold_indefinitely = false
+
+	#Categories for mobs which can be captured by a lasso.
+	#This behavior can be further customized using entity type tags.
+	[aquatic_lasso.mobs]
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: false
+		creature = false
+		#Squids, fishes, axolotls, etc.
+		#Default Value: true
+		aquatic = true
+
+[diamond_lasso]
+	#Time in seconds for which a lasso is able to hold a mob.
+	#Default Value: 120
+	# Default: 120
+	# Range: 0 ~ 3600
+	holding_time = 120
+	#Is the lasso able to hold mobs forever without any time limitation.
+	#Default Value: true
+	hold_indefinitely = true
+
+	#Categories for mobs which can be captured by a lasso.
+	#This behavior can be further customized using entity type tags.
+	[diamond_lasso.mobs]
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: true
+		creature = true
+		#Squids, fishes, axolotls, etc.
+		#Default Value: true
+		aquatic = true
+
+[hostile_lasso]
+	#Percentage of its total health or less a hostile mob must have in order for the lasso to be able to pick it up.
+	#Default Value: 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	hostile_mob_health = 0.5
+	#Time in seconds for which a lasso is able to hold a mob.
+	#Default Value: 180
+	# Default: 180
+	# Range: 0 ~ 3600
+	holding_time = 180
+	#Is the lasso able to hold mobs forever without any time limitation.
+	#Default Value: false
+	hold_indefinitely = false
+	#Time interval in seconds after which the player is hurt by half a heart for carrying any hostile lasso containing a monster.
+	#Set to -1 to disable.
+	#Default Value: 5
+	# Default: 5
+	# Range: -1 ~ 3600
+	hostile_damage_rate = 5
+
+	#Categories for mobs which can be captured by a lasso.
+	#This behavior can be further customized using entity type tags.
+	[hostile_lasso.mobs]
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: true
+		monster = true
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: false
+		creature = false
+		#Squids, fishes, axolotls, etc.
+		#Default Value: false
+		aquatic = false
+
+[golden_lasso]
+	#Time in seconds for which a lasso is able to hold a mob.
+	#Default Value: 120
+	# Default: 120
+	# Range: 0 ~ 3600
+	holding_time = 120
+	#Is the lasso able to hold mobs forever without any time limitation.
+	#Default Value: false
+	hold_indefinitely = false
+
+	#Categories for mobs which can be captured by a lasso.
+	#This behavior can be further customized using entity type tags.
+	[golden_lasso.mobs]
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: true
+		creature = true
+		#Squids, fishes, axolotls, etc.
+		#Default Value: false
+		aquatic = false
+
+[emerald_lasso]
+	#Time in seconds for which a lasso is able to hold a mob.
+	#Default Value: 300
+	# Default: 300
+	# Range: 0 ~ 3600
+	holding_time = 300
+	#Is the lasso able to hold mobs forever without any time limitation.
+	#Default Value: false
+	hold_indefinitely = false
+	#Capturing a villager in an emerald lasso requires it to accept a contract.
+	#Default Value: true
+	villagers_require_contract = true
+
+	#Categories for mobs which can be captured by a lasso.
+	#This behavior can be further customized using entity type tags.
+	[emerald_lasso.mobs]
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: false
+		creature = false
+		#Squids, fishes, axolotls, etc.
+		#Default Value: false
+		aquatic = false

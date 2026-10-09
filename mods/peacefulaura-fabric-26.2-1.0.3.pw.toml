@@ -1,0 +1,13 @@
+name = "Peaceful Aura 1.0.3"
+filename = "peacefulaura-fabric-26.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xMHoZusx/versions/Fvlu3DQ5/peacefulaura-fabric-26.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "39dcb280caf239f69dde1b4aac36df5a27ace7e0"
+
+[update]
+[update.modrinth]
+mod-id = "xMHoZusx"
+version = "Fvlu3DQ5"

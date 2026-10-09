@@ -1,0 +1,13 @@
+name = "PaintingsGUI 1.1"
+filename = "PaintingsGUI-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NIWH14Fu/versions/1HnsT0m5/PaintingsGUI-1.1.jar"
+hash-format = "sha1"
+hash = "c153bba7a33e9ff3a7083f822c01a6b0b947364a"
+
+[update]
+[update.modrinth]
+mod-id = "NIWH14Fu"
+version = "1HnsT0m5"

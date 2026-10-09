@@ -1,0 +1,12 @@
+{
+  "filters": [
+    {
+      "enabled": true,
+      "minCount": 1,
+      "enchantmentId": "minecraft:fortune",
+      "enchantmentLevel": 3,
+      "maxPrice": 64
+    }
+  ],
+  "matchAny": true
+}

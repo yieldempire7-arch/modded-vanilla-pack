@@ -1,0 +1,13 @@
+name = "[FABRIC] [26.2.x] v26.2.0"
+filename = "CutThrough-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/WhJ0S6SM/CutThrough-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha1"
+hash = "fa4ca6a3945d23bd1bb98dde10db5e9b002974df"
+
+[update]
+[update.modrinth]
+mod-id = "Dk6su9JN"
+version = "WhJ0S6SM"

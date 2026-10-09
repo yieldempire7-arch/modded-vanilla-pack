@@ -1,0 +1,13 @@
+name = "Horse Breeding Fix 1.1.0"
+filename = "horse-breeding-fix-fabric-26.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QFMVWw4/versions/4Uish1cW/horse-breeding-fix-fabric-26.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "a7b2752bc907fccd2eea66fe2f3530d7cf6e6b29"
+
+[update]
+[update.modrinth]
+mod-id = "4QFMVWw4"
+version = "4Uish1cW"

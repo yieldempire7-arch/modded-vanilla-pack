@@ -1,0 +1,13 @@
+name = "[26.1+] 2.1.1"
+filename = "return-my-gold-farm-fabric-mc26.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kuRpWzg6/versions/AGwgY1Vh/return-my-gold-farm-fabric-mc26.1-2.1.1.jar"
+hash-format = "sha1"
+hash = "f612539526e802cd0ed7988ddd7697605bca2457"
+
+[update]
+[update.modrinth]
+mod-id = "kuRpWzg6"
+version = "AGwgY1Vh"

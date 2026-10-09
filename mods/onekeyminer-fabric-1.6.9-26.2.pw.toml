@@ -1,0 +1,13 @@
+name = "OneKeyMiner 1.6.9"
+filename = "onekeyminer-fabric-1.6.9-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LZu4H9cp/versions/T7b3rHLE/onekeyminer-fabric-1.6.9-26.2.jar"
+hash-format = "sha1"
+hash = "755da4923d2baf1d28a53fb59609456218d5b1e3"
+
+[update]
+[update.modrinth]
+mod-id = "LZu4H9cp"
+version = "T7b3rHLE"

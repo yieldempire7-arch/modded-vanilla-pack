@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"travelersbackpack:standard","components":"{\"travelersbackpack:starter_upgrades\":[{item:{id:\"travelersbackpack:tanks_upgrade\"},slot:0}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:backpack_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:standard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:iron","components":"{\"travelersbackpack:starter_upgrades\":[{item:{id:\"travelersbackpack:tanks_upgrade\"},slot:0}]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blast_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

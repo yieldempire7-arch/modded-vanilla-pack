@@ -1,0 +1,13 @@
+name = "New Slabs, Stairs & Walls 2.0.22 (Fabric 26.2)"
+filename = "NewSlabsStairsWalls-fabric-26.2-2.0.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cs2FJDAu/versions/xzA05P2a/NewSlabsStairs%26Walls-fabric-26.2-2.0.22.jar"
+hash-format = "sha1"
+hash = "5cb8015eb6f8f5e89e247dcfb7e901fdde79c403"
+
+[update]
+[update.modrinth]
+mod-id = "cs2FJDAu"
+version = "xzA05P2a"

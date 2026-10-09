@@ -1,0 +1,13 @@
+name = "[Fabric/Forge/Neo] 26.2.0-3.6"
+filename = "shulkerdropstwo-26.2.0-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UjXIyw47/versions/mzY8Qbcg/shulkerdropstwo-26.2.0-3.6.jar"
+hash-format = "sha1"
+hash = "b3bdbde0088ce0f1c8f25b1c46ef2ba3d168dc02"
+
+[update]
+[update.modrinth]
+mod-id = "UjXIyw47"
+version = "mzY8Qbcg"

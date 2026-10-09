@@ -1,0 +1,13 @@
+name = "[Fabric 26.2] v26.2.155"
+filename = "cloth-config-26.2.155.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+hash-format = "sha1"
+hash = "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "Nv3xnWXd"

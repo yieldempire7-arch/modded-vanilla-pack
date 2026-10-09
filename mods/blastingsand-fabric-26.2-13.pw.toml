@@ -1,0 +1,13 @@
+name = "blastingsand-fabric-26.2-13"
+filename = "blastingsand-fabric-26.2-13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GhemPlCv/versions/y6Fqlr6R/blastingsand-fabric-26.2-13.jar"
+hash-format = "sha1"
+hash = "ef3c1fee60f93011195379d343fa3f7f250bae0f"
+
+[update]
+[update.modrinth]
+mod-id = "GhemPlCv"
+version = "y6Fqlr6R"
