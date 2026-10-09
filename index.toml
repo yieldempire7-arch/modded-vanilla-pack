@@ -382,7 +382,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fancymenu/assets/audio.wav"
-hash = "363dc1bcd40adcdddbb87b82af2456c4f3278e7e0545e4af2893af01ad517bc4"
+hash = "82bb520b4667240977a65e0a170b43e8219b9227227f79e3cc02ad5328bb478a"
 
 [[files]]
 file = "config/fancymenu/assets/intro.mp4"
@@ -1358,19 +1358,19 @@ hash = "aeb5f8cf099321e6bba5e4c3d13aaf0d7e25ea5c8904be2b12b63a892271e956"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "57cc4ab5a720622df91df565a1b42845dec2b941fd1c4dee16bbeb73c356953a"
+hash = "97a8a01b2b68406b8d3541bd93dc63707f6e861a7e29a4ef0c4067f5ac59d5a4"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
-hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "8bb0722d480964720a1500654493b5be225c74f7ff3f94e8658e39db5ab098ad"
+hash = "5de3969a31149d8974d96bfebb8a1c160d6d5e93fd54fed8e95f6d8ea48427c3"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
-hash = "e49dda19241474f0f3ffda04e37ecce175c473083f5fb2301b9c8dd45d33aec3"
+hash = "2636e18fabeef53622ffae6127bdc7bfece1c21da6aad071735fbfe43563cfdb"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
