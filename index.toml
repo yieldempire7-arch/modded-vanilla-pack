@@ -2049,6 +2049,10 @@ file = "mods/RemoveNametaggedPeacefulDespawn.jar"
 hash = "216e1271e9a2b7a131dfe5d2e753af3f6993c728fdfab1df2fb234ecb8e19d42"
 
 [[files]]
+file = "mods/ResourcefulLib-5.0.4.jar"
+hash = "466028131622b7fc3dc1c5ae0315d85365aa312ae90bb836b48f1838e8580566"
+
+[[files]]
 file = "mods/Searchables-fabric-26.2-1.0.1.pw.toml"
 hash = "c3ab4b40b18cb5a5d49ff9ed89caa1bdc981cec45bc50574b53b57553d212818"
 metafile = true
@@ -2445,6 +2449,10 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric-26.2-0.13.26.jar"
 hash = "71a3790ae072073c93367722e94c3d91b8463ac35f576cb0d1ec9bf909faae4c"
+
+[[files]]
+file = "mods/friendsandfoes-fabric-5.0.2+mc26.2.jar"
+hash = "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7"
 
 [[files]]
 file = "mods/funny-death-messages-1.0.0.jar"
