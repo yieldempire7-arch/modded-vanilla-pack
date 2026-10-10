@@ -2792,6 +2792,11 @@ hash = "8eec28cd68b4332594700dd8e1046cf2df4ee277f46fe5652dc580a61f8a40f8"
 metafile = true
 
 [[files]]
+file = "mods/stoneforge-1.0.0.pw.toml"
+hash = "7ba99bbeb1c661eb043c6d324c073ca0a49c8a452c0d2da3e85094ec55704e2a"
+metafile = true
+
+[[files]]
 file = "mods/storagedelight-26.07.01-26.2-fabric.pw.toml"
 hash = "51bb5816c88ef0da8127b0b0ab7d4d61d59979afd9dd7e9d9def156cc1718495"
 metafile = true

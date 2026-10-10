@@ -1,0 +1,13 @@
+name = "Stoneforge 1.21.1 1.0"
+filename = "stoneforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGFVpgt6/versions/56IWKAcN/stoneforge-1.0.0.jar"
+hash-format = "sha1"
+hash = "c2b5a43492de91dc9aeca83d9e24104b55c17bb7"
+
+[update]
+[update.modrinth]
+mod-id = "eGFVpgt6"
+version = "56IWKAcN"
