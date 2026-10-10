@@ -2170,6 +2170,10 @@ hash = "f5b9ee388823e0735fb649c26575388d5f4d844bbaa3e183d8e766e763333b1e"
 metafile = true
 
 [[files]]
+file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
+hash = "ec78ad00d274fe895bf365dafa8567b11f2c11898f626723c2e19068968a3707"
+
+[[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
 hash = "e26d682502610de168a64117c5e61e0d55c7be460d018bf0e6fcf1eb8440692c"
 metafile = true
