@@ -414,11 +414,11 @@ hash = "d68e17e77ee66439c6fb9d92205af839d6293d9acf2eab320e5ebe6d0989b7f0"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_preload_layout.txt"
-hash = "80187bbfa806060fb2441e2478e7bf78d77d6b5ed80d56b636a052f553e468b2"
+hash = "420f7c147f24bcb22c5cefaa672ffe198439e6e93b8c304ea2cd64a9ae4aef3b"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_title_screen_layout.txt"
-hash = "269a719dff6325ae4a4b1f9491c9da41631cf11878362ec823380aa7ae000b65"
+hash = "4721cd276e042a54b09db849b7085308c08dcb51f94662c422c693858f49dd97"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"

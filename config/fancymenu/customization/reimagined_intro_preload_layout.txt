@@ -405,7 +405,7 @@ element {
   is_async = false
   tick_mode = normal
   ticker_element_executable_block_identifier = 28ac7dc3-7198-4937-90e7-3dbeb147b9ea-1786185613796
-  [executable_action_instance:52cd15a9-04ef-415e-9d13-3bd75c7c18c1-1786361190491][action_type:set_variable] = reimagined_intro_audio:1
+  [executable_action_instance:52cd15a9-04ef-415e-9d13-3bd75c7c18c1-1786361190491][action_type:set_variable] = reimagined_intro_audio:0
   [executable_action_instance:a6701260-1875-4107-8b4d-a59ad097a93c-1786185660572][action_type:opengui] = reimagined_intro
   [executable_block:8b9a44ad-f417-43ef-bb26-e827174e6ad8-1786185656697][type:if] = [executables:52cd15a9-04ef-415e-9d13-3bd75c7c18c1-1786361190491;a6701260-1875-4107-8b4d-a59ad097a93c-1786185660572;]
   [if_executable_block_body:8b9a44ad-f417-43ef-bb26-e827174e6ad8-1786185656697] = 8f370d82-645c-4fe6-9b2e-959f6dc198d8-1786185632413
