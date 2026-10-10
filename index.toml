@@ -2165,6 +2165,10 @@ hash = "4d9ec92970b9fb1e8cc12ad4e615f74061e9e74a85245d2d4972f9153bf97167"
 metafile = true
 
 [[files]]
+file = "mods/bettercoppergolem-FABRIC-2.5.0-26.2.jar"
+hash = "707b2c6c82bac3afff7f14c3ca17b87910fb85e1e658dc2a54ee61487ecfcc49"
+
+[[files]]
 file = "mods/bettergamemode-1.4.0.pw.toml"
 hash = "8c5094a857e6bf74e3a87eee67aacda8a55a8047ee0eb9e28b0fe9eacd4376b3"
 metafile = true
