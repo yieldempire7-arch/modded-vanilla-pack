@@ -2049,10 +2049,6 @@ file = "mods/RemoveNametaggedPeacefulDespawn.jar"
 hash = "216e1271e9a2b7a131dfe5d2e753af3f6993c728fdfab1df2fb234ecb8e19d42"
 
 [[files]]
-file = "mods/ResourcefulLib-5.0.4.jar"
-hash = "466028131622b7fc3dc1c5ae0315d85365aa312ae90bb836b48f1838e8580566"
-
-[[files]]
 file = "mods/Searchables-fabric-26.2-1.0.1.pw.toml"
 hash = "c3ab4b40b18cb5a5d49ff9ed89caa1bdc981cec45bc50574b53b57553d212818"
 metafile = true
@@ -2468,10 +2464,6 @@ metafile = true
 file = "mods/geckolib-fabric-26.2-5.5.5.pw.toml"
 hash = "64af275f3fe7739e7dbc25edb7c1f73bf6863092a8e4a06d29a43d0b5d3848a5"
 metafile = true
-
-[[files]]
-file = "mods/handcrafted-fabric-1.21.1-4.0.3.jar"
-hash = "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
 
 [[files]]
 file = "mods/healingbed 26.2 (Fabric).pw.toml"
