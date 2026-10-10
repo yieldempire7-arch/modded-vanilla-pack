@@ -1777,6 +1777,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "mods/Adorn-9.0.0+26.2-fabric.jar"
+hash = "fd1754b1600ba61bd9b63872206ec83904e44e09fc536885a261ffe404463e1f"
+
+[[files]]
 file = "mods/BetterAdvancements-Fabric-26.2-0.6.0.72.pw.toml"
 hash = "4bb393f9e235a66815398c19b72717f31c13c34cd23849b45e55105b2435e102"
 metafile = true
@@ -1848,6 +1852,10 @@ hash = "0ea7985fd9d813236489573a877be05a9db550ddbbfcd090dd90b04850b66410"
 [[files]]
 file = "mods/DiagonalWalls-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "ae801b98225a73b5e22dd69ea5901102baacb32b4a8839329ee7e838ba16a497"
+
+[[files]]
+file = "mods/DiagonalWindows-v26.2.0-mc26.2.x-Fabric.jar"
+hash = "75033be151db2a0ebecbe2a9a7c9bed1930bbeaee6229beb71f387a192987cfa"
 
 [[files]]
 file = "mods/DistantHorizons-3.3.3-26.2-fabric-neoforge.pw.toml"
@@ -2039,6 +2047,10 @@ metafile = true
 [[files]]
 file = "mods/RemoveNametaggedPeacefulDespawn.jar"
 hash = "216e1271e9a2b7a131dfe5d2e753af3f6993c728fdfab1df2fb234ecb8e19d42"
+
+[[files]]
+file = "mods/ResourcefulLib-5.0.4.jar"
+hash = "466028131622b7fc3dc1c5ae0315d85365aa312ae90bb836b48f1838e8580566"
 
 [[files]]
 file = "mods/Searchables-fabric-26.2-1.0.1.pw.toml"
@@ -2361,6 +2373,10 @@ hash = "e7a40711041ddbc74a7aca6e183e61b3daae73c7b7880884da487c96ee465d79"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation-1.21+1.9.72.jar"
+hash = "0290d5c286dc10bf5d402ed7a28f17af5a06973d6a69ae73c6dcaceae79e5456"
+
+[[files]]
 file = "mods/effective-restock_1.0.0_fabric_26.2.jar"
 hash = "dc3446d462da37b4cdacc46cce9db6167e7cc81aa748015ca52ede1d513bb910"
 
@@ -2452,6 +2468,10 @@ metafile = true
 file = "mods/geckolib-fabric-26.2-5.5.5.pw.toml"
 hash = "64af275f3fe7739e7dbc25edb7c1f73bf6863092a8e4a06d29a43d0b5d3848a5"
 metafile = true
+
+[[files]]
+file = "mods/handcrafted-fabric-1.21.1-4.0.3.jar"
+hash = "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
 
 [[files]]
 file = "mods/healingbed 26.2 (Fabric).pw.toml"
@@ -2905,6 +2925,10 @@ metafile = true
 file = "mods/visuality-0.7.14+26.2.pw.toml"
 hash = "32ac5cce6a7419e715128f7149701104894638237e0a3d4db13d5ae1daac5454"
 metafile = true
+
+[[files]]
+file = "mods/wakes-0.7.1+26.2.jar"
+hash = "116acf23f467aa847d4d78b7d2ba677e2680e3df8b72fd6867eb3463586b1063"
 
 [[files]]
 file = "mods/walllanterns-3.1.3.pw.toml"
