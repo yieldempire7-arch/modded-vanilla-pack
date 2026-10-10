@@ -382,7 +382,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fancymenu/assets/audio.wav"
-hash = "82bb520b4667240977a65e0a170b43e8219b9227227f79e3cc02ad5328bb478a"
+hash = "8b8fbafe8679076454429756fa72f11d5f442c87381cc6a4285451d826a9e629"
 
 [[files]]
 file = "config/fancymenu/assets/intro.mp4"
@@ -418,7 +418,7 @@ hash = "420f7c147f24bcb22c5cefaa672ffe198439e6e93b8c304ea2cd64a9ae4aef3b"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_title_screen_layout.txt"
-hash = "4721cd276e042a54b09db849b7085308c08dcb51f94662c422c693858f49dd97"
+hash = "c4036262b950c50482c194c87e93d1a28e8fb849715dd48c76a60d202cc61b90"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"

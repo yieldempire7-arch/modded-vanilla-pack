@@ -352,64 +352,6 @@ layout_action_executable_blocks {
   [executable_block:feace875-6618-478b-8e7b-891d41a54520-1786362249239][type:generic] = [executables:35233fed-3017-444d-aa70-1d26ea3adb86-1786362286593;]
 }
 
-element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/audio.wav
-  audio_instance_weight_0 = 1.0
-  play_mode = normal
-  looping = false
-  sound_source = voice
-  element_type = audio_v2
-  instance_identifier = 1df2be13-15a5-45c7-9cb8-3cacba5e2614-1786362323717
-  appearance_delay = no_delay
-  disappearance_delay = no_delay
-  fade_in_v2 = no_fading
-  fade_out = no_fading
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1172
-  auto_sizing_base_gui_scale = 4
-  sticky_anchor = false
-  anchor_point = bottom-right
-  x = -103
-  y = -104
-  width = 100
-  height = 100
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 8e190090-f184-4d94-91fc-63d3e83f32f6-1786362323717
-  [loading_requirement_container_meta:8e190090-f184-4d94-91fc-63d3e83f32f6-1786362323717] = [groups:][instances:2672be1f-0a14-45c5-b654-ce84924ceef4-1786362388450;]
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:2672be1f-0a14-45c5-b654-ce84924ceef4-1786362388450] = reimagined_intro_audio:1
-  enable_parallax = false
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  layer_hidden_in_editor = false
-  advanced_rotation_mode = false
-  advanced_vertical_tilt_mode = false
-  advanced_horizontal_tilt_mode = false
-  should_be_affected_by_decoration_overlays = false
-  in_editor_color = #5CA6EFFF
-  advanced_posx = -2147483648
-  advanced_posy = -2147483648
-  advanced_width = -2147483648
-  advanced_height = -2147483648
-  stretch_x = false
-  stretch_y = false
-  appearance_delay_seconds = 1.0
-  disappearance_delay_seconds = 1.0
-  fade_in_speed = 1.0
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  parallax_intensity_x = 0.5
-  parallax_intensity_y = 0.5
-  rotation_degrees = 0.0
-  advanced_rotation_degrees = 0.0
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_degrees = 0.0
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_degrees = 0.0
-  volume = 0.0
-}
 
 vanilla_button {
   button_element_executable_block_identifier = 349134d5-526c-49c8-8752-f371ebbf7ca7-1786171067503
