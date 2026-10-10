@@ -2411,7 +2411,7 @@ metafile = true
 
 [[files]]
 file = "mods/flint_block-1.0.0-fabric-26.2.jar"
-hash = "0e20156887bf8b14ec096e303223423818c6a51c5160d093b5e2aab7de940e23"
+hash = "477cb4d639f51b6fea7d570f491356dce64de6d335991ed249ef2ea43ab50093"
 
 [[files]]
 file = "mods/forgetful-sniffer-v1.2.2.pw.toml"
