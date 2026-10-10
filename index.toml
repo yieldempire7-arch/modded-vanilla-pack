@@ -1842,6 +1842,14 @@ hash = "b5eaa77e447c1c56f93900f86faed8f53270216a5fb6623d92096055abe1d6f7"
 metafile = true
 
 [[files]]
+file = "mods/DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar"
+hash = "0ea7985fd9d813236489573a877be05a9db550ddbbfcd090dd90b04850b66410"
+
+[[files]]
+file = "mods/DiagonalWalls-v26.2.0-mc26.2.x-Fabric.jar"
+hash = "ae801b98225a73b5e22dd69ea5901102baacb32b4a8839329ee7e838ba16a497"
+
+[[files]]
 file = "mods/DistantHorizons-3.3.3-26.2-fabric-neoforge.pw.toml"
 hash = "7e6c355f8aef29caf00bcb9a398ef498e09000aa275de0b277dcadaadb07ed02"
 metafile = true
@@ -2398,6 +2406,10 @@ metafile = true
 file = "mods/falldrop_backport-1.3.4-26.2-Fabric.pw.toml"
 hash = "23625f9195947c48a8b0aa91d45dcf99ff9952d025356bccc7a95df09dca92d7"
 metafile = true
+
+[[files]]
+file = "mods/fallingleaves-2.0.7+26.1.jar"
+hash = "db941c6c53a0353d8b7d07f1755315d8fe39d08a75cbd3b1516b258c130d0177"
 
 [[files]]
 file = "mods/fancymenu_fabric_3.9.12_MC_26.2.pw.toml"
