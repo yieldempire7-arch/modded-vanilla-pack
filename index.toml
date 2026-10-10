@@ -2410,6 +2410,10 @@ hash = "293eea6ae36195037e94505fe7fd550d48bd2ea3c08985638b7d7040fb959fab"
 metafile = true
 
 [[files]]
+file = "mods/flint_block-1.0.0-fabric-26.2.jar"
+hash = "0e20156887bf8b14ec096e303223423818c6a51c5160d093b5e2aab7de940e23"
+
+[[files]]
 file = "mods/forgetful-sniffer-v1.2.2.pw.toml"
 hash = "0f1dfa3d10c9351db0a609a9de4af586252135326d3c3831e64f1ac28b6a9564"
 metafile = true
