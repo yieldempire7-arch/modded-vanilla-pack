@@ -410,7 +410,7 @@ hash = "75a98c37543d29a795498acc0959a0321eab0d5c8329cd154eda703801504744"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_layout.txt"
-hash = "92bed7b0ae20147e64ce7c5f69d4fff07f75f425083f86a75ddf85f96f4413f3"
+hash = "d68e17e77ee66439c6fb9d92205af839d6293d9acf2eab320e5ebe6d0989b7f0"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_preload_layout.txt"

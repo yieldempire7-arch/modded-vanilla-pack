@@ -393,7 +393,7 @@ element {
   advanced_horizontal_tilt_degrees = 0.0
   source = [source:local]/config/fancymenu/assets/intro.mp4
   loop = false
-  volume = 1.0
+  volume = 0.0
   sound_source = master
   play_in_editor = true
 }
