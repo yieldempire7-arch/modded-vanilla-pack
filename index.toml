@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "9f9e2ae2ff67c82f2da16d63b8aad5beaeccc0d6ce83e05879c894967dbd5f16"
+hash = "c676a50da5b07dd71f821a333b87ae46593f0d34077df6da2c004296854c8556"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
