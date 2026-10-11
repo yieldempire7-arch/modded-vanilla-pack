@@ -2135,6 +2135,10 @@ hash = "6310168b611a5200ffa4db9a3c13365fb5817b2cb13a7b8fc5a76bee4f166943"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric-21.1.12.jar"
+hash = "7ca24d97dd704693190f39712941a52e65fa91514fbba23fc42285542c184579"
+
+[[files]]
 file = "mods/autofish-8.0.1-26.2-fabric.pw.toml"
 hash = "b963d50cd816e926ece674eb1836a3706945469c14a17b53b6c515a0d4b8f9e4"
 metafile = true
