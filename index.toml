@@ -2377,10 +2377,6 @@ hash = "e7a40711041ddbc74a7aca6e183e61b3daae73c7b7880884da487c96ee465d79"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-1.21+1.9.72.jar"
-hash = "0290d5c286dc10bf5d402ed7a28f17af5a06973d6a69ae73c6dcaceae79e5456"
-
-[[files]]
 file = "mods/effective-restock_1.0.0_fabric_26.2.jar"
 hash = "dc3446d462da37b4cdacc46cce9db6167e7cc81aa748015ca52ede1d513bb910"
 
