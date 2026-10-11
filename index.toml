@@ -2547,6 +2547,11 @@ hash = "5fff72a04633b7b935890cec61c5f5b29b9fa3c8872c5a8ae06f38af6a98e864"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "bf43e03d1d118edf1cc975179b98dc6eb99676826fef6decce5cdc9f01897ea5"
+metafile = true
+
+[[files]]
 file = "mods/lucky_fishing-1.0.1.jar"
 hash = "e792d84f40f1d773a26477894c66ba810f7cd6b6b4b25beacac322f7eb610f5a"
 
