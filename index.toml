@@ -2928,7 +2928,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-0.7.1+26.2.jar"
-hash = "116acf23f467aa847d4d78b7d2ba677e2680e3df8b72fd6867eb3463586b1063"
+hash = "b4fbcc73a9b29922b845fbb4ee062741c23fcb4f09b62e142bdd03ac263d6507"
 
 [[files]]
 file = "mods/walllanterns-3.1.3.pw.toml"
