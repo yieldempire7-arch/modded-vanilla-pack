@@ -2149,6 +2149,11 @@ hash = "40702b8eddc360b3055dc82f60b3a3534c4b8a6730afcf74ea0c1f6cbcdf58c2"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric-26.2-26.2.0.8.pw.toml"
 hash = "5113ac0f48925c33f3ad542add78853e85285eea6831402d0ea6767d98efa422"
 metafile = true
@@ -2371,6 +2376,11 @@ hash = "bb943a50bbb4e9b8a6cbe6cb4c418ef53cfcb1a53830942acefd2026482682a7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
+metafile = true
+
+[[files]]
 file = "mods/early-elytra-1.0.0.pw.toml"
 hash = "80994626f3781792fd7c46271d8cd4a164bcc395f6594e739a3143a13d7183bb"
 metafile = true
@@ -2532,6 +2542,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete_fabric_1.11.1_MC_26.2.pw.toml"
 hash = "fab4241cc623b23acf607f78e167a534b42378d86ca31850ac9c3df5de241635"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
 metafile = true
 
 [[files]]
