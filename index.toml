@@ -2436,9 +2436,8 @@ file = "mods/fallingleaves-2.0.7+26.1.jar"
 hash = "db941c6c53a0353d8b7d07f1755315d8fe39d08a75cbd3b1516b258c130d0177"
 
 [[files]]
-file = "mods/fancymenu_fabric_3.9.12_MC_26.2.pw.toml"
-hash = "fce3bf4800e81e8663a8e8f614c27f693fd1c7847182b06d3b1a8c8a00dde1ae"
-metafile = true
+file = "mods/fancymenu_fabric_3.9.12_MC_26.2.jar"
+hash = "b08e3a3c65197f8169fc7a7283c61804d831c72d9f9911f694300bddc7a6bd3a"
 
 [[files]]
 file = "mods/ferritecore-9.0.0-fabric.pw.toml"
