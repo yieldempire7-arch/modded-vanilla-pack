@@ -2125,6 +2125,11 @@ hash = "c5048e4674cdba72773140ad9b5147d68841591771d6580feef9f4a824827bfd"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "8edb4dbf85fabc27cd35943a1bbfeca23b05c1330d4c20a6fb37d491752e0929"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough-1.2.1+26.2.pw.toml"
 hash = "044f37e886e43e179f0e781cceb49b44dea1fdd6a9e0069796ed5f3a8bf97028"
 metafile = true
@@ -2325,6 +2330,11 @@ metafile = true
 [[files]]
 file = "mods/ctm-reborn-fabric-4.8.1.jar"
 hash = "f43a447658de8579384914ba0bc416649643c4656e6899df909527c102eb8760"
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "9365ff4ae36df65d3fb770b35e6da323fbd94abf6791e227ef2d84e5df9f46df"
+metafile = true
 
 [[files]]
 file = "mods/cushionbackport-26.2-Fabric-1.0.5.pw.toml"
@@ -2562,6 +2572,11 @@ metafile = true
 [[files]]
 file = "mods/lithium-fabric-0.25.3+mc26.2.pw.toml"
 hash = "5fff72a04633b7b935890cec61c5f5b29b9fa3c8872c5a8ae06f38af6a98e864"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "e9abe358f69fb8c3570ccec066673a5eff8bacdf000ad4ffc03e93bb5c368d2a"
 metafile = true
 
 [[files]]
