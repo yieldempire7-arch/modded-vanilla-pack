@@ -2136,6 +2136,11 @@ hash = "6310168b611a5200ffa4db9a3c13365fb5817b2cb13a7b8fc5a76bee4f166943"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1af9fca0d73abbe20bee2bfebfaf963f2ee0b66c6fc059234c3248250ef120ef"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric-21.1.12.jar"
 hash = "7ca24d97dd704693190f39712941a52e65fa91514fbba23fc42285542c184579"
 
@@ -2172,6 +2177,16 @@ metafile = true
 [[files]]
 file = "mods/beautify-fabric-2.0.0+26.2.pw.toml"
 hash = "4d9ec92970b9fb1e8cc12ad4e615f74061e9e74a85245d2d4972f9153bf97167"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "99c8e05211a5a80ab0ed25369e6b3d52fef45ee6f9b5f9ac78d318e0aeac2382"
+metafile = true
+
+[[files]]
+file = "mods/better-sniffers.pw.toml"
+hash = "b7f60f4f97ccfe637bf596f0bcbd1003d7f75f8124a73b3440800b80ae1f385b"
 metafile = true
 
 [[files]]
@@ -2403,6 +2418,11 @@ hash = "0d49986ba73f868d3cc8fabc03fe6cc1010316e1d4bfe452e8d1d121e411d714"
 [[files]]
 file = "mods/easyautocycler-fabric-26.2-3.1.2.pw.toml"
 hash = "e7a40711041ddbc74a7aca6e183e61b3daae73c7b7880884da487c96ee465d79"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "6abf739e46b6ca4ed779bf35172a111de85ae25a1f6e7345707b8673904f7791"
 metafile = true
 
 [[files]]
@@ -2819,6 +2839,11 @@ metafile = true
 [[files]]
 file = "mods/repeatable_trial_vaults-fabric-26.1.2-1.0.3.pw.toml"
 hash = "89a1255b7eb1b2c864b3627731f86410c4ab0b3e6ee537c2b51ea2cb1db43306"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "221a8b81d3aff5377d3b1f96c38f8425eb8bf238b92cbeba4d2081c12bf7e1cb"
 metafile = true
 
 [[files]]
