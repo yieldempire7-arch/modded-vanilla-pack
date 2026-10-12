@@ -10,7 +10,7 @@ hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "cb30dc03d3325a94b500e6bc0012d40169952ce24f06100b01f863a8932c0f48"
+hash = "282aa71987e6a17cf325d9ffe0340657b745341cc7ef46b6702930a7ff5a6bb3"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -191,10 +191,6 @@ hash = "bcdde92692e4863620935cc4079100ed5ed79208d89a294ad14bd88b15d23328"
 [[files]]
 file = "config/blastingsand.json"
 hash = "b21d8a0168611656708d5650d09e345960eaa1424745145b3f8a1b05162de917"
-
-[[files]]
-file = "config/bobby.conf"
-hash = "ea12aaafe1446aa5606649678e07fa2bdf2cb86e066bb311dbfa79b279aa1e7d"
 
 [[files]]
 file = "config/bridgingmod.json"
@@ -2200,11 +2196,6 @@ metafile = true
 [[files]]
 file = "mods/blastingsand-fabric-26.2-13.pw.toml"
 hash = "0ee4b4535bed8ee2672b3b02c482e25fdf1e9eba7dd653ddfb67777f2ba68a24"
-metafile = true
-
-[[files]]
-file = "mods/bobby-5.2.15+mc26.2.pw.toml"
-hash = "f5b9ee388823e0735fb649c26575388d5f4d844bbaa3e183d8e766e763333b1e"
 metafile = true
 
 [[files]]

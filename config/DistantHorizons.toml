@@ -278,7 +278,7 @@ _version = 5
 		# but may cause server/simulation lag. 
 		# Note: unlike other modes this option DOES save generated chunks to 
 		# Minecraft's region files.
-		chunkGeneratorMode = "FEATURES"
+		chunkGeneratorMode = "PRE_EXISTING_ONLY"
 		#
 		# Defines how LODs will be generated 
 		# outside the vanilla render distance. 
@@ -498,7 +498,7 @@ _version = 5
 			enableAntiAliasing = true
 			#
 			# Enable Screen Space Ambient Occlusion
-			enableSsao = true
+			enableSsao = false
 			#
 			# If true some vanilla graphics settings will be automatically changed 
 			# during DH setup to provide a better experience. 
@@ -716,7 +716,7 @@ _version = 5
 				dimensionEnabledCloudRenderingCsv = "minecraft:overworld"
 				#
 				# If true LOD clouds will be rendered.
-				enableCloudRendering = true
+				enableCloudRendering = false
 				#
 				# If true LOD beacon beams will be rendered wider at extreme distances, 
 				# making them easier to see. 
@@ -828,7 +828,7 @@ _version = 5
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# DISABLED: LODs will be opaque.
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				#
 				# This is the same as vanilla Biome Blending settings for Lod area. 
 				#     Note: anything above '0' will slow down LOD loading time. 
@@ -836,7 +836,7 @@ _version = 5
 				#     '0' equals to Vanilla Biome Blending of '1x1' or 'OFF', 
 				#     '1' equals to Vanilla Biome Blending of '3x3', 
 				#     '2' equals to Vanilla Biome Blending of '5x5'...
-				lodBiomeBlending = 3
+				lodBiomeBlending = 0
 				#
 				# How should vanilla Minecraft fade into Distant Horizons LODs? 
 				# 
