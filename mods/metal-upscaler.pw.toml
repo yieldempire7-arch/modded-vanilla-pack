@@ -1,0 +1,13 @@
+name = "Metal Upscaler"
+filename = "MetalUpscaler-fabric-0.5.0+mc26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3ef23f736c95be71121b4aae9c8c5a6c07bf2af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9130962
+project-id = 1669444

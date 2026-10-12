@@ -2680,6 +2680,11 @@ hash = "0b8f3ba5e621d13d2d72dcb79ea24d59e4f18d6811e949e883d5e033e95bbc81"
 metafile = true
 
 [[files]]
+file = "mods/metal-upscaler.pw.toml"
+hash = "e7b8826cad8aee18775d2d6009a6f6bd7e24f2a557ae4c43ae6e07cb7031198c"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib-fabric-1.9.3+26.2.pw.toml"
 hash = "21c987367bfb3caecd1753cded44cc17d4c3ed687361a7a62f1f4c82eab79193"
 metafile = true
