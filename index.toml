@@ -10,7 +10,7 @@ hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "4f554be7e68cf6198569a538d943469fb2df8224d0525229fb54bf7931de5ca6"
+hash = "d0fa7ca69726c598c090df84295b94ceaa7f0dd563675a955076959618a06083"
 
 [[files]]
 file = "config/MouseTweaks.cfg"

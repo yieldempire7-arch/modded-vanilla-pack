@@ -519,7 +519,7 @@ _version = 5
 				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
-				overdrawPrevention = "0.2"
+				overdrawPrevention = "1.0"
 				#
 				# Identical to the other frustum culling option
 				# only used when a shader mod is present using the DH API
@@ -757,7 +757,7 @@ _version = 5
 				# If true LODs will fade away as you get closer to them. 
 				# If false LODs will cut off abruptly at a set distance from the camera. 
 				# This setting is affected by the vanilla overdraw prevention config.
-				ditherDhFade = true
+				ditherDhFade = false
 				#
 				# If true DH will try to use the camera position when 
 				# determining LOD quality drop-off. 
@@ -843,7 +843,7 @@ _version = 5
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "NONE"
 				#
 				# If true LOD quality will increase when the camera is zoomed in, 
 				# IE when using a spyglass or zoom mod. 
