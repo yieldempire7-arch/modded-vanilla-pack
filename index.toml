@@ -2423,18 +2423,13 @@ hash = "26000dd95092cc294c25ebc8c3c6ba8fdcea67c22a01f0b87fd66ed9bbd1ada2"
 metafile = true
 
 [[files]]
-file = "mods/eumobs.pw.toml"
-hash = "168510109efe0990f48d6a22278666b1f89561ef772adfec23faea46b779e214"
-metafile = true
-
-[[files]]
 file = "mods/expanded-mace-enchantings-1.11.pw.toml"
 hash = "7805f04ac7f3f4f33f2ef7e73d454665e2ea689c3ffefc96f78fcf0a412c0c03"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.160.0+26.2.pw.toml"
-hash = "c66f91b5e47be8b970f5fb261d9103c067cda4a1dea7b4fbf2f140c96d4a440d"
+file = "mods/fabric-api.pw.toml"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
 metafile = true
 
 [[files]]
