@@ -2271,6 +2271,11 @@ hash = "4084f14bd9cf6b36a776c2e40499b68ab976d72175093cd37ab86c71b79349e9"
 metafile = true
 
 [[files]]
+file = "mods/configuration.pw.toml"
+hash = "34c68f20f853f27658d1d614675948b56efb01c956263d433bfec2c24ad9c992"
+metafile = true
+
+[[files]]
 file = "mods/connectedglass-1.1.14-fabric-mc26.2.pw.toml"
 hash = "0256ba24574361a8ba698bce45c9eb6e3f87fc65450700fd874e28752186adad"
 metafile = true
@@ -2982,6 +2987,11 @@ metafile = true
 [[files]]
 file = "mods/unlimited-villager-trades-26.2-1.pw.toml"
 hash = "332ffd145c2727ac1603dfec7dabae11da05189311a6b443e75e561e74d5b24c"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "b15c128d65de5550196300c1e0b25c56a76caee9e668676595b349e26c985c9c"
 metafile = true
 
 [[files]]
