@@ -2563,6 +2563,11 @@ file = "mods/friendsandfoes-fabric-5.0.2+mc26.2.jar"
 hash = "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7"
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "1fafbfff1e6c31c4f2a9eb3d0dfa512ce15bd40b8c7065a0412f608cfd6267b7"
+metafile = true
+
+[[files]]
 file = "mods/funny-death-messages-1.0.0.jar"
 hash = "31a6bea0dfba6b796c71251806ff714a728e5cb6a5d1afd7271d11bece8ca639"
 
@@ -3125,6 +3130,11 @@ metafile = true
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
 hash = "0fdae9862a69f33a2bc310a1f63179db5b466c38679550df10852281cff5e613"
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "4091c5c4fff3ff8171e66af3e4fa2dfb5098fae111adc9ae1fc4cd0527d79b6c"
+metafile = true
 
 [[files]]
 file = "mods/xaerominimap-fabric-26.2-26.4.2.pw.toml"
