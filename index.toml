@@ -1405,6 +1405,10 @@ file = "config/magnumtorch-server.toml"
 hash = "f8300df229219a36139319267892ce4952cac702aaedd73678b8156959453f64"
 
 [[files]]
+file = "config/metalupscaler-client.toml"
+hash = "c063cca7e1196c68bec045d3b1b73dd580ff7e36c864a301c084d69cb2529afe"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
@@ -1470,7 +1474,7 @@ hash = "57b7d2bc59a3ac26106ed960cba6d1045d2f024761577e089aff7fa827ef73f0"
 
 [[files]]
 file = "config/renderscale.json5"
-hash = "dba04958da06094d52622b1f16526684ad9f336a583ba7f3e4084e1e921f0652"
+hash = "a2a0a1e049eadb21b20b5f3bc8cb71ae064f3daac30aaa26462a443719800967"
 
 [[files]]
 file = "config/rightclickharvest.json5"

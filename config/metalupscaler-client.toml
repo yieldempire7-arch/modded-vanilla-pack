@@ -1,0 +1,24 @@
+# Metal Upscaler Client Configuration
+
+[render_scale]
+	# Render scale preset. QUALITY targets ~67% internal resolution upscaled via DLSS.
+	# Allowed Values: NATIVE_AA, ULTRA_QUALITY, QUALITY, BALANCED, PERFORMANCE, ULTRA_PERFORMANCE, CUSTOM
+	preset = "QUALITY"
+	# Custom render scale ratio if preset is CUSTOM.
+	custom_scale = 1.0
+	# Upscaling filter to use. On Windows with an NVIDIA RTX card, DLSS uses Tensor Cores.
+	# Allowed Values: BILINEAR, LANCZOS, METALFX, METALFX_TEMPORAL, DLSS, FSR
+	filter = "DLSS"
+	# Contrast-adaptive sharpening applied to DLSS output (0.0 to 1.0).
+	dlss_sharpness = 0.5
+	sharpness = 0.4
+	# Ensures Iris shaders and Distant Horizons stay in sync without near-terrain clipping
+	scaled_native_with_shaders = true
+	consistent_dh_target = true
+	hold_target_for_shaders = true
+	disable_with_shaders = false
+	disable_with_distant_horizons = false
+
+[debug]
+	technical_overlay = false
+	debug_motion_vectors = false

@@ -1,6 +1,6 @@
 {
-	"scale": 0.85,
+	"scale": 1.0,
 	"forceLinear": false,
-	"fsr": true,
+	"fsr": false,
 	"irisScale": -1.0
 }
