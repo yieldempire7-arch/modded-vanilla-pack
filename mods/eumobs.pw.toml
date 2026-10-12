@@ -1,0 +1,13 @@
+name = "Extended Universe Mobs"
+filename = "eum-1.0-alpha.10-fabric+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ZoXLftN/versions/pWKjqL5B/eum-1.0-alpha.10-fabric%2B26.2.jar"
+hash-format = "sha512"
+hash = "ab74ddca658ec60a85f41cf06b35be56b7805031981629fbafb447d5daf3a8dae927cdfb1ac29695d4f734e0eba3b470c8685d5de43b581fe1cc57c45e1db58d"
+
+[update]
+[update.modrinth]
+mod-id = "2ZoXLftN"
+version = "pWKjqL5B"

@@ -2423,6 +2423,11 @@ hash = "26000dd95092cc294c25ebc8c3c6ba8fdcea67c22a01f0b87fd66ed9bbd1ada2"
 metafile = true
 
 [[files]]
+file = "mods/eumobs.pw.toml"
+hash = "168510109efe0990f48d6a22278666b1f89561ef772adfec23faea46b779e214"
+metafile = true
+
+[[files]]
 file = "mods/expanded-mace-enchantings-1.11.pw.toml"
 hash = "7805f04ac7f3f4f33f2ef7e73d454665e2ea689c3ffefc96f78fcf0a412c0c03"
 metafile = true
@@ -2467,6 +2472,21 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric-26.2-0.13.26.jar"
 hash = "71a3790ae072073c93367722e94c3d91b8463ac35f576cb0d1ec9bf909faae4c"
+
+[[files]]
+file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+hash = "529e0ff761d050b9a9229637660881eaddddcf4b860525be3347a035baf9805d"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "fe01f1594f462c1980ffb34c0bc3fb355fea32628467765aa91c98c21a9158e2"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "5a3b5129b705e77759b01d7087e876a678c9032a6fd5967e5b54517ad29914ab"
+metafile = true
 
 [[files]]
 file = "mods/friendsandfoes-fabric-5.0.2+mc26.2.jar"
@@ -2578,6 +2598,16 @@ metafile = true
 [[files]]
 file = "mods/lucky_fishing-1.0.1.jar"
 hash = "e792d84f40f1d773a26477894c66ba810f7cd6b6b4b25beacac322f7eb610f5a"
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "fdeaabfd4a8c6ed537cb9cd92d361436230e39da6803ad8d83f089dcc779fd03"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "2d2e8e2d3d813ae206cb63fced22627ac13e02ed51a512870c4e22d497d5db59"
+metafile = true
 
 [[files]]
 file = "mods/mc2_interactivefoliage-1.3.1-fabric+26.2.pw.toml"
@@ -2787,6 +2817,11 @@ hash = "89a1255b7eb1b2c864b3627731f86410c4ab0b3e6ee537c2b51ea2cb1db43306"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "85abccaee90ea0b213687eaacafde09bcd30fb3fbcf6404e8e31245929f2e69b"
+metafile = true
+
+[[files]]
 file = "mods/respectmytrims-1.3.0+mc26.2.pw.toml"
 hash = "c61398b46afdfda30cc3c0180ab7ff66930cf5b852a78367fef6dc2b4279d3a3"
 metafile = true
@@ -2947,6 +2982,11 @@ metafile = true
 [[files]]
 file = "mods/unlimited-villager-trades-26.2-1.pw.toml"
 hash = "332ffd145c2727ac1603dfec7dabae11da05189311a6b443e75e561e74d5b24c"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "bb0feb0068932ff7f32f8dba3d85916e10edbae86ece69bce922ea23ae6b4803"
 metafile = true
 
 [[files]]
