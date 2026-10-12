@@ -1526,7 +1526,7 @@ hash = "dc0e024e86093c4734674b46aadb128e5946e26a29f023f6f72111b8894145a4"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+hash = "ba8b38ab5c6278a6b240e8e92640405e525429310969ad730d4e398d8aa1b278"
 
 [[files]]
 file = "config/sounds/chat.json"
