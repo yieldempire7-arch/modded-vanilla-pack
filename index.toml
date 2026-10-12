@@ -2111,11 +2111,6 @@ hash = "8a4ec0f7a0a1cd79351799badf6aebfcb4c9a13e97fbc16ddbfaeb0ead8317be"
 metafile = true
 
 [[files]]
-file = "mods/actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.pw.toml"
-hash = "79ae84dae1e3351dd7f54facd5b9d6c8e1dcc579af0b6f862698adfb639a4f1f"
-metafile = true
-
-[[files]]
 file = "mods/additionaladditions-fabric-10.0.12.pw.toml"
 hash = "c5048e4674cdba72773140ad9b5147d68841591771d6580feef9f4a824827bfd"
 metafile = true
@@ -2576,6 +2571,11 @@ hash = "4d74c292b6baa66535369367c27d129504955890da9b63ad77b7c4a083ef0df5"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d834fa2fe24acc1b76b4ffa1cce5aa4eeb15e3ca050fa4187a85a2fa69fec0fd"
+metafile = true
+
+[[files]]
 file = "mods/jei-26.2-fabric-30.29.0.201.pw.toml"
 hash = "1eb0579c852b92d485d3df7cd5dbd59a13b5ebb3e14572f8c6685d3aeb8aa36c"
 metafile = true
@@ -2859,6 +2859,11 @@ metafile = true
 [[files]]
 file = "mods/return-my-gold-farm-fabric-mc26.1-2.1.1.pw.toml"
 hash = "7538c4d610e0e4b5ef8d10ebda7995200035e4d988a8b8c9955f5eb79fb84210"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9823e4edb7cde19bea50da788d4284abb0c113de4a88ee7172c4963a68666930"
 metafile = true
 
 [[files]]
