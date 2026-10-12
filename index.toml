@@ -10,7 +10,7 @@ hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "435c7d9d8e59053736c242f775abb1ebc3bcf75c1da562e447bfb905ee2dc919"
+hash = "cb30dc03d3325a94b500e6bc0012d40169952ce24f06100b01f863a8932c0f48"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -194,7 +194,7 @@ hash = "b21d8a0168611656708d5650d09e345960eaa1424745145b3f8a1b05162de917"
 
 [[files]]
 file = "config/bobby.conf"
-hash = "7b8ca233ee25d95db7ea4601b786d656f3f7569ddf129836ce7f8dbbe5eb8926"
+hash = "ea12aaafe1446aa5606649678e07fa2bdf2cb86e066bb311dbfa79b279aa1e7d"
 
 [[files]]
 file = "config/bridgingmod.json"
@@ -1398,7 +1398,7 @@ hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+hash = "46ba345b29c28b078248a023a5c8927e952ce52535e6fc561bb72541e7db334a"
 
 [[files]]
 file = "config/lithium.properties"
