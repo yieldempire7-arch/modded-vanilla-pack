@@ -1470,7 +1470,7 @@ hash = "57b7d2bc59a3ac26106ed960cba6d1045d2f024761577e089aff7fa827ef73f0"
 
 [[files]]
 file = "config/renderscale.json5"
-hash = "a2a0a1e049eadb21b20b5f3bc8cb71ae064f3daac30aaa26462a443719800967"
+hash = "dba04958da06094d52622b1f16526684ad9f336a583ba7f3e4084e1e921f0652"
 
 [[files]]
 file = "config/rightclickharvest.json5"
