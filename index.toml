@@ -2392,6 +2392,56 @@ hash = "bb943a50bbb4e9b8a6cbe6cb4c418ef53cfcb1a53830942acefd2026482682a7"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "fca3b5dd958abe4ae6a46016d89e50e62962c9df2292abad54bc30cd31c5033f"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "6629e90b80cef74e7ef358a71a0baa6fb990d4eb0e5c06e4bed856c99a3db01d"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "073d9e3cd54b6417982106c006e42d9e37cb0543d3953f49fd0cbc2b0856e4b5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-mineshaft-overhaul.pw.toml"
+hash = "03dca93fb5102dac561ac0f37969ea65d834d7f0473b693a922d5c43b3b1927b"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "165ea8db8aaac2414bee605e0ad43646797e54856e9215f39cb2708117208fa2"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "31c5c69d943ff30b43974c6f392541b07ca8b4987bf85cee6092159e10ebe8c5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "19ce920d3d6cf9d2f28cab369567fe605135769997c699fc20646116de0e2671"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "d804d751b2c785b17464d238888278662b4ca8b72902ded34c38e8e13ac471dd"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "fe1901158f49cae71686a3519334607fccaa59e7dbb7b4f8fbbaab70d527a2c8"
 metafile = true
@@ -2963,6 +3013,11 @@ metafile = true
 [[files]]
 file = "mods/terracotta-stairs-26.2.pw.toml"
 hash = "f8a3b095340839e9f806cf9e8b5f31bd9a1cb4a6a8c3aaf67a7737b47817f8ef"
+metafile = true
+
+[[files]]
+file = "mods/this-rocks.pw.toml"
+hash = "e1cb9c87007c5b584877d109bcca43fdcc452e34e528c44d520e15365a9fc691"
 metafile = true
 
 [[files]]

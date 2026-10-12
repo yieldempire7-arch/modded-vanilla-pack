@@ -1,0 +1,13 @@
+name = "This Rocks!"
+filename = "rocks-fabric-1.9.5+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/TE20Govp/rocks-fabric-1.9.5%2B26.2.jar"
+hash-format = "sha512"
+hash = "cc40683f76770f5789a80ec040b730d89adffe4fcc3e0067ede6d94413afa1d2c7358855d2a594f0f11dbece6104203fc0781b694174ac37ed4ddce27a5fb50b"
+
+[update]
+[update.modrinth]
+mod-id = "Sb5ypgDP"
+version = "TE20Govp"
