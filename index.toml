@@ -2132,7 +2132,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1af9fca0d73abbe20bee2bfebfaf963f2ee0b66c6fc059234c3248250ef120ef"
+hash = "ba2e5be527f3960a1bdcb2119cfda7adc0a2d5d9982fa8e12de6742a8d5bd02c"
 metafile = true
 
 [[files]]
@@ -2504,7 +2504,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
+hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
 metafile = true
 
 [[files]]
@@ -2565,6 +2565,16 @@ hash = "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7"
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "1fafbfff1e6c31c4f2a9eb3d0dfa512ce15bd40b8c7065a0412f608cfd6267b7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "001bca75656dd0261916062aebba86b1cbdeb7de2d81379c2e1ba9b25c98bce7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "aa91d941b62d1cf9204406ac6af5017679cf59f2f9860bef9e0ff4b70011ceda"
 metafile = true
 
 [[files]]
@@ -2815,11 +2825,6 @@ metafile = true
 [[files]]
 file = "mods/not_interested--1.0.2--fabric--26.2.pw.toml"
 hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
-metafile = true
-
-[[files]]
-file = "mods/onekeyminer-fabric-1.6.9-26.2.pw.toml"
-hash = "1ee2ecc798267d8740e061b542b9bec66cc8007b5d3ae096ca4ab740b5eb7da5"
 metafile = true
 
 [[files]]
