@@ -2467,6 +2467,11 @@ hash = "80994626f3781792fd7c46271d8cd4a164bcc395f6594e739a3143a13d7183bb"
 metafile = true
 
 [[files]]
+file = "mods/earth-and-water.pw.toml"
+hash = "70cc1743eeb10bd45d8b5efd6eb771a56bf9bc7bd1bfb5039bc92a8b835121c9"
+metafile = true
+
+[[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
 hash = "0d49986ba73f868d3cc8fabc03fe6cc1010316e1d4bfe452e8d1d121e411d714"
 
