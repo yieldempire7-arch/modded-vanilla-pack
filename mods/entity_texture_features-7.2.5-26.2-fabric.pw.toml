@@ -1,0 +1,13 @@
+name = "7.2.5-fabric-26.2"
+filename = "entity_texture_features-7.2.5-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/b9RlCI9F/entity_texture_features-7.2.5-26.2-fabric.jar"
+hash-format = "sha1"
+hash = "475bc0d85ba188ff4e30ee54700b96bb8b33f846"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "b9RlCI9F"

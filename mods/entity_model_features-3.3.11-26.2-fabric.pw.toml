@@ -1,0 +1,13 @@
+name = "3.3.11-fabric-26.2"
+filename = "entity_model_features-3.3.11-26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/tgEvvPhr/entity_model_features-3.3.11-26.2-fabric.jar"
+hash-format = "sha1"
+hash = "adac13c5fd8b82819830387cf9c8d8f405bd0ca5"
+
+[update]
+[update.modrinth]
+mod-id = "4I1XuqiY"
+version = "tgEvvPhr"

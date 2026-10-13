@@ -2498,13 +2498,13 @@ file = "mods/enable-commands-1.0.0.jar"
 hash = "9031646dc0734aae50ef152b2b29378253dd1e9557dd47db49c07c35c5453217"
 
 [[files]]
-file = "mods/entity_model_features-3.3.5-26.2-fabric.pw.toml"
-hash = "e4c51df6ee3fc532031a014371bf57070598580783c11f7cd1e636fccbd1dbec"
+file = "mods/entity_model_features-3.3.11-26.2-fabric.pw.toml"
+hash = "b1ac1a8925cbce0e89d690deb09e0d0e95fe775b367d7459d0634b8144c868c9"
 metafile = true
 
 [[files]]
-file = "mods/entity_texture_features-7.2.1-26.2-fabric.pw.toml"
-hash = "824e0343913b90f8578b6ba33a4e12b6b5b7090c76ac521a50991ffbdbc3d769"
+file = "mods/entity_texture_features-7.2.5-26.2-fabric.pw.toml"
+hash = "08b6a5dcb371b0e68e1e6584f1b8442faa1aa9951575e9bb77767638d62c12fa"
 metafile = true
 
 [[files]]
