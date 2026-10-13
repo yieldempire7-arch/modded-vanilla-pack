@@ -2145,11 +2145,6 @@ file = "mods/architectury-fabric-21.1.12.jar"
 hash = "7ca24d97dd704693190f39712941a52e65fa91514fbba23fc42285542c184579"
 
 [[files]]
-file = "mods/attributes.pw.toml"
-hash = "e6fd8012e78ce3c7897adb4e0b0f025cd631c53f2afd8852dfbf8cae2ff2188f"
-metafile = true
-
-[[files]]
 file = "mods/autofish-8.0.1-26.2-fabric.pw.toml"
 hash = "b963d50cd816e926ece674eb1836a3706945469c14a17b53b6c515a0d4b8f9e4"
 metafile = true
@@ -2375,11 +2370,6 @@ metafile = true
 [[files]]
 file = "mods/damage pop up 1.0.0.jar"
 hash = "4d886a7c2f62989e152790b790ea0b1b2246b8c9c8ae03acbbed94b06ae9534f"
-
-[[files]]
-file = "mods/default-skill-trees.pw.toml"
-hash = "8bc4931e32bfdffd18ed383876c22e636991fc483934f09f0aa5e4a6785df3ce"
-metafile = true
 
 [[files]]
 file = "mods/defaulted-1.3.8.release-26.1.2-fabric.pw.toml"
@@ -2978,11 +2968,6 @@ metafile = true
 [[files]]
 file = "mods/simple_smithing_overhaul-2.9.10+26.2-fabric.pw.toml"
 hash = "ea7dcb07c14c362f1dc74dde31ff4703b663bc6b7132340681173733f56e79b5"
-metafile = true
-
-[[files]]
-file = "mods/skills.pw.toml"
-hash = "a70f60ee7cac09481e61ba8247a3e5d936d356df4e81e82f88dd8f12eb58f28c"
 metafile = true
 
 [[files]]
