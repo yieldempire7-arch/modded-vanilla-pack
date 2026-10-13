@@ -3191,6 +3191,5 @@ file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
-file = "resourcepacks/icon-fresh.pw.toml"
-hash = "8207fc399783d31a67bdcc5192e0d4f5e6866d97241033b92ca1f312792f7dc8"
-metafile = true
+file = "resourcepacks/Icon Fresh 0.5.zip"
+hash = "b52c665af0c5f20f0ce3a74b96ef2a24d4cc7427fc27750f1d5607308ff53a8f"
