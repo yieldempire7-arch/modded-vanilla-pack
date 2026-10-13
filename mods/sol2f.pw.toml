@@ -1,0 +1,13 @@
+name = "Spice of Life: Fabric Flavor"
+filename = "sol2f-4.0.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mkvFT6R6/versions/EeuaOivf/sol2f-4.0.0-alpha.jar"
+hash-format = "sha512"
+hash = "9f650052d0110061577ab7cd26a331c54a8563dea634bac032cbd6c49d85a902fc36607a167b6b199bde37d5d1289dba5977c8c40f25495014e0820eacfa0e7a"
+
+[update]
+[update.modrinth]
+mod-id = "mkvFT6R6"
+version = "EeuaOivf"

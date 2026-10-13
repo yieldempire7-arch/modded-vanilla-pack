@@ -1,0 +1,13 @@
+name = "Pufferfish's Attributes"
+filename = "puffish_attributes-0.8.2-26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/uqhZQ481/puffish_attributes-0.8.2-26.1-fabric.jar"
+hash-format = "sha512"
+hash = "067efeda45c204b2062f3cbb894bca0b02ef48fb7a33822c158075481ff3391509264e12f1e49ab8f6f8eb74bbc6ae28dd4228248d97e5b11f06aa877b4e8f6d"
+
+[update]
+[update.modrinth]
+mod-id = "FCFcFw09"
+version = "uqhZQ481"
