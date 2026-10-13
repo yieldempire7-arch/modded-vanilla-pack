@@ -3200,7 +3200,11 @@ hash = "1811613f9eeadcfae674006480016da367c37469e04b9c8c74ce2f6520bb5ac9"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "b52c665af0c5f20f0ce3a74b96ef2a24d4cc7427fc27750f1d5607308ff53a8f"
+hash = "2172f3052d996c73a5bda48b7d134bd042360e3881a313f26abd636fa8e8fd80"
+
+[[files]]
+file = "resourcepacks/Icon Xaeros 1.22.zip"
+hash = "8f55e1bd5943f30e7ca895d1f4a01f3b417ecd4aeefec02e642c6d824bdbb65e"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.21.zip"
@@ -3209,3 +3213,7 @@ hash = "e7cd46e14bd6ad154c0c1e148d236660091615b8088e91d54f18d022d703f05a"
 [[files]]
 file = "resourcepacks/VanillaTweaks_Immersion.zip"
 hash = "a95b0da695664504ce1c4a541d28b64c7e473b3eb8cc286fe5426dfc72f9379c"
+
+[[files]]
+file = "resourcepacks/Xaero Extended Mob Icons.zip"
+hash = "d3c453ad882ce200e1965b49f6553794a3351e60b95ac0088e1916dc89b8cf37"
