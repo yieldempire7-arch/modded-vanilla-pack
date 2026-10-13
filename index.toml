@@ -2632,6 +2632,11 @@ hash = "2e28f880bd12f1db574c0c946492788962bc04aa6a24cd6f1f9cfcc0c8e5d71f"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "df03a91d45994220c3bdb286a4fa3f173426636dade93caa4d3e1e5bda772791"
+metafile = true
+
+[[files]]
 file = "mods/jacks-fullbright-fabric-26.2-v1.0.1.jar"
 hash = "d6937f295567dec796d037ccfae6389e4892137d96d14d8a953f88c15f47c487"
 
