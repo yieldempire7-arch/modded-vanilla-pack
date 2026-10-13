@@ -3191,5 +3191,21 @@ file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
+file = "resourcepacks/Bushy_Grass.zip"
+hash = "b1441828bc421b3a62f11c75448e7003a7189badc42ab8d86bc24cd6c95e03d9"
+
+[[files]]
+file = "resourcepacks/Fast Better Grass.zip"
+hash = "1811613f9eeadcfae674006480016da367c37469e04b9c8c74ce2f6520bb5ac9"
+
+[[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
 hash = "b52c665af0c5f20f0ce3a74b96ef2a24d4cc7427fc27750f1d5607308ff53a8f"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.21.zip"
+hash = "e7cd46e14bd6ad154c0c1e148d236660091615b8088e91d54f18d022d703f05a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Immersion.zip"
+hash = "a95b0da695664504ce1c4a541d28b64c7e473b3eb8cc286fe5426dfc72f9379c"
