@@ -1,0 +1,13 @@
+name = "Konfig"
+filename = "konfig-fabric-0.10.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pp7kIrlM/versions/lX5eM1JM/konfig-fabric-0.10.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "2f21fa48b270d1c457bdba3169fe87ed204a960bfecbbe22ec6e540ae922e4816e80a42858f1fd6b5f11b9b940b4dbb1abcfac9e942938c304a859478c9ef3fa"
+
+[update]
+[update.modrinth]
+mod-id = "pp7kIrlM"
+version = "lX5eM1JM"

@@ -2121,6 +2121,11 @@ hash = "8edb4dbf85fabc27cd35943a1bbfeca23b05c1330d4c20a6fb37d491752e0929"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "f13cde1dc80689a406da8f8159459d15399ed5796ec484766546354744ac96a4"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough-1.2.1+26.2.pw.toml"
 hash = "044f37e886e43e179f0e781cceb49b44dea1fdd6a9e0069796ed5f3a8bf97028"
 metafile = true
@@ -2641,6 +2646,11 @@ hash = "5cf7147fff14804cf7e15ddd54dbd5669172e658fa772baac12bf2f4da6b80ce"
 metafile = true
 
 [[files]]
+file = "mods/konfig.pw.toml"
+hash = "a9e878c179ae9bda9fc1da4d564fdace9c1d2d7eb954b3b9257db420bdf621a7"
+metafile = true
+
+[[files]]
 file = "mods/konkrete_fabric_1.11.1_MC_26.2.pw.toml"
 hash = "fab4241cc623b23acf607f78e167a534b42378d86ca31850ac9c3df5de241635"
 metafile = true
@@ -2658,6 +2668,11 @@ metafile = true
 [[files]]
 file = "mods/lib-5555ff-v1.1.5.pw.toml"
 hash = "e79daaca8f33736a7d0fae7a504c0534b719872896555fc012c3e84d20385db6"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "a2143ba93b4476c96abc339b0acfee88fb1a8dd21b640f04394691c791a2975e"
 metafile = true
 
 [[files]]
@@ -3082,11 +3097,6 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "bb0feb0068932ff7f32f8dba3d85916e10edbae86ece69bce922ea23ae6b4803"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "b38381a74718c294570c2f59245deb3138ed3b19afb013d7ed915805f329565e"
 metafile = true
 
 [[files]]

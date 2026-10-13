@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-fabric-4.5.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTnHoofC/versions/VUG9kERo/liteminer-fabric-4.5.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "d7697bb4f1f3f1feabddb16a916aceb6086d45d2acdfaf1c055780bcd6f818927164a9da6d4924e3925987c3365d9abf014d849e76f34abf20c8148431219e1b"
+
+[update]
+[update.modrinth]
+mod-id = "VTnHoofC"
+version = "VUG9kERo"

@@ -1,0 +1,13 @@
+name = "Amber"
+filename = "amber-fabric-11.7.0+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/UYGCx60S/amber-fabric-11.7.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "33218882d88632ac799a0a263487987099c186f167a238d36357ca6f6da50a61c975479fa0c695e07e28b3317d22affafc4d7e597c1b20b4c8496bd31f39560a"
+
+[update]
+[update.modrinth]
+mod-id = "vjGZJDu5"
+version = "UYGCx60S"
