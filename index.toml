@@ -2209,10 +2209,6 @@ hash = "6517fee9826ab3e9e59acc522f42e6f01bc0a45ef8cc2f54614d2ba7d1fccf54"
 metafile = true
 
 [[files]]
-file = "mods/biome_paint-1.0.0+26.2.jar"
-hash = "960736843537132061556858667394b5297dc77ee3f3164e5c73252400d727b6"
-
-[[files]]
 file = "mods/blastingsand-fabric-26.2-13.pw.toml"
 hash = "0ee4b4535bed8ee2672b3b02c482e25fdf1e9eba7dd653ddfb67777f2ba68a24"
 metafile = true
