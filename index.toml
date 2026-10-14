@@ -3177,6 +3177,10 @@ hash = "4091c5c4fff3ff8171e66af3e4fa2dfb5098fae111adc9ae1fc4cd0527d79b6c"
 metafile = true
 
 [[files]]
+file = "mods/worldedit-mod-7.4.5.jar"
+hash = "d2a7295379eba61474128e907554dad875e1d71d22f65753759307053bd28201"
+
+[[files]]
 file = "mods/xaerominimap-fabric-26.2-26.4.2.pw.toml"
 hash = "e59b4104b624a95738bf1ab67b7788d25a469941d8b0ffd1087f4d36052b32f1"
 metafile = true
