@@ -51,6 +51,7 @@
           "name": "gui.xaero_entity_category_players",
           "protection": true,
           "settingOverrides": {
+            "icons": 2.0,
             "renderOrder": 6.0,
             "heightLimit": 2050.0,
             "color": 15.0
@@ -88,7 +89,9 @@
               "excludeList": [],
               "name": "gui.xaero_entity_category_same_team",
               "protection": true,
-              "settingOverrides": {},
+              "settingOverrides": {
+                "icons": 2.0
+              },
               "subCategories": []
             },
             {
@@ -100,6 +103,7 @@
               "name": "gui.xaero_entity_category_other_teams",
               "protection": true,
               "settingOverrides": {
+                "icons": 2.0,
                 "renderOrder": 7.0
               },
               "subCategories": []

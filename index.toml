@@ -1734,7 +1734,7 @@ hash = "5a5c0a25fb3cca39c8b36704edbb4902ea2459d495af906eea447f6b7ccdab5c"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+hash = "8b3d8e10d3f2b6340ade94207b285f3f86660d265c417063bd3f0ad6d43177bf"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -3200,7 +3200,7 @@ hash = "1811613f9eeadcfae674006480016da367c37469e04b9c8c74ce2f6520bb5ac9"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "2172f3052d996c73a5bda48b7d134bd042360e3881a313f26abd636fa8e8fd80"
+hash = "424368d0fc6f92ffb7c9fe697fc4fbdeb149af27033eced4cb0c201adc73d073"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
@@ -3216,4 +3216,4 @@ hash = "a95b0da695664504ce1c4a541d28b64c7e473b3eb8cc286fe5426dfc72f9379c"
 
 [[files]]
 file = "resourcepacks/Xaero Extended Mob Icons.zip"
-hash = "d3c453ad882ce200e1965b49f6553794a3351e60b95ac0088e1916dc89b8cf37"
+hash = "2cf580e923b65610fc90901bc47afaa0f223b4349f7a5b90b822673dea144c4c"
