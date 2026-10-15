@@ -10,7 +10,7 @@ hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "071b5a57d5b4fa0c604ea6994de5ad26c1d2b43943637893a0e433e2319378c4"
+hash = "9eb59c32b50ad189b5b517fec319f7ef71c780a0144ca32092f3801de8f0e101"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -2215,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
-hash = "ec78ad00d274fe895bf365dafa8567b11f2c11898f626723c2e19068968a3707"
+hash = "24a3a10c8ed4d2a8657249f0237dc440f153eef569abec79c06851816d3e514f"
 
 [[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
@@ -2331,7 +2331,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "7f519b6756bb5c3f22f4a431e3a8039347f661317f6cd860c81118add809a99f"
+hash = "d005f4b9a5fa1754781e00a4647bd3046034b5a68385ab64157e135b531a3a2e"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2356,6 +2356,10 @@ metafile = true
 file = "mods/cushionbackport-26.2-Fabric-1.0.5.pw.toml"
 hash = "26bc88f936989745847b78b0677d91716918b8e33461cffe2a03be1df1aaa933"
 metafile = true
+
+[[files]]
+file = "mods/custom_blocks-1.0.0.jar"
+hash = "8bd640bce5a31d3a24b72c5c6400f7f4a266917d67956a9222f256678ad6ffd8"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
