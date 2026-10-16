@@ -2331,7 +2331,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "91ff317c6ef2dd8ca086f69da3a52400fad09e1d6c3ab8d2de7e0fbe129c11f6"
+hash = "a91147a148c2ef272bb85ca4d5eafe59f687c2040b2d5db488833f82f7d5c622"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2359,7 +2359,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "8bd640bce5a31d3a24b72c5c6400f7f4a266917d67956a9222f256678ad6ffd8"
+hash = "007efeab8df22a6f1e21e179be0ab81a4631858b3fdf95a6888bdbba23185391"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2548,10 +2548,6 @@ hash = "b08e3a3c65197f8169fc7a7283c61804d831c72d9f9911f694300bddc7a6bd3a"
 file = "mods/ferritecore-9.0.0-fabric.pw.toml"
 hash = "293eea6ae36195037e94505fe7fd550d48bd2ea3c08985638b7d7040fb959fab"
 metafile = true
-
-[[files]]
-file = "mods/flint_block-1.0.0-fabric-26.2.jar"
-hash = "db6ecdb4b76d25ffd7ddc3d66c16f00c00d8a594c388e340d95fec2b5024cb81"
 
 [[files]]
 file = "mods/forgetful-sniffer-v1.2.2.pw.toml"
@@ -2833,6 +2829,11 @@ hash = "85865ab1132213c6b61a291f3e737cf28c9d5d4068f87ae882abb1104209b242"
 metafile = true
 
 [[files]]
+file = "mods/morefrogs.pw.toml"
+hash = "d9c6229d228e1d7a736a510abfd6a69587a277a8581f6947c1250effb7ac14f7"
+metafile = true
+
+[[files]]
 file = "mods/mru-1.0.33+26.2-fabric.pw.toml"
 hash = "c46e2299207c24c529ca5c1357de138cbb552b619b84595712277f98634b269b"
 metafile = true
@@ -2963,6 +2964,11 @@ metafile = true
 [[files]]
 file = "mods/sensible_stackables-fabric-3.0.3+26.2.pw.toml"
 hash = "7acfcc431d36255d62d8cb1df04bb01a0f9926e21bdc32fcbe597e1350f4382c"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "43b4583ea1b8bc1dd8056086e4194c4f5e110a3359417c0ae9795b4f00c8529f"
 metafile = true
 
 [[files]]
@@ -3141,6 +3147,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-0.7.14+26.2.pw.toml"
 hash = "32ac5cce6a7419e715128f7149701104894638237e0a3d4db13d5ae1daac5454"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
