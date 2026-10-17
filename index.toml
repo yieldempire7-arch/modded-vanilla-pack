@@ -1581,10 +1581,6 @@ file = "config/superenchants.json"
 hash = "9ccd94cd074547137804ddf95a5113d9a3596e794ffc2d3a29d0331fddf9ace4"
 
 [[files]]
-file = "config/sway.json"
-hash = "ee374b7892b11cf36c739cf03e69017977ebe645f4219d0598ba11daf1312f4a"
-
-[[files]]
 file = "config/taxfreelevels.json"
 hash = "4279f966cd45205aad4593fc384189194495ff4efca18843ae5f917a3d444413"
 
