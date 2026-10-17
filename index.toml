@@ -1582,7 +1582,7 @@ hash = "9ccd94cd074547137804ddf95a5113d9a3596e794ffc2d3a29d0331fddf9ace4"
 
 [[files]]
 file = "config/sway.json"
-hash = "0334b87486dbcd978358946d971efbb1789084bc4b29a74285d5a1846c3b60cd"
+hash = "ee374b7892b11cf36c739cf03e69017977ebe645f4219d0598ba11daf1312f4a"
 
 [[files]]
 file = "config/taxfreelevels.json"
@@ -1848,11 +1848,6 @@ hash = "ae801b98225a73b5e22dd69ea5901102baacb32b4a8839329ee7e838ba16a497"
 [[files]]
 file = "mods/DiagonalWindows-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "75033be151db2a0ebecbe2a9a7c9bed1930bbeaee6229beb71f387a192987cfa"
-
-[[files]]
-file = "mods/DistantHorizons-3.3.3-26.2-fabric-neoforge.pw.toml"
-hash = "7e6c355f8aef29caf00bcb9a398ef498e09000aa275de0b277dcadaadb07ed02"
-metafile = true
 
 [[files]]
 file = "mods/Easier_Gunpowder.pw.toml"

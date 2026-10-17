@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "intensity": 1.0,
   "maxDistance": 8.0,
   "influenceRadius": 1.2
