@@ -9,10 +9,6 @@ file = "config/ClickMobs/config.yml"
 hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "9eb59c32b50ad189b5b517fec319f7ef71c780a0144ca32092f3801de8f0e101"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
