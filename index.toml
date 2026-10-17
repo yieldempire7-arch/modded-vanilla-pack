@@ -1525,10 +1525,6 @@ file = "config/sound_physics_remastered/sound_rates.properties"
 hash = "dc0e024e86093c4734674b46aadb128e5946e26a29f023f6f72111b8894145a4"
 
 [[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "0568f44141d45a9efbbb554f5eaa1f72d239d43b5149e01061103306c54890aa"
-
-[[files]]
 file = "config/sounds/chat.json"
 hash = "9f3d43bcb9f6805417687c38db0e8df29f2ed9e3abf3fade2836fb8a0597cdc2"
 
@@ -3224,31 +3220,3 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
-
-[[files]]
-file = "resourcepacks/Bushy_Grass.zip"
-hash = "b1441828bc421b3a62f11c75448e7003a7189badc42ab8d86bc24cd6c95e03d9"
-
-[[files]]
-file = "resourcepacks/Fast Better Grass.zip"
-hash = "1811613f9eeadcfae674006480016da367c37469e04b9c8c74ce2f6520bb5ac9"
-
-[[files]]
-file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "7f6e06d1e6298c72b0dfa5bff1fc3dd27267cb3b530babbbfa8981ff9ff1aa5b"
-
-[[files]]
-file = "resourcepacks/Icon Xaeros 1.22.zip"
-hash = "8f55e1bd5943f30e7ca895d1f4a01f3b417ecd4aeefec02e642c6d824bdbb65e"
-
-[[files]]
-file = "resourcepacks/Stay_True_1.21.zip"
-hash = "e7cd46e14bd6ad154c0c1e148d236660091615b8088e91d54f18d022d703f05a"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Immersion.zip"
-hash = "a95b0da695664504ce1c4a541d28b64c7e473b3eb8cc286fe5426dfc72f9379c"
-
-[[files]]
-file = "resourcepacks/Xaero Extended Mob Icons.zip"
-hash = "c2e672c097d7d2cc0b7e91930a9f271cb745e5da8c5a1c508d20fd1b61d3a74f"
