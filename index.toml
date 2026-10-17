@@ -2098,6 +2098,11 @@ hash = "8a4ec0f7a0a1cd79351799badf6aebfcb4c9a13e97fbc16ddbfaeb0ead8317be"
 metafile = true
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "e628333b23a05174dce9681fc50390cd1155ef8b2e9b1169ae0cce4f784f8520"
+metafile = true
+
+[[files]]
 file = "mods/additionaladditions-fabric-10.0.12.pw.toml"
 hash = "c5048e4674cdba72773140ad9b5147d68841591771d6580feef9f4a824827bfd"
 metafile = true
@@ -2879,6 +2884,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api-3.1.0-beta.1+26.2.pw.toml"
 hash = "2bb411b21305e1b43bf369cd10bc40726e7e205983246757a4ac66643b29f397"
+metafile = true
+
+[[files]]
+file = "mods/plushie-buddies.pw.toml"
+hash = "c089071bf05337828e521ff008b962451e73d3eeb886b6adee4d57e177318784"
 metafile = true
 
 [[files]]
