@@ -2323,7 +2323,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "a91147a148c2ef272bb85ca4d5eafe59f687c2040b2d5db488833f82f7d5c622"
+hash = "fcb484e80f26929c2969e9dc7677cd814202f3efc05aa9e0347764c7bc38c5f8"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2351,7 +2351,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "92950153e9dc5d6ad366e7249aafe0616c833540fce35e6d31baa97f236ebf72"
+hash = "5301b057f6b46d08957f05d9e44f7671b4094364128c8cbb63f940e14f724522"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2547,7 +2547,7 @@ metafile = true
 
 [[files]]
 file = "mods/flint_block-1.0.0-fabric-26.2.jar"
-hash = "fcf75cf12cbbc57237eaa165c2dc71c085727836f648ba65541ef844dc157747"
+hash = "b00250bbe4c4ca26bed7711afe115784d3d2277aa67865453bbe83e2f5ea891b"
 
 [[files]]
 file = "mods/forgetful-sniffer-v1.2.2.pw.toml"
@@ -2883,7 +2883,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "2fd5e0dbfc3d6e1feddc6cb405e9b482952d634dfb8bf930457339cf676deb5b"
+hash = "a35147555c5f7ea2d44e20f3eff469a48efd7f6edca0f91d1fee5d6dd31cb4ec"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
@@ -3004,7 +3004,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinned_lanterns-2.0.2+26.2.jar"
-hash = "b9c3eb2fa14bd7cb27cf328c340dfb673ae9b1471d7978cac5745adc8ed13c3f"
+hash = "d87fd6027a3c74a1f059e6b1dd92945354d9d3553c82368c3bd10b30a95649a6"
 
 [[files]]
 file = "mods/slabbed-0.5.2-alpha.10+26.2.pw.toml"
