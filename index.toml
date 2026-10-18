@@ -2397,6 +2397,10 @@ hash = "40ea89c527ed4fa10163f423f5f199d08e4280e53b2f7a0f3a653aad9f315f71"
 metafile = true
 
 [[files]]
+file = "mods/dracolotl-1.0.3+26.2.jar"
+hash = "03944158f0dd96bbc23a7c70bb7adbeda3711ad585d43b402a1c211467e86243"
+
+[[files]]
 file = "mods/drippyloadingscreen_fabric_3.1.5_MC_26.2.pw.toml"
 hash = "bb943a50bbb4e9b8a6cbe6cb4c418ef53cfcb1a53830942acefd2026482682a7"
 metafile = true
@@ -2792,6 +2796,10 @@ metafile = true
 file = "mods/mcw-windows-2.4.2-mc26.2fabric.pw.toml"
 hash = "eae69f5046b7793ef4aeb823b39c612caf0c69a29322adc1fb9798b0cb104fc8"
 metafile = true
+
+[[files]]
+file = "mods/melee_enchantments_expanded-1.0.0+26.2.jar"
+hash = "5b32ad7a980bfe7d1dbaa0f438509b64ec83c446c0ad8c33ddb4d8e1bf9cef57"
 
 [[files]]
 file = "mods/melody_fabric_1.0.17_MC_26.2.pw.toml"
