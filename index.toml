@@ -2883,7 +2883,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "8570c1a8afc39fe11fc40ef49976255bc183f5af70bef3fedf1f313d0ac81aa8"
+hash = "2fd5e0dbfc3d6e1feddc6cb405e9b482952d634dfb8bf930457339cf676deb5b"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
