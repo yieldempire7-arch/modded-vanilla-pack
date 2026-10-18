@@ -2838,11 +2838,6 @@ hash = "85865ab1132213c6b61a291f3e737cf28c9d5d4068f87ae882abb1104209b242"
 metafile = true
 
 [[files]]
-file = "mods/morefrogs.pw.toml"
-hash = "d9c6229d228e1d7a736a510abfd6a69587a277a8581f6947c1250effb7ac14f7"
-metafile = true
-
-[[files]]
 file = "mods/mru-1.0.33+26.2-fabric.pw.toml"
 hash = "c46e2299207c24c529ca5c1357de138cbb552b619b84595712277f98634b269b"
 metafile = true
