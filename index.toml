@@ -2207,7 +2207,7 @@ metafile = true
 
 [[files]]
 file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
-hash = "24a3a10c8ed4d2a8657249f0237dc440f153eef569abec79c06851816d3e514f"
+hash = "131eb7db941fe826f18485e27fb62e55e81a6451d733d21134dac38631805808"
 
 [[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
@@ -2839,6 +2839,11 @@ metafile = true
 [[files]]
 file = "mods/mru-1.0.33+26.2-fabric.pw.toml"
 hash = "c46e2299207c24c529ca5c1357de138cbb552b619b84595712277f98634b269b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "c1484b54342c5f80f8e32d76d62a5af00563d08002e976e153aea66da32ecc1a"
 metafile = true
 
 [[files]]
