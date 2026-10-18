@@ -3067,7 +3067,7 @@ metafile = true
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
-hash = "1f62df09139887c13f90dfae05b5442cb48438c89b37c8f30b17d4aef1b7b643"
+hash = "2b625fa1f0ee84eaf74b3853f64a5c03d61e7e2c08838ff9eac1d225297f1e45"
 
 [[files]]
 file = "mods/sway-2.4.4-fabric+26.2.pw.toml"
