@@ -2582,11 +2582,6 @@ file = "mods/friendsandfoes-fabric-5.0.2+mc26.2.jar"
 hash = "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7"
 
 [[files]]
-file = "mods/froglightsreimagined.pw.toml"
-hash = "cf81ef39460770ea1c611c2441ca26e9157dd76ba995b44ed539d4d45664e636"
-metafile = true
-
-[[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "1fafbfff1e6c31c4f2a9eb3d0dfa512ce15bd40b8c7065a0412f608cfd6267b7"
 metafile = true
@@ -3067,7 +3062,7 @@ metafile = true
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
-hash = "2b625fa1f0ee84eaf74b3853f64a5c03d61e7e2c08838ff9eac1d225297f1e45"
+hash = "5c8660ef3c0970e2addae8f6173ae9812e2a0ce18e67106cf223c31ddd97ecb9"
 
 [[files]]
 file = "mods/sway-2.4.4-fabric+26.2.pw.toml"
