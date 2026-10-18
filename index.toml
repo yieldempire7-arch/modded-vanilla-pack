@@ -2887,9 +2887,8 @@ hash = "2bb411b21305e1b43bf369cd10bc40726e7e205983246757a4ac66643b29f397"
 metafile = true
 
 [[files]]
-file = "mods/plushie-buddies.pw.toml"
-hash = "c089071bf05337828e521ff008b962451e73d3eeb886b6adee4d57e177318784"
-metafile = true
+file = "mods/plushie_buddies-0.1.7+26.2.jar"
+hash = "8570c1a8afc39fe11fc40ef49976255bc183f5af70bef3fedf1f313d0ac81aa8"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
