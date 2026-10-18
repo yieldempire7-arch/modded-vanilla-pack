@@ -3003,6 +3003,10 @@ hash = "ea7dcb07c14c362f1dc74dde31ff4703b663bc6b7132340681173733f56e79b5"
 metafile = true
 
 [[files]]
+file = "mods/skinned_lanterns-2.0.2+26.2.jar"
+hash = "b9c3eb2fa14bd7cb27cf328c340dfb673ae9b1471d7978cac5745adc8ed13c3f"
+
+[[files]]
 file = "mods/slabbed-0.5.2-alpha.10+26.2.pw.toml"
 hash = "e8f6f4f28b4e6c2b4e71c9c60d55f66a44933d3369414026f51cae3e119ba31f"
 metafile = true
