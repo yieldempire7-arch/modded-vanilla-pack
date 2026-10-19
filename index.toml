@@ -2502,6 +2502,10 @@ file = "mods/enable-commands-1.0.0.jar"
 hash = "9031646dc0734aae50ef152b2b29378253dd1e9557dd47db49c07c35c5453217"
 
 [[files]]
+file = "mods/energy-4.1.0-named.jar"
+hash = "4ddf4ec4f6e677ca6745d2c0716b2240891fbbe0ab4092ed3c123441fa6c468c"
+
+[[files]]
 file = "mods/entity_model_features-3.3.11-26.2-fabric.pw.toml"
 hash = "b1ac1a8925cbce0e89d690deb09e0d0e95fe775b367d7459d0634b8144c868c9"
 metafile = true
@@ -2895,6 +2899,10 @@ hash = "1bbd2624f80372eab29c2e33377daf1578408fa4f6a2b5dfac55bdc03801acd0"
 metafile = true
 
 [[files]]
+file = "mods/porting_lib-26.2-3.1.0+26.2.jar"
+hash = "6857caf983c59be67d420e9bf76f79213848ba1a8dd4ac6cb60f4fa8b2065967"
+
+[[files]]
 file = "mods/potted-farms-1.1.2.pw.toml"
 hash = "1b0d56a920a4ae2e704089d5fef439876d94432637a71864a1843a9c305acc75"
 metafile = true
@@ -3024,6 +3032,22 @@ metafile = true
 file = "mods/sol2f.pw.toml"
 hash = "6e1d970729fc937923feff79cfa154f0e28da8819fb5cf7e7355e1a12bdd79ba"
 metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-fabric-26.2-26.2-3.23.4.3+26.2.jar"
+hash = "1d64976b6bcb2dc0b73b9e7213b3c8c703f2c84f6bfbf27aefed4e7b684e82f7"
+
+[[files]]
+file = "mods/sophisticatedcore-fabric-26.2-1.2.9.21+26.2.jar"
+hash = "a165cbd271d572f681a4a556c0149f571b606b87f09984947ff49a830b982266"
+
+[[files]]
+file = "mods/sophisticatedstorage-fabric-26.2-26.2-1.3.7.9+26.2.jar"
+hash = "d38fc90ecab0029abbc3e7b17297d150b34f7bd851d97ddcdef1aabfb12ecbb9"
+
+[[files]]
+file = "mods/sophisticatedstorageinmotion-fabric-26.2-26.2-0.10.5.1+26.2.jar"
+hash = "a08d0a102a43bbf5d2748b50e702a31d88c963a6857808ab810873829105e806"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.pw.toml"
