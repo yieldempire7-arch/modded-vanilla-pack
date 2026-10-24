@@ -2346,7 +2346,7 @@ metafile = true
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "5465253683a7ac4e158b99bcd3eb129b061215fb8474404c59d72c0837dfdc7a"
+hash = "60e3c4fe33dfd3d202668877e4047f601f864c45c27076165ea975a1f709902d"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -3189,7 +3189,7 @@ hash = "1ad65da120997686a978ccd055216cf5ee0bfc84fe058597c8909167e545c702"
 
 [[files]]
 file = "mods/trinkets-4.1.0+26.2.jar"
-hash = "2d5fd961351cd038c7d58a8aeb9c39e1c87546088d12956816e4aa6945db5ad3"
+hash = "996f29608cd1b311e4b3814385bf1aea81cd92c3278fc09bc66b17f651ad6f37"
 
 [[files]]
 file = "mods/trinkets-4.1.0+26.2.pw.toml"
