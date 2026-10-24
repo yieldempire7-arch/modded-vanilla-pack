@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/BBEConfig.json"
-hash = "e6f4d135f257d311374c15f59d04e827ea68e30855c0bba43e5f169937d59332"
+hash = "e3020b2adcddabe9978e7b0e5fccfdff3adb8d9288ce6c1111d7d091885381a8"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
@@ -1561,6 +1561,10 @@ file = "config/stonecuttingupgrade-client.toml"
 hash = "445cd6322c5b2b14d5df434331de4e971e67f0f877a95f5eee7b879e6b91f828"
 
 [[files]]
+file = "config/stormiespiders/rotation-overrides.json"
+hash = "0d8c26b08fb31c6137f276b78f10b9a2bb4de7ba010016f84adc7ae8b84aa593"
+
+[[files]]
 file = "config/subtle_effects/blocks.toml"
 hash = "b6572f9ac6ab62067c26bfb695dfaa263609ac8955f855126eb79b9698b9d20f"
 
@@ -1694,7 +1698,7 @@ hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
 
 [[files]]
 file = "config/xaero/lib/profiles/default.cfg"
@@ -1795,6 +1799,10 @@ metafile = true
 file = "mods/BetterTridents-v26.2.0-mc26.2.x-Fabric.pw.toml"
 hash = "cc9c9a4240409512181478da987420f790bddd8c84f0cfccd1cfdd4bf85e358c"
 metafile = true
+
+[[files]]
+file = "mods/BeyondEnchant-1.9.0.jar"
+hash = "0922440a3d57fd248ba5b61173506d923ad95e3b60fa96be4477fdbe1ac05521"
 
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.pw.toml"
@@ -2106,6 +2114,10 @@ hash = "8a4ec0f7a0a1cd79351799badf6aebfcb4c9a13e97fbc16ddbfaeb0ead8317be"
 metafile = true
 
 [[files]]
+file = "mods/WilderWild-4.3-mc26.2-fabric.jar"
+hash = "211a624c81c6bbc2010975766c6f1e4cb20f4bce3ef8d28a9d175f4705362077"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "e628333b23a05174dce9681fc50390cd1155ef8b2e9b1169ae0cce4f784f8520"
 metafile = true
@@ -2170,6 +2182,10 @@ hash = "84cb7105c45efbac15dd7c9bab770201420456feb6da142c1ae1361e128504f1"
 metafile = true
 
 [[files]]
+file = "mods/bcsas-0.1-fabric-26.2.jar"
+hash = "2251ec4a32b6be0fa2176288083c0005c638e15058a5153fedd7386f43c28b8e"
+
+[[files]]
 file = "mods/bcsas-0.1-fabric-26.2.pw.toml"
 hash = "c5c29ea3c464bb0589ba3247cc1fa121039399ca83957c06e83cdcf6816331a0"
 metafile = true
@@ -2221,6 +2237,10 @@ hash = "131eb7db941fe826f18485e27fb62e55e81a6451d733d21134dac38631805808"
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
 hash = "e26d682502610de168a64117c5e61e0d55c7be460d018bf0e6fcf1eb8440692c"
 metafile = true
+
+[[files]]
+file = "mods/bwsas-0.1-fabric-26.2.jar"
+hash = "920e2bd85fcc297f2685d5af0afdca96f77d2083a72f1f2e5bf6825068ef7908"
 
 [[files]]
 file = "mods/bwsas-0.1-fabric-26.2.pw.toml"
@@ -2326,7 +2346,7 @@ metafile = true
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "1b70dc42160e2e4bd244ffbd277ca999e717c3f2835e6c311963e424d294263f"
+hash = "4de069b612d59e216e2c8a10b3217ca47289964c163a9f139a3397f957ebe035"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -2335,7 +2355,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "fcb484e80f26929c2969e9dc7677cd814202f3efc05aa9e0347764c7bc38c5f8"
+hash = "119aa011c61be22cdb6588d172c6d5f211930441b1549c1ce8c5997b89a9b781"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2416,6 +2436,10 @@ hash = "0717aa1ef2498aecfed39b49e8e1387a5454493b1737eeeffdc184e0fe454be9"
 file = "mods/drippyloadingscreen_fabric_3.1.5_MC_26.2.pw.toml"
 hash = "bb943a50bbb4e9b8a6cbe6cb4c418ef53cfcb1a53830942acefd2026482682a7"
 metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-5.3.2.jar"
+hash = "6f4fc5b225d93a3b528e627f612b1583c26468a4796abcf29ac0a57e3c586668"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
@@ -2758,6 +2782,10 @@ metafile = true
 file = "mods/mcw-doors-1.1.5-mc26.2fabric.pw.toml"
 hash = "d277d0bb5668011850c2695890c5188dce237d3e4fe7d14722641d492dfb474c"
 metafile = true
+
+[[files]]
+file = "mods/mcw-fences-1.2.1-mc26.2fabric.jar"
+hash = "ae1e1879ca3c5f275c176015d025c5f03f12a2562d874cf0063254dbe2f39bb2"
 
 [[files]]
 file = "mods/mcw-fences-1.2.1-mc26.2fabric.pw.toml"
@@ -3108,7 +3136,7 @@ metafile = true
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
-hash = "5c8660ef3c0970e2addae8f6173ae9812e2a0ce18e67106cf223c31ddd97ecb9"
+hash = "a9cd0a72de4ae0c0eeff8724a550acf29fe60bc30ac009f695068c070b04fd78"
 
 [[files]]
 file = "mods/sway-2.4.4-fabric+26.2.pw.toml"

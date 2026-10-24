@@ -46,7 +46,7 @@
     },
     {
       "option": "optimize.lectern",
-      "value": true
+      "value": false
     },
     {
       "option": "animation.chest",
