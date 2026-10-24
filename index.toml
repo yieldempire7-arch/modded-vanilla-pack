@@ -9,6 +9,10 @@ file = "config/ClickMobs/config.yml"
 hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "64b166421f0a7bb51a4aaa5828c66328b9ba747d3ccddd6a39d3d408415aa231"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1779,6 +1783,10 @@ hash = "b6e4eb360786ecf15095bc77ad292861aa2e05aa33918d0a5293b34640fdc1f3"
 metafile = true
 
 [[files]]
+file = "mods/BetterPaleGarden-26.2-1.6.1-Fabric.jar"
+hash = "16c770626c42cb32666e38ef91136580ce35f1a4651b84222727364643657732"
+
+[[files]]
 file = "mods/BetterThanMending-2.3.0-merged.pw.toml"
 hash = "76ef1c832bba6eab34c0e9b8f30a4b276e180cb11bd9f5424a89ae6b16f7685e"
 metafile = true
@@ -2315,6 +2323,10 @@ metafile = true
 file = "mods/crawlondemand-26.2.x-1.3.1+fabric.pw.toml"
 hash = "bb9656f510bb85d6d44aaa36b64b7b895ed48b40b06526b72ebb1671c5a10d31"
 metafile = true
+
+[[files]]
+file = "mods/creaking_expansion-26.2-1.0.0.jar"
+hash = "048dcd009d51312169f6b3a84cd115a27cda8c2c38ef14636338d8c4618cba6a"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -3256,3 +3268,7 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
+
+[[files]]
+file = "shaderpacks/Mellow v3.4.1.zip"
+hash = "449e97a9f3616bf7617ed92ae96c6fb69a87f2eb0b08f73f30671e3ba881730f"
