@@ -6,7 +6,7 @@ hash = "e3020b2adcddabe9978e7b0e5fccfdff3adb8d9288ce6c1111d7d091885381a8"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
-hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
+hash = "1bda2a26273adb50504ca50ce0e1f6740bfd62f49df26cc9bff2e463076287e7"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -2346,7 +2346,7 @@ metafile = true
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "942f6140dea42e8e734c3736a5ed704f11d7e16fbf40639f153ab7f345ee5a8b"
+hash = "d4946ff12e9e0d99c087218a790108cdf7ba7f24828893218cf980939662ced9"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -3188,6 +3188,10 @@ file = "mods/travelersbackpacksimpleupgrading-fabric-26.2-1.0.0.jar"
 hash = "1ad65da120997686a978ccd055216cf5ee0bfc84fe058597c8909167e545c702"
 
 [[files]]
+file = "mods/trinkets-4.1.0+26.2.jar"
+hash = "2d5fd961351cd038c7d58a8aeb9c39e1c87546088d12956816e4aa6945db5ad3"
+
+[[files]]
 file = "mods/trinkets-4.1.0+26.2.pw.toml"
 hash = "e3c82b8899a6b907c6e8af099bec49f63bf742c28ced18d7bbbcf7cfa7554fde"
 metafile = true
@@ -3277,7 +3281,7 @@ metafile = true
 
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
-hash = "8b1bf9eb4903d9962104e1974d26afa9888d3337298ecd7843039d82cec8b53c"
+hash = "e298740a3bcf4bea2aba200b87611943cab865c8d7573a33c32e134f41227453"
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
