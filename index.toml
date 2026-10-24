@@ -2326,7 +2326,7 @@ metafile = true
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "048dcd009d51312169f6b3a84cd115a27cda8c2c38ef14636338d8c4618cba6a"
+hash = "355b417b8bf5afc1f92575ba02fc5fe7d8e85e5e4cc1771f294b70703cdaba96"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
