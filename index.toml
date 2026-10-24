@@ -1562,7 +1562,7 @@ hash = "445cd6322c5b2b14d5df434331de4e971e67f0f877a95f5eee7b879e6b91f828"
 
 [[files]]
 file = "config/stormiespiders/rotation-overrides.json"
-hash = "0d8c26b08fb31c6137f276b78f10b9a2bb4de7ba010016f84adc7ae8b84aa593"
+hash = "dfb8fb2c3141b09f4a6eeb0c159b73d16c66a72d7f379f82451adacd54c41a0a"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
