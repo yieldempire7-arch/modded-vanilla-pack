@@ -3092,6 +3092,11 @@ hash = "51bb5816c88ef0da8127b0b0ab7d4d61d59979afd9dd7e9d9def156cc1718495"
 metafile = true
 
 [[files]]
+file = "mods/stormies-spiders.pw.toml"
+hash = "a8e6e306fcd2e4eb13a732a20cf3a2f5adc8bb5aa0e9710e945e80eec46935bd"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc26.2.pw.toml"
 hash = "7089515820aafcdd4c5f2b76cdb7c0ead8c1b6bc0b13352f49b6c0ee6dc63856"
 metafile = true
