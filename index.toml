@@ -2357,7 +2357,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "15caa8981e3923accbfe511b86d7d4f09449f1ee955b7c3d878de6be80fc9cba"
+hash = "b289a3690b373b3e15684805f56354a9bb6ab752536d2dcc49e6e9c004064953"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3252,4 +3252,4 @@ hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1.zip"
-hash = "449e97a9f3616bf7617ed92ae96c6fb69a87f2eb0b08f73f30671e3ba881730f"
+hash = "9c489c7c70704d07394a18ba7a0c6c7a7dbf5d4152a83f1a30ec8f98bd9911db"
