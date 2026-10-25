@@ -14,7 +14,7 @@ hash = "c8e63e2a124b5f5a45d4f607070f3797408a8c130a9451d16c66996fc0071e11"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "a12066d264242bda868f487eb0201b99657659ed07c9db04dbd2f995d72329e5"
+hash = "48097aa6cbddfaf1dccde65757cb850e75c02a712d9ae70524c7f79eb169b83f"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1989,6 +1989,11 @@ hash = "ae801b98225a73b5e22dd69ea5901102baacb32b4a8839329ee7e838ba16a497"
 [[files]]
 file = "mods/DiagonalWindows-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "75033be151db2a0ebecbe2a9a7c9bed1930bbeaee6229beb71f387a192987cfa"
+
+[[files]]
+file = "mods/DistantHorizons-3.3.3-26.2-fabric-neoforge.pw.toml"
+hash = "7e6c355f8aef29caf00bcb9a398ef498e09000aa275de0b277dcadaadb07ed02"
+metafile = true
 
 [[files]]
 file = "mods/Easier_Gunpowder.pw.toml"
