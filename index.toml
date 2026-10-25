@@ -2075,9 +2075,8 @@ hash = "0b7e22880b25ab0476fb3e3e439af13592f5c7b4ff6e8b651f0b583381bfb9c3"
 metafile = true
 
 [[files]]
-file = "mods/ItemsDisplayed - v1.3-26.2.pw.toml"
-hash = "dae8ca21ffb98eaac7e3adc4eaed6cfd86ad6aee2b754d673ace1d3dfdd6450b"
-metafile = true
+file = "mods/ItemsDisplayed - v1.3-26.2.jar"
+hash = "0db1318831acb661e89261a5e5d0f16a805718a6536cf4622edd22cbdba0dd1d"
 
 [[files]]
 file = "mods/Jade-mc26.2-Fabric-26.2.11.pw.toml"
@@ -2461,7 +2460,7 @@ hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "619fef6a2c7914bb18d42abf61c48cd8918f56c7396c0cebac7588902ca627c8"
+hash = "35dcbb55e33e92c491ab5676fbab88a72855d5b3c0eb0e595b15e7f10dd5c538"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -2498,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "960fb503cb632d4ed3c2fdea44f44f037faf977280aa915ba61baad4450b3f10"
+hash = "5ec3fdafe5ca5b26ccc22ad79efa9761449a6c20364d2b1415b6802c7cd191d5"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3393,4 +3392,4 @@ hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1.zip"
-hash = "9c489c7c70704d07394a18ba7a0c6c7a7dbf5d4152a83f1a30ec8f98bd9911db"
+hash = "b8602a4424f69dbe4b5028faa4848044b5fe1aff115d6b3e304a356eea879d7b"
