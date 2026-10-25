@@ -1795,11 +1795,6 @@ file = "mods/BetterThanMending-2.3.0-merged.jar"
 hash = "94f0b7280f3935908790a3b72aeeb702a94bc1245689f3645f51000dc8c32bad"
 
 [[files]]
-file = "mods/BetterThanMending-2.3.0-merged.pw.toml"
-hash = "76ef1c832bba6eab34c0e9b8f30a4b276e180cb11bd9f5424a89ae6b16f7685e"
-metafile = true
-
-[[files]]
 file = "mods/BetterTridents-v26.2.0-mc26.2.x-Fabric.pw.toml"
 hash = "cc9c9a4240409512181478da987420f790bddd8c84f0cfccd1cfdd4bf85e358c"
 metafile = true
@@ -1807,11 +1802,6 @@ metafile = true
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.jar"
 hash = "0922440a3d57fd248ba5b61173506d923ad95e3b60fa96be4477fdbe1ac05521"
-
-[[files]]
-file = "mods/BeyondEnchant-1.9.0.pw.toml"
-hash = "411bd85e9a05684db4c8762df70f27de0e069a6c8016427c7f6e7c12b7aac261"
-metafile = true
 
 [[files]]
 file = "mods/Bookshelf-fabric-MC26.2-26.2.0.4.pw.toml"
@@ -1836,11 +1826,6 @@ metafile = true
 [[files]]
 file = "mods/ClickMobs-1.3.4+26.2-fabric.jar"
 hash = "6f3af06ce5b50fdb7cc1d708d326f504a984f2278fd5de295428a8e9a8e90650"
-
-[[files]]
-file = "mods/ClickMobs-1.3.4+26.2-fabric.pw.toml"
-hash = "58383f690cd903d9b1a41849ef99440f87599b057f32154b28c449d686f43a59"
-metafile = true
 
 [[files]]
 file = "mods/Clumps-fabric-26.2-26.2.1.pw.toml"
@@ -2154,18 +2139,8 @@ file = "mods/animal_feeding_trough-1.2.1+26.2.jar"
 hash = "62c65191daf3e68c5cfb9c6e9a474923a85b7596b4595aba72055ae19d45a3e6"
 
 [[files]]
-file = "mods/animal_feeding_trough-1.2.1+26.2.pw.toml"
-hash = "044f37e886e43e179f0e781cceb49b44dea1fdd6a9e0069796ed5f3a8bf97028"
-metafile = true
-
-[[files]]
 file = "mods/appleskin-fabric-mc26.2-3.0.10.pw.toml"
 hash = "6310168b611a5200ffa4db9a3c13365fb5817b2cb13a7b8fc5a76bee4f166943"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "ba2e5be527f3960a1bdcb2119cfda7adc0a2d5d9982fa8e12de6742a8d5bd02c"
 metafile = true
 
 [[files]]
@@ -2183,11 +2158,6 @@ hash = "40702b8eddc360b3055dc82f60b3a3534c4b8a6730afcf74ea0c1f6cbcdf58c2"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
-metafile = true
-
-[[files]]
 file = "mods/balm-fabric-26.2-26.2.0.8.pw.toml"
 hash = "5113ac0f48925c33f3ad542add78853e85285eea6831402d0ea6767d98efa422"
 metafile = true
@@ -2197,18 +2167,8 @@ file = "mods/bbe-fabric-1.3.7+mc26.2.jar"
 hash = "1c36fcff22033c4e9e6bafe5956f57a6f83857804c12ea4feb75d3e3eace371b"
 
 [[files]]
-file = "mods/bbe-fabric-1.3.7+mc26.2.pw.toml"
-hash = "84cb7105c45efbac15dd7c9bab770201420456feb6da142c1ae1361e128504f1"
-metafile = true
-
-[[files]]
 file = "mods/bcsas-0.1-fabric-26.2.jar"
 hash = "2251ec4a32b6be0fa2176288083c0005c638e15058a5153fedd7386f43c28b8e"
-
-[[files]]
-file = "mods/bcsas-0.1-fabric-26.2.pw.toml"
-hash = "c5c29ea3c464bb0589ba3247cc1fa121039399ca83957c06e83cdcf6816331a0"
-metafile = true
 
 [[files]]
 file = "mods/beautify-fabric-2.0.0+26.2.pw.toml"
@@ -2261,11 +2221,6 @@ metafile = true
 [[files]]
 file = "mods/bwsas-0.1-fabric-26.2.jar"
 hash = "920e2bd85fcc297f2685d5af0afdca96f77d2083a72f1f2e5bf6825068ef7908"
-
-[[files]]
-file = "mods/bwsas-0.1-fabric-26.2.pw.toml"
-hash = "38768ee1a8f4fd7b41256f74addb2c2c48386c38741095afd41bee4e46c67669"
-metafile = true
 
 [[files]]
 file = "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.52.pw.toml"
@@ -2364,11 +2319,6 @@ file = "mods/crawlondemand-26.2.x-1.3.1+fabric.jar"
 hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
-file = "mods/crawlondemand-26.2.x-1.3.1+fabric.pw.toml"
-hash = "bb9656f510bb85d6d44aaa36b64b7b895ed48b40b06526b72ebb1671c5a10d31"
-metafile = true
-
-[[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
 hash = "ac522150f2763f007ba2e4419f82279a9a4b7997d50a3eca6dee2994d5a0d47e"
 
@@ -2463,7 +2413,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-5.3.2.jar"
-hash = "6f4fc5b225d93a3b528e627f612b1583c26468a4796abcf29ac0a57e3c586668"
+hash = "ae748f93df694e642de699eedf5be85b6a1a614e81caf85429995975e274a870"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
@@ -2516,11 +2466,6 @@ hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-hash = "fe1901158f49cae71686a3519334607fccaa59e7dbb7b4f8fbbaab70d527a2c8"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
 metafile = true
@@ -2533,11 +2478,6 @@ metafile = true
 [[files]]
 file = "mods/earth-and-water-1.0.6-26.2-hotfix.jar"
 hash = "cba5fee742fd7248022dde13fded7d34514e02b3849c89d81a4b79dc021c69be"
-
-[[files]]
-file = "mods/earth-and-water.pw.toml"
-hash = "70cc1743eeb10bd45d8b5efd6eb771a56bf9bc7bd1bfb5039bc92a8b835121c9"
-metafile = true
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
@@ -2638,11 +2578,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 hash = "fe01f1594f462c1980ffb34c0bc3fb355fea32628467765aa91c98c21a9158e2"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes.pw.toml"
-hash = "5a3b5129b705e77759b01d7087e876a678c9032a6fd5967e5b54517ad29914ab"
 metafile = true
 
 [[files]]
@@ -2816,11 +2751,6 @@ file = "mods/mcw-fences-1.2.1-mc26.2fabric.jar"
 hash = "d4d501fd51f0f2e7cea87a200bc45f2b88342da7b7ea0e8008dbf36657530d98"
 
 [[files]]
-file = "mods/mcw-fences-1.2.1-mc26.2fabric.pw.toml"
-hash = "ebad77e7bc84902c8b77cc273b5b3084efe36a117280ba434750ee81340e7613"
-metafile = true
-
-[[files]]
 file = "mods/mcw-furniture-3.4.2-mc26.2fabric.pw.toml"
 hash = "086d4c5e06ffbde89c69e325592674ee547d729204191a8fd133f821b5417a9e"
 metafile = true
@@ -2896,11 +2826,6 @@ metafile = true
 [[files]]
 file = "mods/more-babies-26.2+3.1.0-fabric.jar"
 hash = "fcc6fce2a203a8b10ba74ef24f5c8f6d4ea95ba4941f5681289d9f27980a095c"
-
-[[files]]
-file = "mods/more-babies-26.2+3.1.0-fabric.pw.toml"
-hash = "08f703f63a4e18e6ab6408b929536ba7e58e89857dcbffec14329886bdf21e79"
-metafile = true
 
 [[files]]
 file = "mods/more-chest-variants-1.5.14+26.1.1-fabric.pw.toml"
@@ -2994,11 +2919,6 @@ file = "mods/punchy_puppies-1.0.2-fabric-26.2.jar"
 hash = "447dfa359b669a30904f9c3d5b74d94eda655252431ec452256d11db5c64bd9f"
 
 [[files]]
-file = "mods/punchy_puppies-1.0.2-fabric-26.2.pw.toml"
-hash = "7aacbb7cd63990019c62bbb07bfb05014f101359089278f115b4c6524ed9a5f7"
-metafile = true
-
-[[files]]
 file = "mods/quad-1.2.17+26.2-fabric.pw.toml"
 hash = "485a8ab5bdbb1bb0c1cbdd7f2563abf1f4e575fe81ad6d0a4f8e650e85407ae8"
 metafile = true
@@ -3006,11 +2926,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled-1.2.5-fabric-mc26.2.jar"
 hash = "869cb84e7f55f88b48a6a0eb6272e30b7094b51a20795c1300446e19c40ab292"
-
-[[files]]
-file = "mods/rechiseled-1.2.5-fabric-mc26.2.pw.toml"
-hash = "c6140b1a9c215434498c0ed267039b71c82ff62d3089ed46c036ce9f7e760626"
-metafile = true
 
 [[files]]
 file = "mods/refurbished_furniture-fabric-26.2-1.0.25.jar"
@@ -3038,11 +2953,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "221a8b81d3aff5377d3b1f96c38f8425eb8bf238b92cbeba4d2081c12bf7e1cb"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "85abccaee90ea0b213687eaacafde09bcd30fb3fbcf6404e8e31245929f2e69b"
 metafile = true
 
 [[files]]
@@ -3236,11 +3146,6 @@ file = "mods/trinkets-4.1.0+26.2.jar"
 hash = "996f29608cd1b311e4b3814385bf1aea81cd92c3278fc09bc66b17f651ad6f37"
 
 [[files]]
-file = "mods/trinkets-4.1.0+26.2.pw.toml"
-hash = "e3c82b8899a6b907c6e8af099bec49f63bf742c28ced18d7bbbcf7cfa7554fde"
-metafile = true
-
-[[files]]
 file = "mods/trinkets-elytra-support-1.0.0.pw.toml"
 hash = "56e319d2c24cb5de63093c77f6025bcdbb75bf24865bde743a3aad0d30b61ca5"
 metafile = true
@@ -3326,11 +3231,6 @@ metafile = true
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
 hash = "2c1050b0a959b3f2bcd6f9d5e3d3cd7f1c45186b1bc8a76a0c68895ded370e41"
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "4091c5c4fff3ff8171e66af3e4fa2dfb5098fae111adc9ae1fc4cd0527d79b6c"
-metafile = true
 
 [[files]]
 file = "mods/worldedit-mod-7.4.5.jar"
