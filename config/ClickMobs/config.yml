@@ -37,12 +37,13 @@ check_update: true
 # The whitelist takes precedence over the blacklist.
 # (Blacklisted mobs included in the whitelist will still be allowed)
 whitelisted_mobs:
-- cow
-- pig
-- sheep
+- cow ?not ?baby
+- pig ?not ?baby
+- sheep ?not ?baby
 
 # Mobs that are not allowed to be picked up.
 blacklisted_mobs:
+- ?baby
 - ?hostile
 - wither
 - ender_dragon
@@ -64,3 +65,22 @@ enable_dispensers: true
 blacklisted_items_in_hand:
 - lead
 - saddle
+- lantern
+- soul_lantern
+- copper_lantern
+- exposed_copper_lantern
+- weathered_copper_lantern
+- oxidized_copper_lantern
+- waxed_copper_lantern
+- waxed_exposed_copper_lantern
+- waxed_weathered_copper_lantern
+- waxed_oxidized_copper_lantern
+- shears
+- name_tag
+- more_babies:cursed_clock_on_a_stick
+- moblassos:golden_lasso
+- moblassos:aqua_lasso
+- moblassos:diamond_lasso
+- moblassos:emerald_lasso
+- moblassos:hostile_lasso
+- moblassos:creative_lasso
