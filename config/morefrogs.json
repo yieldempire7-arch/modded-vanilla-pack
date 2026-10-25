@@ -1,0 +1,18 @@
+{
+  "lavaInteractionResult": "minecraft:blackstone",
+  "waterInteractionResult": "minecraft:calcite",
+  "customFluidInteractions": [],
+  "frogDrops": [
+    "morefrogs:infernal,minecraft:magma_cube,minecraft:magma_block,1.0,1,1",
+    "morefrogs:infernal,minecraft:magma_cube,minecraft:magma_cream,0.7,1,1",
+    "morefrogs:warped,minecraft:magma_cube,minecraft:shroomlight,1.0,1,1",
+    "morefrogs:crimson,minecraft:magma_cube,minecraft:shroomlight,1.0,1,1",
+    "morefrogs:spirit,minecraft:magma_cube,minecraft:bone_meal,1.0,1,1",
+    "morefrogs:purpur,minecraft:magma_cube,minecraft:chorus_fruit,1.0,1,1",
+    "morefrogs:ender,minecraft:magma_cube,morefrogs:light_at_the_end,0.4,1,1",
+    "morefrogs:sculk,minecraft:slime,minecraft:sculk,1.0,1,1",
+    "morefrogs:poison_dart,minecraft:slime,morefrogs:mulch,1.0,1,1",
+    "morefrogs:wood,minecraft:slime,minecraft:blue_ice,1.0,1,1",
+    "morefrogs:dusk_and_dawn,minecraft:slime,morefrogs:skybox_core,0.3,1,1"
+  ]
+}

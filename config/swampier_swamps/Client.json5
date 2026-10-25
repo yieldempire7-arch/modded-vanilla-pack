@@ -1,0 +1,10 @@
+{
+	/* Toggles whether Dragonflies should be rendered with size variations. This
+	   setting is purely cosmetic, and does not affect the Hit Boxes.
+	*/
+	"randomizeDragonflySizes": true,
+	/* This value is used to Randomize the Dragonfly sizes, smaller values result
+	   in smaller difference in between the Dragonfly sizes.
+	*/
+	"dragonflySizeModifier": 10
+}
