@@ -75,7 +75,7 @@ flintMaterialWhitelist = [
 enabled = true
 repairOnShiftUse = true
 autoRepairOnBreak = true
-enableRegularMendingBehavior = false
+enableRegularMendingBehavior = true
 
 [anvilImprovements]
 modifyDegradationChance = true

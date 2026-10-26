@@ -1558,7 +1558,7 @@ hash = "8532319af4da6359c6d657a156a0f7f42d06d519bee971c741ab55cbff66c175"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
-hash = "6259179b0073209f45d95d339448ec188501adb6fba4ecdfd966bc048aa1c9f3"
+hash = "76baaa5ac8fad66fc4698199f344ec5a10bda02c27ad324be8aa0060414a6b11"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -1933,7 +1933,7 @@ metafile = true
 
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.jar"
-hash = "92c187ac990afb1e42d3f112a2c0b0bf009f7c540316380aa15c236109661155"
+hash = "816e3aa2a9a296e3727ab099f74d7755cdea53e65bdd63de624b43ff208ca872"
 
 [[files]]
 file = "mods/Bookshelf-fabric-MC26.2-26.2.0.4.pw.toml"
@@ -2072,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/ItemsDisplayed - v1.3-26.2.jar"
-hash = "0db1318831acb661e89261a5e5d0f16a805718a6536cf4622edd22cbdba0dd1d"
+hash = "e623bdb5b9da685f49764f567e3044993c949bd0d203782c6c585a8190aa0b70"
 
 [[files]]
 file = "mods/Jade-mc26.2-Fabric-26.2.11.pw.toml"
@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "114c975223ab24419e69af0203d14faeaf21b2f8c06dbff3a28d4e8843e35458"
+hash = "34f770461cb040b5401057e30262af0be5ef744a425d52b49a8b2b94823fd645"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2549,7 +2549,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-5.3.2.jar"
-hash = "ea5fc98ec9ed99b8f338c7081bc029e44fbbcc95b7cd3c362b35bdfad3c52aaf"
+hash = "c5aa7b3a572645695a8c63fc04b5a6a6a29f8740724ab9babd5c2647ce0d4191"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
@@ -2617,7 +2617,7 @@ hash = "66cfa3c8b0788d0d4a46961f08642562536fce3754887f2e132f809b9d7f8fe7"
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
-hash = "0d49986ba73f868d3cc8fabc03fe6cc1010316e1d4bfe452e8d1d121e411d714"
+hash = "09e6b3b62bd96dd43fcf2eb81ac211a08db1b4ef3d98d7408f10485613716612"
 
 [[files]]
 file = "mods/easyautocycler-fabric-26.2-3.1.2.pw.toml"
@@ -2928,7 +2928,7 @@ metafile = true
 
 [[files]]
 file = "mods/melee_enchantments_expanded-1.0.0+26.2.jar"
-hash = "0b2f4d3e3b286c476e990eb0d4b547fecf85eeb1c6e81c99a534f535bfd96bdc"
+hash = "7e936bc13110f3934ecc61b45ea81635b5ae360de0ce7d27239a89d8e5d5bad0"
 
 [[files]]
 file = "mods/melody_fabric_1.0.17_MC_26.2.pw.toml"
@@ -3366,7 +3366,7 @@ metafile = true
 
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
-hash = "5a08881923bba955f56448f3f38d67f37903494f8a5e92d72f3c4ffcc34ddbea"
+hash = "1c8633ac26a7eca81515077cf5d3d98ef178929197f50017de2c0ddf4d664ceb"
 
 [[files]]
 file = "mods/worldedit-mod-7.4.5.jar"
