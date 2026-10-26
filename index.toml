@@ -13,10 +13,6 @@ file = "config/ClickMobs/config.yml"
 hash = "c8e63e2a124b5f5a45d4f607070f3797408a8c130a9451d16c66996fc0071e11"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "48097aa6cbddfaf1dccde65757cb850e75c02a712d9ae70524c7f79eb169b83f"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -3391,5 +3387,13 @@ file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+hash = "56838f6aee9a174d234e522fcab5ba99939ca8a8fb704795b22f40a08fdc9665"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip"
+hash = "26fe5b1fe776786d192316dbe8bc6476a85797ae4705f53e2725e2fdf3c6a7a3"
+
+[[files]]
 file = "shaderpacks/Mellow v3.4.1.zip"
-hash = "b8602a4424f69dbe4b5028faa4848044b5fe1aff115d6b3e304a356eea879d7b"
+hash = "fcb7554e3aa398be81987e9383db43da7105bd27ca2aac3995160d086fe94c80"
