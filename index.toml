@@ -1933,7 +1933,7 @@ metafile = true
 
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.jar"
-hash = "0922440a3d57fd248ba5b61173506d923ad95e3b60fa96be4477fdbe1ac05521"
+hash = "92c187ac990afb1e42d3f112a2c0b0bf009f7c540316380aa15c236109661155"
 
 [[files]]
 file = "mods/Bookshelf-fabric-MC26.2-26.2.0.4.pw.toml"
@@ -2465,7 +2465,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "119aa011c61be22cdb6588d172c6d5f211930441b1549c1ce8c5997b89a9b781"
+hash = "069e81808b5e388403367fc401e3ccc95f5fef111cee38c3bbf350b9a9e3f047"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "5ec3fdafe5ca5b26ccc22ad79efa9761449a6c20364d2b1415b6802c7cd191d5"
+hash = "114c975223ab24419e69af0203d14faeaf21b2f8c06dbff3a28d4e8843e35458"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2549,7 +2549,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-5.3.2.jar"
-hash = "ae748f93df694e642de699eedf5be85b6a1a614e81caf85429995975e274a870"
+hash = "ea5fc98ec9ed99b8f338c7081bc029e44fbbcc95b7cd3c362b35bdfad3c52aaf"
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
@@ -2613,7 +2613,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth-and-water-1.0.6-26.2-hotfix.jar"
-hash = "cba5fee742fd7248022dde13fded7d34514e02b3849c89d81a4b79dc021c69be"
+hash = "66cfa3c8b0788d0d4a46961f08642562536fce3754887f2e132f809b9d7f8fe7"
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
@@ -2928,7 +2928,7 @@ metafile = true
 
 [[files]]
 file = "mods/melee_enchantments_expanded-1.0.0+26.2.jar"
-hash = "5b32ad7a980bfe7d1dbaa0f438509b64ec83c446c0ad8c33ddb4d8e1bf9cef57"
+hash = "0b2f4d3e3b286c476e990eb0d4b547fecf85eeb1c6e81c99a534f535bfd96bdc"
 
 [[files]]
 file = "mods/melody_fabric_1.0.17_MC_26.2.pw.toml"
@@ -3366,7 +3366,7 @@ metafile = true
 
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
-hash = "2c1050b0a959b3f2bcd6f9d5e3d3cd7f1c45186b1bc8a76a0c68895ded370e41"
+hash = "5a08881923bba955f56448f3f38d67f37903494f8a5e92d72f3c4ffcc34ddbea"
 
 [[files]]
 file = "mods/worldedit-mod-7.4.5.jar"
