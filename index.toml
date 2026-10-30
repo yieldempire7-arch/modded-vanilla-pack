@@ -13,6 +13,10 @@ file = "config/ClickMobs/config.yml"
 hash = "c8e63e2a124b5f5a45d4f607070f3797408a8c130a9451d16c66996fc0071e11"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "50bbc5a208ab57ba0a78919cd8016e926a332e3e811bccab31a2ac62d3104fc2"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -186,7 +190,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "25c79a4b24b97eea9f697eed909a78cc9fd38f949aaada9fe54db3544d9fe661"
+hash = "83dea76f030469cd8fdec294b6e97304a7bfe4bd0681a1a1c39fc518a5ff484e"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -1666,7 +1670,7 @@ hash = "0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab"
 
 [[files]]
 file = "config/superenchants.json"
-hash = "9ccd94cd074547137804ddf95a5113d9a3596e794ffc2d3a29d0331fddf9ace4"
+hash = "faa8fe6cfddef227858925876f1e357c6f7603da334c336c24ea83a098d70771"
 
 [[files]]
 file = "config/swampier_swamps/Client.json5"
@@ -2248,7 +2252,7 @@ metafile = true
 
 [[files]]
 file = "mods/WilderWild-4.3-mc26.2-fabric.jar"
-hash = "211a624c81c6bbc2010975766c6f1e4cb20f4bce3ef8d28a9d175f4705362077"
+hash = "432685a1320c288cd98f79edd22e7d8ef575025d234d40eced01df5f16b71d25"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -2304,7 +2308,7 @@ hash = "1c36fcff22033c4e9e6bafe5956f57a6f83857804c12ea4feb75d3e3eace371b"
 
 [[files]]
 file = "mods/bcsas-0.1-fabric-26.2.jar"
-hash = "2251ec4a32b6be0fa2176288083c0005c638e15058a5153fedd7386f43c28b8e"
+hash = "cc9e0f44007e09fe00779c0575a4788fde5ae471868c9d464f4390e42b5b9b0b"
 
 [[files]]
 file = "mods/beautify-fabric-2.0.0+26.2.pw.toml"
@@ -2347,7 +2351,7 @@ metafile = true
 
 [[files]]
 file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
-hash = "131eb7db941fe826f18485e27fb62e55e81a6451d733d21134dac38631805808"
+hash = "6580c7722cf7aaf799f235f62321a2a7dd8b5507664e87fc2512ee99e5c2ec97"
 
 [[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
@@ -2356,7 +2360,7 @@ metafile = true
 
 [[files]]
 file = "mods/bwsas-0.1-fabric-26.2.jar"
-hash = "920e2bd85fcc297f2685d5af0afdca96f77d2083a72f1f2e5bf6825068ef7908"
+hash = "1f5970e8082ba384dbb7f92d081e7176882e253b4dacb7e839cc5b28899e5a18"
 
 [[files]]
 file = "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.52.pw.toml"
@@ -2465,7 +2469,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "069e81808b5e388403367fc401e3ccc95f5fef111cee38c3bbf350b9a9e3f047"
+hash = "7ca0b07136614e2600e09c010f33188886288c01fae90a9db22a418ebeca28c6"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2493,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "34f770461cb040b5401057e30262af0be5ef744a425d52b49a8b2b94823fd645"
+hash = "52beb5ed7c8616fcd5ab64b37b8d90b797a2dcabdc9baf9598f8b37a14e5f83d"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2613,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth-and-water-1.0.6-26.2-hotfix.jar"
-hash = "66cfa3c8b0788d0d4a46961f08642562536fce3754887f2e132f809b9d7f8fe7"
+hash = "7f139bb7c3f0283574b6cb0a8c05310b1fa7ebcefa113b6b4fd095559bc31deb"
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
@@ -2743,6 +2747,10 @@ metafile = true
 file = "mods/geckolib-fabric-26.2-5.5.5.pw.toml"
 hash = "64af275f3fe7739e7dbc25edb7c1f73bf6863092a8e4a06d29a43d0b5d3848a5"
 metafile = true
+
+[[files]]
+file = "mods/healingbed 26.2 (Fabric).jar"
+hash = "75e8428c6a980b9b0f1fba3cb9e61837466412660abf776547156dbf50c6df5c"
 
 [[files]]
 file = "mods/healingbed 26.2 (Fabric).pw.toml"
@@ -2950,6 +2958,10 @@ hash = "b2df8994b9c6fe3005c01e822c7eab549b8a51cfd36294a4206e00150f98c9e5"
 metafile = true
 
 [[files]]
+file = "mods/mob-heads-v5.1.1.jar"
+hash = "b7f763d86183cc79865e414ae7927450b5011156f2a327ac1e6edbdc8f109aa9"
+
+[[files]]
 file = "mods/mob-heads-v5.1.1.pw.toml"
 hash = "90a7bceb2176f8b1ac99694d55f05c0537bee874195171257e3791ea62a8a510"
 metafile = true
@@ -2985,7 +2997,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether_boats-1.0.1-fabric-26.2.jar"
-hash = "5459d9b86a388481ad14c99784ce4af65f46c6006cd67d574a3a6ff2c468e497"
+hash = "5ec43a5dc7711c1fc3fa521c17c5a9217c342b9c217c1c0556dd4ce8b68bbdd4"
 
 [[files]]
 file = "mods/netherite-compass-1.16.0.pw.toml"
@@ -3024,7 +3036,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "66ce0aa75df268305b3a26731e4c057e9302fb7a95484d38a85586217b5aa490"
+hash = "35c809c797f11589336df0113b965050a418a14bf0656af23b738a226e246a3b"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
@@ -3033,7 +3045,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib-26.2-3.1.0+26.2.jar"
-hash = "702e8c679868bf58d8d942543f0c0761ab74d8f91a7fad0efc85aeba7a04857b"
+hash = "7c0fb846579d9b60aadc3873d63549d31752e7ba2493a25aa40bbac857bbc73e"
 
 [[files]]
 file = "mods/potted-farms-1.1.2.pw.toml"
@@ -3113,7 +3125,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill-26.2-1.8.1-fabric.jar"
-hash = "51c72f4ebf09b79eb449b18aa7f87c3fc895381af3c5bc75cf48edb6443afe06"
+hash = "e45d2c2455dc11d0c004605a4f32f6101e089aeb85868f703fb6f2ad8615cef1"
 
 [[files]]
 file = "mods/sensible_stackables-fabric-3.0.3+26.2.pw.toml"
@@ -3165,19 +3177,19 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-fabric-26.2-26.2-3.23.4.3+26.2.jar"
-hash = "706cb96dae4bb689bdf996a6642c283c80553a9d7cde993daff271c6a535b614"
+hash = "ddc171c70958f81613e4266e2059a669f99f714b1aa04334d7cdf904716b3dbd"
 
 [[files]]
 file = "mods/sophisticatedcore-fabric-26.2-1.2.9.21+26.2.jar"
-hash = "14a0cfb88f644b593238aa70bd8f4b2dce8fff5bc4edd3de09ac4c9a041d8985"
+hash = "79652afaf749011800a4e532b2e54aeb5ed1464da357d4b410d98b4e968a061e"
 
 [[files]]
 file = "mods/sophisticatedstorage-fabric-26.2-26.2-1.3.7.9+26.2.jar"
-hash = "7203780fb2fc5c404a6d8be9ea53a9e6cfe3639a7cec37097f2502e1b81e8621"
+hash = "db690cf860e1fdd8dde6f3fe2485ab7bd79a368a6172e81470940b2fb09c7c73"
 
 [[files]]
 file = "mods/sophisticatedstorageinmotion-fabric-26.2-26.2-0.10.5.1+26.2.jar"
-hash = "012c111afb8428c8b5219252b0beee1cf1f3420f48f0377260863466558c174e"
+hash = "34a68175097d5134686670d24038e760e6498723223608dfde53175f31c54b5e"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.pw.toml"
@@ -3226,7 +3238,7 @@ metafile = true
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
-hash = "a9cd0a72de4ae0c0eeff8724a550acf29fe60bc30ac009f695068c070b04fd78"
+hash = "12ed04f16f5a23a425e9d41f125ee8c262082e22f0fe85f3c494d1135dec5389"
 
 [[files]]
 file = "mods/sway-2.4.4-fabric+26.2.pw.toml"
