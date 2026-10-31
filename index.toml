@@ -1526,7 +1526,7 @@ hash = "57b7d2bc59a3ac26106ed960cba6d1045d2f024761577e089aff7fa827ef73f0"
 
 [[files]]
 file = "config/reliablenametags.toml"
-hash = "809c3450f9f9901f30eba3af04010f4c1c8abf47e28b0eee84643946e6b3dbeb"
+hash = "c2f3bcc97dcd637f3eff7a560b87d0ef1fffb0237950fb9bf50f5fe1dca239b9"
 
 [[files]]
 file = "config/renderscale.json5"
@@ -1582,7 +1582,7 @@ hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "ed3e75e9408cea4a9b47b52ed4248f4d7517bb9eac6f3db36a93af6dacdcba84"
+hash = "b3141584fc73d587c5a636d57863fc331e6958a94e7ec9a59d1fe0a638687e87"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
@@ -1670,15 +1670,15 @@ hash = "0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab"
 
 [[files]]
 file = "config/superenchants.json"
-hash = "faa8fe6cfddef227858925876f1e357c6f7603da334c336c24ea83a098d70771"
+hash = "43f63c34ed076a2c64799c1b756c9e28307e9889ae73e627346dabfda0529d6c"
 
 [[files]]
 file = "config/swampier_swamps/Client.json5"
-hash = "943b379d4778fdd21536ad2b8251698b7d52da057915251c5120aaf8e7f17e1e"
+hash = "760e22eaeba620bb2bc64bc04442b29c66d5eab8bce852045af06358e17dcbcc"
 
 [[files]]
 file = "config/swampier_swamps/Common.json5"
-hash = "18a9dcb96ee25246f31e703afb8819ed8c8931f6fbb369d204813a972ba0a51f"
+hash = "068c3792df110e34d23f4e88f751ab8d4865fadee2ebb4ba76c48b28a341fc41"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -2460,7 +2460,7 @@ hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "35dcbb55e33e92c491ab5676fbab88a72855d5b3c0eb0e595b15e7f10dd5c538"
+hash = "268cf820d47be7312dd1ac9ad56b708b387d5952d6f793ebeae9afc1cef85a94"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -2497,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "52beb5ed7c8616fcd5ab64b37b8d90b797a2dcabdc9baf9598f8b37a14e5f83d"
+hash = "ee14c27f867dcf2448d309fd6f586c137759de9d865aa4d66c79f2f7a33acf16"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2830,6 +2830,10 @@ metafile = true
 file = "mods/lambdynamiclights-4.12.4+26.2.pw.toml"
 hash = "918d8d39a56134ac9bf55cb48ade70623ae77ed929fb7871b9f2e1da2d1988a9"
 metafile = true
+
+[[files]]
+file = "mods/leons_pale_garden_trader-1.0.0-Fabric-26.2.jar"
+hash = "ac5e52b00390d090ff8fc3661679fabcc3d014e32de329bbd4e6badfb3dd8e1d"
 
 [[files]]
 file = "mods/lib-5555ff-v1.1.5.pw.toml"
@@ -3227,6 +3231,10 @@ hash = "a8e6e306fcd2e4eb13a732a20cf3a2f5adc8bb5aa0e9710e945e80eec46935bd"
 metafile = true
 
 [[files]]
+file = "mods/sulfurcavesplus-1.1.7-26.2.jar"
+hash = "69e3b6723b9788ff3a16322aad99ac79d3eedf993acb98e730dc9006a890d442"
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc26.2.pw.toml"
 hash = "7089515820aafcdd4c5f2b76cdb7c0ead8c1b6bc0b13352f49b6c0ee6dc63856"
 metafile = true
@@ -3397,6 +3405,10 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
+
+[[files]]
+file = "resourcepacks/Biomes Pillager 1.21.4.zip"
+hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
