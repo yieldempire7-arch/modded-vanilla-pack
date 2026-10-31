@@ -390,7 +390,7 @@ hash = "d421b06a753b92d96a627f28e4d97c4cf5cb43425ee974af26c2f1d9fc6a25b2"
 
 [[files]]
 file = "config/enchdesc.json"
-hash = "4fb5cb608bfd085f88021026cdd43a65b79e09271a8881f75c46e19c3f00736c"
+hash = "a85aa27865547a7081da5993a576a4cc5671ef1cc1a2446e384ea981d7f60c11"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -2832,10 +2832,6 @@ hash = "918d8d39a56134ac9bf55cb48ade70623ae77ed929fb7871b9f2e1da2d1988a9"
 metafile = true
 
 [[files]]
-file = "mods/leons_pale_garden_trader-1.0.0-Fabric-26.2.jar"
-hash = "ac5e52b00390d090ff8fc3661679fabcc3d014e32de329bbd4e6badfb3dd8e1d"
-
-[[files]]
 file = "mods/lib-5555ff-v1.1.5.pw.toml"
 hash = "e79daaca8f33736a7d0fae7a504c0534b719872896555fc012c3e84d20385db6"
 metafile = true
@@ -3229,10 +3225,6 @@ metafile = true
 file = "mods/stormies-spiders.pw.toml"
 hash = "a8e6e306fcd2e4eb13a732a20cf3a2f5adc8bb5aa0e9710e945e80eec46935bd"
 metafile = true
-
-[[files]]
-file = "mods/sulfurcavesplus-1.1.7-26.2.jar"
-hash = "69e3b6723b9788ff3a16322aad99ac79d3eedf993acb98e730dc9006a890d442"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc26.2.pw.toml"
