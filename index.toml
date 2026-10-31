@@ -14,7 +14,7 @@ hash = "c8e63e2a124b5f5a45d4f607070f3797408a8c130a9451d16c66996fc0071e11"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "50bbc5a208ab57ba0a78919cd8016e926a332e3e811bccab31a2ac62d3104fc2"
+hash = "227cb53c625213bff16bf2d25a98ca1d6c8c8df62cd2d7486e7af61e9df69968"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -190,7 +190,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "83dea76f030469cd8fdec294b6e97304a7bfe4bd0681a1a1c39fc518a5ff484e"
+hash = "fdea089645a996a5570d52231ac0dcefadc44a28b1968a1ef1dcf6c7caf1e722"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -390,7 +390,7 @@ hash = "d421b06a753b92d96a627f28e4d97c4cf5cb43425ee974af26c2f1d9fc6a25b2"
 
 [[files]]
 file = "config/enchdesc.json"
-hash = "a85aa27865547a7081da5993a576a4cc5671ef1cc1a2446e384ea981d7f60c11"
+hash = "07ad4ad48d524e4fa13cccff9875182e8f21cb0a2d08b997f852d137f509ab02"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -1526,7 +1526,7 @@ hash = "57b7d2bc59a3ac26106ed960cba6d1045d2f024761577e089aff7fa827ef73f0"
 
 [[files]]
 file = "config/reliablenametags.toml"
-hash = "c2f3bcc97dcd637f3eff7a560b87d0ef1fffb0237950fb9bf50f5fe1dca239b9"
+hash = "809c3450f9f9901f30eba3af04010f4c1c8abf47e28b0eee84643946e6b3dbeb"
 
 [[files]]
 file = "config/renderscale.json5"
@@ -1582,7 +1582,7 @@ hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "b3141584fc73d587c5a636d57863fc331e6958a94e7ec9a59d1fe0a638687e87"
+hash = "f7ef25ac8e9919ab6443baccc7e418169a67b44fbbcc8c95c58399718b24fbed"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
@@ -1670,15 +1670,15 @@ hash = "0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab"
 
 [[files]]
 file = "config/superenchants.json"
-hash = "43f63c34ed076a2c64799c1b756c9e28307e9889ae73e627346dabfda0529d6c"
+hash = "22452862fba7d0dc8cb33d1b197f9d971dd4c1ca439287391e72d1013b2e3812"
 
 [[files]]
 file = "config/swampier_swamps/Client.json5"
-hash = "760e22eaeba620bb2bc64bc04442b29c66d5eab8bce852045af06358e17dcbcc"
+hash = "943b379d4778fdd21536ad2b8251698b7d52da057915251c5120aaf8e7f17e1e"
 
 [[files]]
 file = "config/swampier_swamps/Common.json5"
-hash = "068c3792df110e34d23f4e88f751ab8d4865fadee2ebb4ba76c48b28a341fc41"
+hash = "18a9dcb96ee25246f31e703afb8819ed8c8931f6fbb369d204813a972ba0a51f"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -1818,7 +1818,7 @@ hash = "f244532efa212e5ebb815db978b095330aa6d51d871b3471174cc9a85b2c0051"
 
 [[files]]
 file = "config/wilderwild/misc.json5"
-hash = "d2fa4bc8225efd103b930c7f540f3d8831cf3e9202a0b7ea0f7cdaccbcc5466c"
+hash = "fbaffb8e9ebfe9966e53ae342e814597c1cc367994a636ca9af55d81529c2046"
 
 [[files]]
 file = "config/wilderwild/mixins.json5"
