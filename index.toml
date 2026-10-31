@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "fdea089645a996a5570d52231ac0dcefadc44a28b1968a1ef1dcf6c7caf1e722"
+hash = "8a50f0b94325eee49a6b2ea294ec8e3e5653c3c8d027cc729971ddf9e18e955e"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "355a144701769a4925f7f634ac87580642fafdd9c0f9e3770fd0a7c7ad353c44"
+hash = "94fe9f466b9d1513ab162d479f4570cce56eb7add5bca4ab756544cf7ad5a937"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3120,7 +3120,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill-26.2-1.8.1-fabric.jar"
-hash = "6b30dbbfb0fda7c4a36b3b56aa6ee1e9bab382e985e04f8444e41b56f7cb1c70"
+hash = "9d68a466d0cc5a2fbb766e2fa43de1abebcc8221a82dcd18ca673f28ff55eda3"
 
 [[files]]
 file = "mods/sensible_stackables-fabric-3.0.3+26.2.pw.toml"
