@@ -1818,7 +1818,7 @@ hash = "f244532efa212e5ebb815db978b095330aa6d51d871b3471174cc9a85b2c0051"
 
 [[files]]
 file = "config/wilderwild/misc.json5"
-hash = "405f93794209502d8fb8e4dd417154fc537034623d1f2fc036e12874b5d6ba55"
+hash = "3d5b7ea9447760583e2cb0f003c32a94ad35de8c4e8159d7cd0c2bb85ec3c924"
 
 [[files]]
 file = "config/wilderwild/mixins.json5"
@@ -2497,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "ee14c27f867dcf2448d309fd6f586c137759de9d865aa4d66c79f2f7a33acf16"
+hash = "3b7c6ab5c3e026d5c319981b24575e180f3f5f2cb361394c61508162b6b8018d"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2617,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth-and-water-1.0.6-26.2-hotfix.jar"
-hash = "7f139bb7c3f0283574b6cb0a8c05310b1fa7ebcefa113b6b4fd095559bc31deb"
+hash = "43d1de75205763da61af7d5e898019f8e14e114119c964819ab41a8187508923"
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
@@ -3036,7 +3036,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "35c809c797f11589336df0113b965050a418a14bf0656af23b738a226e246a3b"
+hash = "bce26f7ae3ed86bde4a560c2ca7ac8f254158e3a21ce6b49c13fec079af74a87"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
@@ -3189,7 +3189,7 @@ hash = "db690cf860e1fdd8dde6f3fe2485ab7bd79a368a6172e81470940b2fb09c7c73"
 
 [[files]]
 file = "mods/sophisticatedstorageinmotion-fabric-26.2-26.2-0.10.5.1+26.2.jar"
-hash = "34a68175097d5134686670d24038e760e6498723223608dfde53175f31c54b5e"
+hash = "7d6acffdcc82e61f0166d8b53463cf058f37244ac7a6e6393cdda50f25ec01cc"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.pw.toml"
