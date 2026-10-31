@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "2f62ebead408b9c3fb176c6579dce8dcb06ef41b171f9892c07dc34b2b89d27f"
+hash = "437fec1bf3b8df782c67f4f0677e7a9e907fde3c1288f02a80066fddc1d47887"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3027,7 +3027,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "bce26f7ae3ed86bde4a560c2ca7ac8f254158e3a21ce6b49c13fec079af74a87"
+hash = "774615fa98b19538e0fb007f4bca89bc3e7252ea8fea061b36cf4538917bcbd0"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
@@ -3116,7 +3116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill-26.2-1.8.1-fabric.jar"
-hash = "e45d2c2455dc11d0c004605a4f32f6101e089aeb85868f703fb6f2ad8615cef1"
+hash = "3b8c724d686646be34b13048b8da5744d47c444203efae3b1faf137b27e022d1"
 
 [[files]]
 file = "mods/sensible_stackables-fabric-3.0.3+26.2.pw.toml"
