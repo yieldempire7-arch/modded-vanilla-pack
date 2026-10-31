@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "94fe9f466b9d1513ab162d479f4570cce56eb7add5bca4ab756544cf7ad5a937"
+hash = "cc5632b8d99cfb504af25c3f29eb6ddd74aa7ecec034dc8027655f2923d804da"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2595,6 +2595,10 @@ metafile = true
 file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
 hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
+
+[[files]]
+file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
+hash = "e50fa654968155806f99d0832b90babf27a08c3e3b4cf5630aac1202ab2d3727"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -2738,6 +2742,10 @@ metafile = true
 file = "mods/geckolib-fabric-26.2-5.5.5.pw.toml"
 hash = "64af275f3fe7739e7dbc25edb7c1f73bf6863092a8e4a06d29a43d0b5d3848a5"
 metafile = true
+
+[[files]]
+file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
+hash = "9d334707de4576aeecdab965803dc3972e30fa90340a56994c39361be9b94320"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3172,19 +3180,19 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-fabric-26.2-26.2-3.23.4.3+26.2.jar"
-hash = "ddc171c70958f81613e4266e2059a669f99f714b1aa04334d7cdf904716b3dbd"
+hash = "4fa008051dbad2d658a8e02652e33d47958da36e9410691f389fbdce992ba3d1"
 
 [[files]]
 file = "mods/sophisticatedcore-fabric-26.2-1.2.9.21+26.2.jar"
-hash = "79652afaf749011800a4e532b2e54aeb5ed1464da357d4b410d98b4e968a061e"
+hash = "30c4e06704dc5c27c45ed53553655086c339eddfb9a9815d17ff69b45af2314a"
 
 [[files]]
 file = "mods/sophisticatedstorage-fabric-26.2-26.2-1.3.7.9+26.2.jar"
-hash = "db690cf860e1fdd8dde6f3fe2485ab7bd79a368a6172e81470940b2fb09c7c73"
+hash = "5dc946a982fd1e2f7727227b3c51a53b3808ba6a0fa081b493863bca5637aff4"
 
 [[files]]
 file = "mods/sophisticatedstorageinmotion-fabric-26.2-26.2-0.10.5.1+26.2.jar"
-hash = "7d6acffdcc82e61f0166d8b53463cf058f37244ac7a6e6393cdda50f25ec01cc"
+hash = "d416f8143a8435182d9cdc979f8f2c974691cb04c2c46b22e132f25ac930c48f"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.pw.toml"
@@ -3400,6 +3408,10 @@ hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 [[files]]
 file = "resourcepacks/Biomes Pillager 1.21.4.zip.disabled"
 hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
+
+[[files]]
+file = "resourcepacks/Icon Fresh 0.5.zip"
+hash = "f17be1b22e01ded74f9362e597cc05d1aee0395b39cf5965b2348952ba5efe92"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
