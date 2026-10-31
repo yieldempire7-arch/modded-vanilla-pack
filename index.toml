@@ -1818,7 +1818,7 @@ hash = "f244532efa212e5ebb815db978b095330aa6d51d871b3471174cc9a85b2c0051"
 
 [[files]]
 file = "config/wilderwild/misc.json5"
-hash = "3d5b7ea9447760583e2cb0f003c32a94ad35de8c4e8159d7cd0c2bb85ec3c924"
+hash = "d2fa4bc8225efd103b930c7f540f3d8831cf3e9202a0b7ea0f7cdaccbcc5466c"
 
 [[files]]
 file = "config/wilderwild/mixins.json5"
@@ -3225,6 +3225,10 @@ metafile = true
 file = "mods/stormies-spiders.pw.toml"
 hash = "a8e6e306fcd2e4eb13a732a20cf3a2f5adc8bb5aa0e9710e945e80eec46935bd"
 metafile = true
+
+[[files]]
+file = "mods/sulfurcavesplus-1.1.7-26.2.jar"
+hash = "69e3b6723b9788ff3a16322aad99ac79d3eedf993acb98e730dc9006a890d442"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc26.2.pw.toml"
