@@ -7,7 +7,7 @@
   "show_item_tooltip": true,
   "highlight_compatible_slots": false,
   "gameplay": {
-    "equipment_hiding": false,
+    "equipment_hiding": true,
     "cosmetic_slots": false
   }
 }

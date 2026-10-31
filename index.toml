@@ -1726,7 +1726,7 @@ hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
 file = "config/trinkets.json"
-hash = "0b23e8459020ef90f8c9cbe404c08170c19c1fde8a197972dd924504b70c4445"
+hash = "e7ab1f1f0718398adc389c72b6bc6d0f1129d468b6612fb38e33c24323d9a160"
 
 [[files]]
 file = "config/tweaksdelight.json"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d3f264895abcb1193a3c4c50c1a8b2a610aeb07edff4dfe2a28af179711dbcb1"
+hash = "355a144701769a4925f7f634ac87580642fafdd9c0f9e3770fd0a7c7ad353c44"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
