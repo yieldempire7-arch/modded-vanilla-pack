@@ -1933,7 +1933,7 @@ metafile = true
 
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.jar"
-hash = "816e3aa2a9a296e3727ab099f74d7755cdea53e65bdd63de624b43ff208ca872"
+hash = "3781ea25e477a94709d3161d76e935473000f633bbbe8584a3f9533bed21b2e3"
 
 [[files]]
 file = "mods/Bookshelf-fabric-MC26.2-26.2.0.4.pw.toml"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "11036ba3ae84d1a979ae7a7b7e222eeaa67386f1e4501fb824fe386e582f75cd"
+hash = "e676d5bb59ac6a9a8ba77c6114d93c5633213695c1c5be0686b86aba2cb68fd0"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
