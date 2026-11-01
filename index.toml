@@ -3022,6 +3022,10 @@ hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
 metafile = true
 
 [[files]]
+file = "mods/orb_of_dominance-fabric-26.2-1.3.4+26.2.jar"
+hash = "0a36c890d1c10663879119ecc5dac4b97a68da00413aac7aeed2a4dd2d749eea"
+
+[[files]]
 file = "mods/overworldpiglins-26.2.0-1.6.pw.toml"
 hash = "a292189cc72c9c7d565504aaba0a4988c6b0c7a8833102a6992ab6a80854e3c8"
 metafile = true
