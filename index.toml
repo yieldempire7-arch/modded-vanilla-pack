@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "3287657a8deaaaf874dd61374f4906d3860802b70cd2c66e29503dd40555137e"
+hash = "fdf4c4bdbb8fa8f3be3845e6e7be891c9784d821a63179cc7852a9cb3601b323"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2595,10 +2595,6 @@ metafile = true
 file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
 hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
-
-[[files]]
-file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "0b0050cf27f8322f69211df06dcd6b68c5fec8aa2bd4e4ae6f6a9c02d771f242"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
