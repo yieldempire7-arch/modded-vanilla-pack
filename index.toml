@@ -1933,7 +1933,7 @@ metafile = true
 
 [[files]]
 file = "mods/BeyondEnchant-1.9.0.jar"
-hash = "3781ea25e477a94709d3161d76e935473000f633bbbe8584a3f9533bed21b2e3"
+hash = "801ee13a2446cc41c4409ceb402f2ec6807ee69dd872d607eb69d099d0cf2c47"
 
 [[files]]
 file = "mods/Bookshelf-fabric-MC26.2-26.2.0.4.pw.toml"
@@ -3020,6 +3020,10 @@ metafile = true
 file = "mods/not_interested--1.0.2--fabric--26.2.pw.toml"
 hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
 metafile = true
+
+[[files]]
+file = "mods/orb_of_dominance-fabric-26.2-1.3.4+26.2.jar"
+hash = "3f50a976d51045a3c38860119f77dcdd6ced1bc039a0c296647344ef21e022f3"
 
 [[files]]
 file = "mods/overworldpiglins-26.2.0-1.6.pw.toml"
