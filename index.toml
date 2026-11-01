@@ -3100,6 +3100,10 @@ hash = "f1012a9d8ff0cf7330ae34c1951a18cab03a4b7b24562bce585962d060ac8801"
 metafile = true
 
 [[files]]
+file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
+hash = "db7f2b6b610ed9b96c979c4d5b67320a8f10d13aadd6a5fe530a9a78294d7d02"
+
+[[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
 hash = "7990f6b43eaa6d038672aef41033b5e25b84454d29282f0dddfd8e46293b1f0a"
 
