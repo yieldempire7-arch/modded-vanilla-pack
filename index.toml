@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "0a6914b25c2259fcdf8ff63b335046e4531e9ac0f7c3f837d4a81ba6a3ce72ef"
+hash = "c23e1be48bb6ecada77c8f35746db2af26afe2852b4c52589d1fc8528bfafb57"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2616,7 +2616,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth-and-water-1.0.6-26.2-hotfix.jar"
-hash = "43d1de75205763da61af7d5e898019f8e14e114119c964819ab41a8187508923"
+hash = "50a30c6bc1e8ce7b0174c86fb95e7a9906c9a167e8e697f5093555863cb90a1d"
 
 [[files]]
 file = "mods/easy_upgrade_netherite-1.0.0-fabric-26.2.jar"
@@ -3027,12 +3027,16 @@ metafile = true
 
 [[files]]
 file = "mods/orb_of_dominance-fabric-26.2-1.3.4+26.2.jar"
-hash = "0a36c890d1c10663879119ecc5dac4b97a68da00413aac7aeed2a4dd2d749eea"
+hash = "30760a999aed3ad58edb1c7fb77cd1ea6d99cea427f2e8a0659d8bb608308d85"
 
 [[files]]
 file = "mods/overworldpiglins-26.2.0-1.6.pw.toml"
 hash = "a292189cc72c9c7d565504aaba0a4988c6b0c7a8833102a6992ab6a80854e3c8"
 metafile = true
+
+[[files]]
+file = "mods/oxidizable_copper_gear-fabric-1.3.0+26.1.2.jar"
+hash = "ffdda16a12e480e84f8f3a426984aa298193ffe9aa5851f66bcc97f7e2865fd5"
 
 [[files]]
 file = "mods/particle_core-0.3.3+26.2.pw.toml"
@@ -3073,6 +3077,10 @@ hash = "15619c5d01facd390ee8477c948b68c50dfa49ef475789d3a4876f486b4d7afa"
 metafile = true
 
 [[files]]
+file = "mods/punchy-2.7e-fabric-26.2.jar"
+hash = "f21c7295180df81025b9e5fd1434dc5abf2ee86d72bf41d55a162aa9decff655"
+
+[[files]]
 file = "mods/punchy-2.7e-fabric-26.2.pw.toml"
 hash = "e737f8a744bb19df255bc4da612743a38b8eeb56119acc66d0a05ab3f583a2c0"
 metafile = true
@@ -3098,6 +3106,10 @@ hash = "c7cd108482bb9650516f80557a36d960e38bd24df2272730a694aa4543846f86"
 file = "mods/reimagined-intro-2.1.0-fabric.pw.toml"
 hash = "f1012a9d8ff0cf7330ae34c1951a18cab03a4b7b24562bce585962d060ac8801"
 metafile = true
+
+[[files]]
+file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
+hash = "1ea22b8be486b223b57a0cf066c27fe54db9aaeaa6317b4eb8abbb4673ceef30"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
