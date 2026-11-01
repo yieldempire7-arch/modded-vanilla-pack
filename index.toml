@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "aab940fef4d279694265899d22ff5a4f4c52c68e5d1a7242869bd4077284309e"
+hash = "11036ba3ae84d1a979ae7a7b7e222eeaa67386f1e4501fb824fe386e582f75cd"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2597,6 +2597,10 @@ hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
+hash = "db6a221eb1e691750ff13359c4ec5190b8d30e95fa4b71a5bf8a209d84642653"
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
 metafile = true
@@ -2639,6 +2643,10 @@ hash = "9031646dc0734aae50ef152b2b29378253dd1e9557dd47db49c07c35c5453217"
 [[files]]
 file = "mods/enchanted-vertical-slabs-2.7.0-fabric-mc26.2.jar"
 hash = "d5a4bb6db2ef2cfd4df0493341b527f657d14e46b77e2bf76ff6257e87c703ca"
+
+[[files]]
+file = "mods/enchantwithmob-fabric-26.2-26.2-1.0.0.jar"
+hash = "3d95b95f3ab8eee8c01c862d02bca836ceff2411328e302a5e3cba754cd6d04e"
 
 [[files]]
 file = "mods/energy-4.1.0-named.jar"
