@@ -2597,6 +2597,10 @@ hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
+hash = "a9c2223a9f7909fbc068185ffbf59ef51199b9bc9482496345c0e0d86b711998"
+
+[[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
 hash = "db6a221eb1e691750ff13359c4ec5190b8d30e95fa4b71a5bf8a209d84642653"
 
@@ -3056,7 +3060,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib-26.2-3.1.0+26.2.jar"
-hash = "7c0fb846579d9b60aadc3873d63549d31752e7ba2493a25aa40bbac857bbc73e"
+hash = "2f62a7de3b4c3bb106a8298953cf49cdac748ac8a5dffb7cfaf312526af1ca69"
 
 [[files]]
 file = "mods/potted-farms-1.1.2.pw.toml"
@@ -3188,19 +3192,19 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-fabric-26.2-26.2-3.23.4.3+26.2.jar"
-hash = "4fa008051dbad2d658a8e02652e33d47958da36e9410691f389fbdce992ba3d1"
+hash = "9ac28d8af104092366c6f2112ecbf9bc5342e606a85643c306775ad7610dc856"
 
 [[files]]
 file = "mods/sophisticatedcore-fabric-26.2-1.2.9.21+26.2.jar"
-hash = "30c4e06704dc5c27c45ed53553655086c339eddfb9a9815d17ff69b45af2314a"
+hash = "54a5dc6a8caaf3b852872d8cdfb91fd90a6a218a22ca7bbf03d959bc8f626948"
 
 [[files]]
 file = "mods/sophisticatedstorage-fabric-26.2-26.2-1.3.7.9+26.2.jar"
-hash = "5dc946a982fd1e2f7727227b3c51a53b3808ba6a0fa081b493863bca5637aff4"
+hash = "fdf585cfd81096f5c64f1fd0e19cf9406ca9d9f36fd0b7cd7957f1f1b4a9c4d3"
 
 [[files]]
 file = "mods/sophisticatedstorageinmotion-fabric-26.2-26.2-0.10.5.1+26.2.jar"
-hash = "d416f8143a8435182d9cdc979f8f2c974691cb04c2c46b22e132f25ac930c48f"
+hash = "72c90a98c6e3a49065f28658a56c0c6836d6a11149da3071725b68b95677ca3e"
 
 [[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.pw.toml"
