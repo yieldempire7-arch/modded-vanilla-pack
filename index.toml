@@ -2601,7 +2601,7 @@ file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
 hash = "377c89c93505f81c0537fc064d9e232d2497f7616cbbc6d95efd12382471409f"
 
 [[files]]
-file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
+file = "mods/dungeons-mobs.pw.toml.disabled"
 hash = "db318a642e95c371a7cc84bfa0f396dd1c02c6114050416ca9141643242d54f7"
 
 [[files]]
@@ -3026,7 +3026,7 @@ hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
 metafile = true
 
 [[files]]
-file = "mods/orb_of_dominance-fabric-26.2-1.3.4+26.2.jar"
+file = "mods/orb-of-dominance.pw.toml.disabled"
 hash = "99d9ccc6965aad478768bf446f8ce772f4179d907c9652f293b955fe9d7bf023"
 
 [[files]]
@@ -3108,7 +3108,7 @@ hash = "f1012a9d8ff0cf7330ae34c1951a18cab03a4b7b24562bce585962d060ac8801"
 metafile = true
 
 [[files]]
-file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
+file = "mods/reimagining-potatoes.pw.toml.disabled"
 hash = "6d0f86406ea62558968f50800e144746597508f288d6f88e21025a1d2b9e5202"
 
 [[files]]
