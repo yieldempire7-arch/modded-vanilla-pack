@@ -434,11 +434,11 @@ hash = "75a98c37543d29a795498acc0959a0321eab0d5c8329cd154eda703801504744"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_layout.txt"
-hash = "f623e4f28d7bf9fbf36740ba13ce64053e6913a653a45d882ba4d2f5a4c1bf0d"
+hash = "d1a6d5fd6fb129ec6398b3306ee5d9a35a8133e789ce3ff76652a9bab7d7a5fe"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_preload_layout.txt"
-hash = "b57e641e1678bafa6243013029978674f7f870643197ca9d051df91417d4c15f"
+hash = "ac7fae0cd353e04f27146e8c1003cd3351d93901cc397cb98aa5c4b5a00f094a"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_title_screen_layout.txt"
@@ -494,7 +494,7 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "56609a1ce0dde6f3d11ae1687e32fd54033432dd02649110502a8258d49c1921"
+hash = "952df80a2f431460412b4c5d25c04e2889a6cc9339ce4ca9253eab2f0b94fdec"
 
 [[files]]
 file = "config/fancymenu/video_element_controller_metas.json"
@@ -1506,7 +1506,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "d3e5bcdb385ee60cc88ad518933a1051af6c85dc7556acfb28301af907915b3c"
+hash = "e876761ce016bf2ac33c8ebce77bdd5cc20540f39a1c4bad90a1af32163ea939"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
