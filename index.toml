@@ -3438,6 +3438,14 @@ file = "resourcepacks/Icon Fresh 0.5.zip"
 hash = "f17be1b22e01ded74f9362e597cc05d1aee0395b39cf5965b2348952ba5efe92"
 
 [[files]]
+file = "resourcepacks/Icon Xaeros 1.22.zip"
+hash = "ab00b8d8f2e62d3ab413fea1d5d6f83d0bafb95ca0c891cad565dea4e887656f"
+
+[[files]]
+file = "resourcepacks/MobCrates_26.2_v2.4.zip"
+hash = "cf580c432b1a3a341d9431ace326047a1c86a7e80d91806055ebd629d2601142"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
 hash = "56838f6aee9a174d234e522fcab5ba99939ca8a8fb704795b22f40a08fdc9665"
 
