@@ -4,7 +4,7 @@ layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1786361500335
-  is_enabled = true
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
@@ -23,7 +23,7 @@ menu_background {
 menu_background {
   instance_identifier = 421a82d7-8461-41ff-a497-fc496cc98f2e-1786356199048
   background_type = panorama
-  show_background = false
+  show_background = true
 }
 
 menu_background {

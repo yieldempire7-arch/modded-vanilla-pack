@@ -4,7 +4,7 @@ layout-meta {
   identifier = reimagined_intro
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1786362677682
-  is_enabled = true
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
@@ -22,7 +22,7 @@ menu_background {
 menu_background {
   instance_identifier = 9e9ec68f-3cfd-4bf5-bb97-5b50975be66a-1786184327408
   background_type = panorama
-  show_background = false
+  show_background = true
 }
 
 menu_background {
