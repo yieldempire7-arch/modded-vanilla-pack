@@ -434,15 +434,15 @@ hash = "75a98c37543d29a795498acc0959a0321eab0d5c8329cd154eda703801504744"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_layout.txt"
-hash = "d1a6d5fd6fb129ec6398b3306ee5d9a35a8133e789ce3ff76652a9bab7d7a5fe"
+hash = "d68e17e77ee66439c6fb9d92205af839d6293d9acf2eab320e5ebe6d0989b7f0"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_preload_layout.txt"
-hash = "ac7fae0cd353e04f27146e8c1003cd3351d93901cc397cb98aa5c4b5a00f094a"
+hash = "420f7c147f24bcb22c5cefaa672ffe198439e6e93b8c304ea2cd64a9ae4aef3b"
 
 [[files]]
 file = "config/fancymenu/customization/reimagined_intro_title_screen_layout.txt"
-hash = "dc0a5ebf07cb95c76d7c42c15cc77fb495504439ec9857ed42efdcd39945fc14"
+hash = "c4036262b950c50482c194c87e93d1a28e8fb849715dd48c76a60d202cc61b90"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -494,7 +494,7 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "952df80a2f431460412b4c5d25c04e2889a6cc9339ce4ca9253eab2f0b94fdec"
+hash = "6795e138b47543ceb0ad909fdd0120d2328cc7471c43a1e7ea523ca94aa67006"
 
 [[files]]
 file = "config/fancymenu/video_element_controller_metas.json"

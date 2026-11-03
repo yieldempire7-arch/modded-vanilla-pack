@@ -22,7 +22,7 @@ menu_background {
 menu_background {
   instance_identifier = 3b6746a1-7181-4b9e-bfce-462513220db2-1786171067501
   background_type = panorama
-  show_background = true
+  show_background = false
 }
 
 menu_background {
