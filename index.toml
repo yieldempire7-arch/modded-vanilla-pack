@@ -2289,8 +2289,8 @@ hash = "40702b8eddc360b3055dc82f60b3a3534c4b8a6730afcf74ea0c1f6cbcdf58c2"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric-26.2-26.2.0.8.pw.toml"
-hash = "5113ac0f48925c33f3ad542add78853e85285eea6831402d0ea6767d98efa422"
+file = "mods/balm-fabric-26.2-26.2.0.9.pw.toml"
+hash = "354c9cccaa26d5d731e59d2e799a134ee8a23497eb497745a74df50829816253"
 metafile = true
 
 [[files]]
@@ -3165,8 +3165,8 @@ hash = "43b4583ea1b8bc1dd8056086e4194c4f5e110a3359417c0ae9795b4f00c8529f"
 metafile = true
 
 [[files]]
-file = "mods/shogi-fabric-26.2-26.2.0.5.jar"
-hash = "13ea96eec50791959515294d5dc3aec152d98285a1bcd9843f3c1f0d6f0879f4"
+file = "mods/shogi-fabric-26.2-26.2.0.8.jar"
+hash = "e618027cad37927ba9841474cbe9c9dc54f626f1e15d208c3872bb93205d63b3"
 
 [[files]]
 file = "mods/shulkerboxtooltip-fabric-5.4.0+26.2.pw.toml"
@@ -3403,8 +3403,8 @@ hash = "d514fef0d3d78df0ce600627380ffe35a6838bedb4f9682f03958753ec51bcd9"
 metafile = true
 
 [[files]]
-file = "mods/waystones-fabric-26.2-26.2.0.12.pw.toml"
-hash = "82912b8d1cdd20152e7fa1be360708d1dd0fc307ac86d38588dc1861302afcdb"
+file = "mods/waystones-fabric-26.2-26.2.0.13.pw.toml"
+hash = "cbad83eb7189645c4b704ea073adf9876675e68199d5df1186ba9073901a5753"
 metafile = true
 
 [[files]]
