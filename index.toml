@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "6636439b30ec0a27890345a1ad8950833be7768b854359c816e8e61a0e32e070"
+hash = "f31e76fbbce3b429a410f8bde11c9aa160a49c4c127addd45582264df2ea0408"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3444,6 +3444,10 @@ hash = "ab00b8d8f2e62d3ab413fea1d5d6f83d0bafb95ca0c891cad565dea4e887656f"
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
 hash = "cf580c432b1a3a341d9431ace326047a1c86a7e80d91806055ebd629d2601142"
+
+[[files]]
+file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
+hash = "4485c4918dafecffd46c7993d2172441f97d90fee77e5a5f4d8c54c82a83857a"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
