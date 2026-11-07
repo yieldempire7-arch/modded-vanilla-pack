@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "4c35fd172a80f07b57cd8743eb1b96df0b03cc6dcbc0b666b71ee67814b188f1"
+hash = "c773771db99d1792a7a030c883740a4aed0194ef30c4d0795313fedee74b5da8"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3109,7 +3109,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "d244d802be55296436dfad1dece7c9b3fc8c693288baf8db78c9952850fb438e"
+hash = "c65d462be521be8a9b789af8a841bbcaa16ef94212d3521a251148bd62600dbf"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
