@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "092be9e3280221a27fddea5f75806a3e4cc10c11866f26032b2d61618ca1342d"
+hash = "9e37b86ef70579dd77891618447769c4cd12775a0045909de6aa4fc6c3c93474"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3440,7 +3440,7 @@ hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "d25c2ac4e16169c33902024b14582d20db027e086b8ad234b77c44181f780994"
+hash = "9e2b570589202b6a0a16e790d8cbe573f4cd13ea8117034ccc951447fa98bd09"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
