@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "f4cd0ff0de1e0f5e3de35e64df0529f39855aa49d25669725ff701f3b6d22b42"
+hash = "a3eca1172bd96d4347a6778329d4338dc31281d241004e6cb343b4b8c4d75abe"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2318,7 +2318,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercoppergolem-FABRIC-2.5.0-26.2.jar"
-hash = "a8b71b305b6e1ca43883b999e12e6099a27fe898638ecea3825cee8170dad117"
+hash = "860dc6669cbb07b27d8ac0eb43601ab35aca23db264ab39b7767699c9181b1b5"
 
 [[files]]
 file = "mods/bettergamemode-1.4.0.pw.toml"
@@ -2342,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
-hash = "950df71c00318d8a49240159f6ac4d24bd869fdeb7b01d2a267e533fdacacd68"
+hash = "66d4ef62a7438826b22025ebe23ffe6eab2ea50563a815528011743f6751c907"
 
 [[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "7427c62bb4c91ce70a50b12ac4f97559efe77e956dd46eecf18bc6f6b981f79a"
+hash = "5c54f37788f805580a3e35e1a48d22b5ad62d304321267095a02ef997069bbf0"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "e8d14bd9d8a8ef08ed04b5ca5f77fa10ed751daeac40c17ea90e793448f4b239"
+hash = "f84e94c799fd25ffc90c196f481b4143163508318fbc3c550fdc0a000874fe45"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
