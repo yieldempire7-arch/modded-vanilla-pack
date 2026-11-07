@@ -2342,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/boss_companions-1.0.1-fabric-26.2.jar"
-hash = "6580c7722cf7aaf799f235f62321a2a7dd8b5507664e87fc2512ee99e5c2ec97"
+hash = "950df71c00318d8a49240159f6ac4d24bd869fdeb7b01d2a267e533fdacacd68"
 
 [[files]]
 file = "mods/bowinfinityfix-26.2-neo-3.3.0.pw.toml"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "0e917d2d4a6d22bc4f06888b2472ea3c79cbafb7699cd1503bc5ba6137663c30"
+hash = "4c35fd172a80f07b57cd8743eb1b96df0b03cc6dcbc0b666b71ee67814b188f1"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3055,7 +3055,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "774615fa98b19538e0fb007f4bca89bc3e7252ea8fea061b36cf4538917bcbd0"
+hash = "8a5e7a9369c92b100a41e45be0fd6b89cf63f7f49d40f5defc9c8839650d60ac"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
