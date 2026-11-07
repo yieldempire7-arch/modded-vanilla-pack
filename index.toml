@@ -190,7 +190,7 @@ hash = "68ab7aba11696d0435aba985de57afdf394de18af40d23fc26f5d2709b444047"
 
 [[files]]
 file = "config/betterpalegarden.json"
-hash = "a5aed1bebd83427454dc3521b28f6c1878aa1cce08fb155f284360da22f0322e"
+hash = "6378cd20dfbbfdee472e929d063df1a8df21540b3671b5e98fc450fed6c2525b"
 
 [[files]]
 file = "config/bettertridents-common.toml"
