@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "f84e94c799fd25ffc90c196f481b4143163508318fbc3c550fdc0a000874fe45"
+hash = "ca395689f31462b96f8600739fe49906f51a8c03b90651af359fba13ab79f412"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
