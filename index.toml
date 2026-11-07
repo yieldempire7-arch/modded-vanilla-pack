@@ -2379,6 +2379,11 @@ hash = "aed15ba4efc84c34e7e753bffdf5cc3691a5205f36142e8d63b819d28fa63542"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "bc3f301dd023773faf33193fd1fcc024c8b996eace8ae3a3dac439c43acd0c0b"
+metafile = true
+
+[[files]]
 file = "mods/clientsort-fabric-3.103.2+26.2.jar"
 hash = "b976e8e284289799a40867a45bdfdd2aa7d19e737dc633284620bc7ad2f38752"
 
@@ -2488,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "74cfc4f8ee4cc34f408d590a46672a91cd2a73f023b2e69393b84672e91bab4a"
+hash = "2fb444fe07d5ed5137d3696e035febfb35729d68c1502c4a4b75d07d57e07a69"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
