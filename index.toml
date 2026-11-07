@@ -2598,11 +2598,11 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
-hash = "377c89c93505f81c0537fc064d9e232d2497f7616cbbc6d95efd12382471409f"
+hash = "51b1c2b9504f0cb15dcde8ecd945ffd03f26d4afb77bdfb8e52f0bc7ebe4c455"
 
 [[files]]
-file = "mods/dungeons-mobs.pw.toml.disabled"
-hash = "db318a642e95c371a7cc84bfa0f396dd1c02c6114050416ca9141643242d54f7"
+file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
+hash = "2e2d67e27527cd5c242f0c2802fb8ad7ad4ed6349be2241c42dba87db29585c4"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
