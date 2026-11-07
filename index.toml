@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "8aa55858ca916788ee4c1695932bbdba63bd06530ecc02ad4d070e36dd6213be"
+hash = "44b2681ef9f4d669d1aa993192abf2b067d0647e46b9c4dd256e642a1bf3518f"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "b37a322dc6f57fbc942a2f9ed90c82d84c8a5b147aea94a279cbc6257c68b7fd"
+hash = "75ef56ce232e6dcfb0d5ea86352e27ba9b89f688ac366656ffd32015ca79836d"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "78017ac32ca62797fd0deabf9de98ce1bff49072a0b568fac61e60cfaefb127d"
+hash = "c1b63727e7d091dda8339f3a308b7e959ad05d3c4e8eee8d850a60e7b38718c8"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3109,7 +3109,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "65d5fd5280c2c373e92d45502146de6409e9392cb6159eefb11145538d036e92"
+hash = "9912cf16d05d167887ccefdbbbdd5fb89fc4bd95d3c85c02c88a0ce5ff957fa1"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
@@ -3435,7 +3435,7 @@ hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "f17be1b22e01ded74f9362e597cc05d1aee0395b39cf5965b2348952ba5efe92"
+hash = "d25c2ac4e16169c33902024b14582d20db027e086b8ad234b77c44181f780994"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
