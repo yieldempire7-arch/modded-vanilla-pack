@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "643730d6e3401aee8543685e01f31511378aa0293cae12fa40eba23faf5ab087"
+hash = "f4cd0ff0de1e0f5e3de35e64df0529f39855aa49d25669725ff701f3b6d22b42"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2318,7 +2318,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercoppergolem-FABRIC-2.5.0-26.2.jar"
-hash = "94ed238cbe0a13c93ac08f64e3f378a6d0db7a99ae7dcc25e78d062a5cb51a9e"
+hash = "a8b71b305b6e1ca43883b999e12e6099a27fe898638ecea3825cee8170dad117"
 
 [[files]]
 file = "mods/bettergamemode-1.4.0.pw.toml"
