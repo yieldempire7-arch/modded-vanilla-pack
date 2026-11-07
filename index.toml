@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "3e8dea5d674c9a040a0ac0955f7b5c500d572bc383be73a65979ea06a6406461"
+hash = "9b55ba2d56053338e23b37acb1e0753133c5cdd52c62e8d876dc8d0f5ba73f09"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "75ef56ce232e6dcfb0d5ea86352e27ba9b89f688ac366656ffd32015ca79836d"
+hash = "74cfc4f8ee4cc34f408d590a46672a91cd2a73f023b2e69393b84672e91bab4a"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "c1b63727e7d091dda8339f3a308b7e959ad05d3c4e8eee8d850a60e7b38718c8"
+hash = "a45b81d710328bcbf2c50836efcd2b66cad6598191fb4a24a192a345180b6bed"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3109,7 +3109,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "9912cf16d05d167887ccefdbbbdd5fb89fc4bd95d3c85c02c88a0ce5ff957fa1"
+hash = "c9541ca9f174e6ba1235ee6df4a4d86cfed6e4fe99249378738625cb193d628a"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
