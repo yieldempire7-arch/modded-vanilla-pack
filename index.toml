@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "a48f9168840c834fd79ab4208d1aef11fa00d9a2aaff5eedd54a27205f1a221a"
+hash = "8aa55858ca916788ee4c1695932bbdba63bd06530ecc02ad4d070e36dd6213be"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2318,7 +2318,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercoppergolem-FABRIC-2.5.0-26.2.jar"
-hash = "860dc6669cbb07b27d8ac0eb43601ab35aca23db264ab39b7767699c9181b1b5"
+hash = "14e86831930759a123b5b743b28120447ff07f75ee12791eec1acff9cc55d969"
 
 [[files]]
 file = "mods/bettergamemode-1.4.0.pw.toml"
@@ -2451,7 +2451,7 @@ hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "c4a6528d7bf74454223dbbbf4c7ca31d5a6b8e941a6912ba20cd7b6128703180"
+hash = "0b56d018585d226c26b3431f0baede5a0588123d6f864b32e57b12e0c3a073c8"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
