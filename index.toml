@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "2fb444fe07d5ed5137d3696e035febfb35729d68c1502c4a4b75d07d57e07a69"
+hash = "092be9e3280221a27fddea5f75806a3e4cc10c11866f26032b2d61618ca1342d"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2603,7 +2603,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
-hash = "0ab9ca6c724f7828170c3f07a473639c73d47365a969601e27156ed123e408b0"
+hash = "b9dbf1a9c73daffcd72bca2f8ce83a08d0c35c741d88d1709be008fa1a4caca6"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
@@ -2758,7 +2758,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "a45b81d710328bcbf2c50836efcd2b66cad6598191fb4a24a192a345180b6bed"
+hash = "66ff1b6d07c17b8ac7fa70aa25c45e6db6df59aa6a0ee68bd05300b52b608d61"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3114,7 +3114,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "c9541ca9f174e6ba1235ee6df4a4d86cfed6e4fe99249378738625cb193d628a"
+hash = "f5a64b81f192ac54f091c12dff9bd57b8be97288403b55d665d5c07bd793041c"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
