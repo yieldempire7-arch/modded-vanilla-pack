@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "fe9cc8ca44bd205744005c1ec44f6e53920ab3377e5cdbed7c9f23c7bd4f17cd"
+hash = "09dcd196c9ed62191b8085e49ccd89e6e3625e3cd14aba7fe59e5617f4641893"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3108,8 +3108,8 @@ hash = "f1012a9d8ff0cf7330ae34c1951a18cab03a4b7b24562bce585962d060ac8801"
 metafile = true
 
 [[files]]
-file = "mods/reimagining-potatoes.pw.toml.disabled"
-hash = "6d0f86406ea62558968f50800e144746597508f288d6f88e21025a1d2b9e5202"
+file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
+hash = "d244d802be55296436dfad1dece7c9b3fc8c693288baf8db78c9952850fb438e"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
@@ -3269,7 +3269,7 @@ metafile = true
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
-hash = "39cc8b6e02750c4b1fac5cbefcf4793275ed0d5526154bfabefc4daef659eb7a"
+hash = "7ca2114ada9c6a14bcdead190253180a285308d8edee5e0b0b930f707e22d17c"
 
 [[files]]
 file = "mods/sway-2.4.4-fabric+26.2.pw.toml"
