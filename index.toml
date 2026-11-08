@@ -2460,7 +2460,7 @@ hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "14b7735a47562a05fbea27eccc33445be2ce22d1649536067bf3157c61f6ce56"
+hash = "540ce6a34fdd7dfb01bc3bf455d3442f8c52bfb392f6b5d40566137610a3dff6"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -2492,7 +2492,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d447cfbd9e493638405f103093d3d6a3e9544aaee202f72acee42f1cfa3ef0fc"
+hash = "ac661f108134f86008596f70e18292d46adfcd73b73188f4ee0700c86187a406"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
