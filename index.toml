@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "08834914feae6673d5a3cf96f80afece2f8bf9885da831b1c977db92a6426175"
+hash = "bdce23f9ad91fefd8c7305a9d12aae17efd6de684e375918e2161f7d790f8a19"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2491,13 +2491,8 @@ hash = "9365ff4ae36df65d3fb770b35e6da323fbd94abf6791e227ef2d84e5df9f46df"
 metafile = true
 
 [[files]]
-file = "mods/cushionbackport-26.2-Fabric-1.0.5.pw.toml"
-hash = "26bc88f936989745847b78b0677d91716918b8e33461cffe2a03be1df1aaa933"
-metafile = true
-
-[[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "0c9c67b6bf1f6ff85fb428a4fb387b04971923a793ac2d1090eccf21a0ffb53c"
+hash = "901d4926ccdcba5dc9db4809178c4b017f792270a522f65dd76f71a876be7819"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3204,6 +3199,11 @@ hash = "d87fd6027a3c74a1f059e6b1dd92945354d9d3553c82368c3bd10b30a95649a6"
 [[files]]
 file = "mods/slabbed-0.5.2-alpha.10+26.2.pw.toml"
 hash = "e8f6f4f28b4e6c2b4e71c9c60d55f66a44933d3369414026f51cae3e119ba31f"
+metafile = true
+
+[[files]]
+file = "mods/sniffers-sniffs-delights.pw.toml"
+hash = "a7f6ec5b69ff3bc7cd39de5b1725f3ac9eb2c3eb41f3bab575eaad697deeb246"
 metafile = true
 
 [[files]]
