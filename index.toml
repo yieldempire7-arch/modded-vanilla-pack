@@ -2492,7 +2492,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "329c6aff0778c63de3420009db65c453a8980bf3aa8a9e9fda12bae51932397a"
+hash = "5c03db488a47f9730a648d28ab0c5f4b3411f462c1ff8f02c4c34bc34c5caf97"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2607,7 +2607,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
-hash = "ed21306a3bc9a0d0e18655c92ab24a7d565170c21545cc91da57ec55ee96bf45"
+hash = "f5f337f1212cc609f53452ace14fd7b6252719bbd67adeea9e003ceb4837cb6e"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
