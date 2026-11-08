@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "08834914feae6673d5a3cf96f80afece2f8bf9885da831b1c977db92a6426175"
+hash = "bdce23f9ad91fefd8c7305a9d12aae17efd6de684e375918e2161f7d790f8a19"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "9e37b86ef70579dd77891618447769c4cd12775a0045909de6aa4fc6c3c93474"
+hash = "a24025ce9c319bdb2ee2d30fe3cc41b8a508c1d3712009e92e37a836bed1e508"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
