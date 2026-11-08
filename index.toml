@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "a24025ce9c319bdb2ee2d30fe3cc41b8a508c1d3712009e92e37a836bed1e508"
+hash = "8f450f9c0bd8dbca2b00d4a2e03de52a542d330efe9516cc5cc2915f09bc9950"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2531,6 +2531,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight-1.8.4-mc26.2.pw.toml"
 hash = "0046e7f135f470a0b2e4d488bea49d1b5b008f15aa44c681272595005dc69ecd"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "a30ec5124545b0db9a84977dc8a7f00a53da443d26d539a652c2fdc586635a83"
 metafile = true
 
 [[files]]
@@ -2603,11 +2608,11 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
-hash = "b9dbf1a9c73daffcd72bca2f8ce83a08d0c35c741d88d1709be008fa1a4caca6"
+hash = "8fb4ef5fc48a0aed4a257eafdfd212f8a90cd8269c271c18b43145840941fad3"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "c75625160f5390049ef915ef5362d37e81ba031f413850df459abf5e72e8716c"
+hash = "4e68fce9ae67842b0172341d0361db6d6411611be67744b6593618d27080f437"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3114,7 +3119,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "f5a64b81f192ac54f091c12dff9bd57b8be97288403b55d665d5c07bd793041c"
+hash = "8811433385041eaf0d72d1dc368537eae0255141fb1f9bfe9259f1aeb2375421"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
