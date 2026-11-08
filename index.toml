@@ -2492,7 +2492,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "ac661f108134f86008596f70e18292d46adfcd73b73188f4ee0700c86187a406"
+hash = "f0c4fa0435b9eee4fa6457f47df8330da8b03c2feea709f8220517c8c37cbd8a"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2938,6 +2938,10 @@ metafile = true
 file = "mods/mcw-roofs-2.3.3-mc26.2fabric.pw.toml"
 hash = "7907c302f117be6a888abc11657e4bcd7b6de39a6e3b1310234c1ddcbefd0a94"
 metafile = true
+
+[[files]]
+file = "mods/mcw-stairs-1.0.2-mc26.2fabric.jar"
+hash = "f726106d6f23567cb9e38a4299da9afe36df4ab743ac05da2b7954be0d17f1aa"
 
 [[files]]
 file = "mods/mcw-stairs-1.0.2-mc26.2fabric.pw.toml"
