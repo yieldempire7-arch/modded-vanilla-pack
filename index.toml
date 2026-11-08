@@ -3444,6 +3444,10 @@ file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
 [[files]]
+file = "resourcepacks/Baby_Mobs_CEM.zip"
+hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
+
+[[files]]
 file = "resourcepacks/Biomes Pillager 1.21.4.zip.disabled"
 hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
