@@ -2317,6 +2317,10 @@ hash = "b7f60f4f97ccfe637bf596f0bcbd1003d7f75f8124a73b3440800b80ae1f385b"
 metafile = true
 
 [[files]]
+file = "mods/betterallay-[FABRIC]-1.4.0-1.21.1.jar"
+hash = "777eeff72e69a00330f83cc7b8c3e3a8c19a7f3122472623c76209b183d78eaf"
+
+[[files]]
 file = "mods/bettercoppergolem-FABRIC-2.5.0-26.2.jar"
 hash = "14e86831930759a123b5b743b28120447ff07f75ee12791eec1acff9cc55d969"
 
@@ -2493,7 +2497,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "a05d6fe761b9b2a9dc2c67f3ba46b633d9b3e76dc74216695a01ea4d86f26354"
+hash = "4ef74a0b9cba36dfe2a6ff6c10f5caf9abc1b0056a31e96d91c2cf0d2d94cb7f"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
