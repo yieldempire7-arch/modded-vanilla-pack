@@ -1638,7 +1638,7 @@ hash = "a2dc02a71020a0056bed420d58cdc2e0baa01c33fccfd1f2bd96c1880bd14abc"
 
 [[files]]
 file = "config/stormiespiders/rotation-overrides.json"
-hash = "3b4d4ee95a15b0db38e76fb53f5b6a5188e72f0b6d49395f0a54c6a2261acf1f"
+hash = "07b1e85954e60a1c4b32d5f0d0b06db179c7b207e7a53a8f33f11881af9ba65c"
 
 [[files]]
 file = "config/stormiespiders/stormiespiders.json"
@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "9a07e9b7995a5396bfd45af258c15c8376a7ac01ee72f81721b5593ce857058a"
+hash = "ab5d292372ef87f1823bf6e105d94b6a44c7adff4d2807a85c57cb2a817f5e6d"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3473,7 +3473,7 @@ hash = "ab00b8d8f2e62d3ab413fea1d5d6f83d0bafb95ca0c891cad565dea4e887656f"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
-hash = "cf580c432b1a3a341d9431ace326047a1c86a7e80d91806055ebd629d2601142"
+hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"

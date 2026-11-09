@@ -2,6 +2,7 @@
   "rotation_override_entities": {
     "crittersandcompanions:jumping_spider": true,
     "creaking_expansion:creaking_stalker": true,
-    "crittersandcompanions:snail": true
+    "crittersandcompanions:snail": true,
+    "ecologics:coconut_crab": true
   }
 }
