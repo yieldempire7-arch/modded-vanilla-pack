@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "ab5d292372ef87f1823bf6e105d94b6a44c7adff4d2807a85c57cb2a817f5e6d"
+hash = "74c8323b6bd0f260b7994aaac2a04f489ec38192e7f9e194581b5060ca5e93d1"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
