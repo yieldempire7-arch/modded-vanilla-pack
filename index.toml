@@ -2266,6 +2266,10 @@ hash = "f13cde1dc80689a406da8f8159459d15399ed5796ec484766546354744ac96a4"
 metafile = true
 
 [[files]]
+file = "mods/amendments-26.2-3.0.2-fabric.jar"
+hash = "91e84e6bde903d9703116edb0050321b1ff388287f1041d34c76de4cd17064c6"
+
+[[files]]
 file = "mods/animal_feeding_trough-1.2.1+26.2.jar"
 hash = "62c65191daf3e68c5cfb9c6e9a474923a85b7596b4595aba72055ae19d45a3e6"
 
