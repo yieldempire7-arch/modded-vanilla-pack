@@ -2473,7 +2473,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "fd996b42edbd56b2858c1e0ab24489eeb197ff01f8e542287c0336115c460f89"
+hash = "42d4ec9b62e868bfadf12c27f6171fb4506ce3631bb78ee12d71c674767768d0"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "6c214a498e83d0cac12024a3a5f68e8680e7f3801516962f6e2272ae09f27fe3"
+hash = "e9392a8ed689959faf21e11936766f90d270cd5379ab3fbc5c4fba1c007e027c"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2615,7 +2615,7 @@ hash = "f5f337f1212cc609f53452ace14fd7b6252719bbd67adeea9e003ceb4837cb6e"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "917a9c6939d63afe2667518a240b60786ad6a67af109641cb2d59bff83efda53"
+hash = "d29e7d2a246ad8b5e5b2e072ee75d99720425fd55fafebe0e520342e0ae97c96"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -2766,7 +2766,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "dfe4231f355b20dc88a859b2eeda4b6b7ad07ab1901fad1d028a5f4448f3df80"
+hash = "10cf677e5778f1011cb3b9403d5c0c82090b10ae9534cf4a48239c1f7e1db6a2"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3130,7 +3130,7 @@ metafile = true
 
 [[files]]
 file = "mods/reimaginingpotatoes-fabric-26.2-1.0.0+26.2.jar"
-hash = "98a952a6061628db43720da91aaa6d0607a6c71b3f5c91ce482d34fb685a0b0e"
+hash = "461ed9c2dd9bf6a05fbad1ae5d21b25342463e31c1c189de05faff904af6e6f5"
 
 [[files]]
 file = "mods/reliablenametags-2.0.0+26.2-fabric.jar"
@@ -3234,7 +3234,7 @@ hash = "582e2b24556b13dc9a27621315bb75afcf339eda0673b695e25aefdde4763f85"
 
 [[files]]
 file = "mods/sophisticatedcore-fabric-26.2-1.2.9.21+26.2.jar"
-hash = "2c2aeb03a716ee5a9355acb4f2650cb85137189742d6d8f9470b763375482ff9"
+hash = "ec958b8c448bf621846bd2aaf8b6c8aac7c13d96e28e2ebf909907eb7055ded9"
 
 [[files]]
 file = "mods/sophisticatedstorage-fabric-26.2-26.2-1.3.7.9+26.2.jar"
@@ -3296,6 +3296,10 @@ metafile = true
 file = "mods/supermartijn642corelib-1.1.24a-fabric-mc26.2.pw.toml"
 hash = "8f1be66617d4c49c5e54901f72ba5a6714f54bc2c1fe211aba53efc5d067abbd"
 metafile = true
+
+[[files]]
+file = "mods/supplementaries-26.2-4.0.2-fabric.jar"
+hash = "7b107cb381acac902688bfe22fbba1057ca1825b56ce6276c8a0db0ebe3bfcf2"
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
@@ -3493,4 +3497,4 @@ hash = "26fe5b1fe776786d192316dbe8bc6476a85797ae4705f53e2725e2fdf3c6a7a3"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1.zip"
-hash = "d056d3f127a4642b95d463de04424f19ec4e8c4298825ec76c340a9481085c13"
+hash = "4df1d23ff04715a203d83a2b70b8310219d920d69dd10d5fc6a91d7067359042"
