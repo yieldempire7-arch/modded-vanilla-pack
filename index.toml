@@ -10,7 +10,7 @@ hash = "e3020b2adcddabe9978e7b0e5fccfdff3adb8d9288ce6c1111d7d091885381a8"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
-hash = "3e5f8ae87aa630d693c2b0313f8eb467a06dc9ff2f0b3dabf5e2e0e05ed0840a"
+hash = "f4460521e10b2809520e67424a18a30a2e8df92ac3b691826496a4dcaae70820"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -186,7 +186,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "bdce23f9ad91fefd8c7305a9d12aae17efd6de684e375918e2161f7d790f8a19"
+hash = "08834914feae6673d5a3cf96f80afece2f8bf9885da831b1c977db92a6426175"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -554,7 +554,7 @@ hash = "e0419b90dafeeef9b636daa66d252edd3f81a106a804743ba9a32d2483cddb45"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "bc4ef30110a22baf3880c84753e8f321cb59dbdf218e0b322ecbe2dfd6034c58"
+hash = "6a12956af12222138690708af0a903126b0f8a1da40a410fd7409f9e07b03c0d"
 
 [[files]]
 file = "config/immersive-hotbar.json5"
@@ -1638,7 +1638,7 @@ hash = "a2dc02a71020a0056bed420d58cdc2e0baa01c33fccfd1f2bd96c1880bd14abc"
 
 [[files]]
 file = "config/stormiespiders/rotation-overrides.json"
-hash = "07b1e85954e60a1c4b32d5f0d0b06db179c7b207e7a53a8f33f11881af9ba65c"
+hash = "9359287f59bd40ff149fa94872d2a181f4d828191835607cdb57c0456fd5b105"
 
 [[files]]
 file = "config/stormiespiders/stormiespiders.json"
@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "226d3a4d4138402f6d6982b379d86f01d926757e96b42f08b0328041f5791a8d"
+hash = "8e64ebfbd317f000c0d7cef17d91b7f29be8efd9410800e7689b98b2f37ebd17"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3473,7 +3473,7 @@ hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "9e2b570589202b6a0a16e790d8cbe573f4cd13ea8117034ccc951447fa98bd09"
+hash = "07c8808213653cc167494db0d0b9b432755d9d70d4a96134c735c9aa9d0873ce"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
