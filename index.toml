@@ -554,7 +554,7 @@ hash = "e0419b90dafeeef9b636daa66d252edd3f81a106a804743ba9a32d2483cddb45"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "351554b5d847acfb0dcdd05a93b5b93f27035178bcbde4d5193b4dc5a5a2f11b"
+hash = "bc4ef30110a22baf3880c84753e8f321cb59dbdf218e0b322ecbe2dfd6034c58"
 
 [[files]]
 file = "config/immersive-hotbar.json5"
@@ -2473,7 +2473,7 @@ metafile = true
 
 [[files]]
 file = "mods/crittersandcompanions-fabric-26.2-2.7.0+26.2.jar"
-hash = "42d4ec9b62e868bfadf12c27f6171fb4506ce3631bb78ee12d71c674767768d0"
+hash = "fd996b42edbd56b2858c1e0ab24489eeb197ff01f8e542287c0336115c460f89"
 
 [[files]]
 file = "mods/cropsloverain-3.2.1.pw.toml"
@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "6798fb5bf4d4546502b7979256077ca488a18c5cb2b9252d387a5e37c4c2f238"
+hash = "34346e86a6654ebc66ad1d24a86bcce57c85fe4d284073e07cce0dfe7d2f133a"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3299,7 +3299,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-26.2-4.0.2-fabric.jar"
-hash = "7b107cb381acac902688bfe22fbba1057ca1825b56ce6276c8a0db0ebe3bfcf2"
+hash = "05497b21a750e514c9a6bca7c6e6771a6dd865d4e9f893c6a2523b9889692946"
 
 [[files]]
 file = "mods/swampier_swamps-26.2-1.0.0.jar"
