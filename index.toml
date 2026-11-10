@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "c2a81dd791fbbbf8f351b32fd2def153e2b294fadf2e70e360ba931513ddc8ce"
+hash = "76da3efebb1bb073fa16f6fa9351dbb53918c5c8609ee5048b0434f17c5063f1"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2998,6 +2998,10 @@ metafile = true
 file = "mods/modmenu-20.0.1.pw.toml"
 hash = "c2d9a126e3778b4e1d431a82899a562ba880fdf10683677156e9ee766c243209"
 metafile = true
+
+[[files]]
+file = "mods/moonlight-26.2-4.3.0-fabric.jar"
+hash = "822cffddac468037286c1bb28c1be0224f59a604cea53ce1ee3f9a9fc6fa0b3c"
 
 [[files]]
 file = "mods/more-babies-26.2+3.1.0-fabric.jar"
