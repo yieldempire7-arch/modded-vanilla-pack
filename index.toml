@@ -2611,7 +2611,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-gear-fabric-26.2-1.0.0+26.2.jar"
-hash = "f5f337f1212cc609f53452ace14fd7b6252719bbd67adeea9e003ceb4837cb6e"
+hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
@@ -3076,7 +3076,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie_buddies-0.1.7+26.2.jar"
-hash = "8a5e7a9369c92b100a41e45be0fd6b89cf63f7f49d40f5defc9c8839650d60ac"
+hash = "a7c7a5a2d2eb11002bc7721038c9ef6ec8581803edc41995426a3accbdedd50a"
 
 [[files]]
 file = "mods/polymorph-fabric-1.1.7+26.2.pw.toml"
