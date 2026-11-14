@@ -1,0 +1,13 @@
+name = "Cinematic Interactions"
+filename = "Cinematic Interaction-Fabric-26.2-0.18.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf928e9066eda827d51319d7bfbc84dc5eb8a56c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9345438
+project-id = 1743441

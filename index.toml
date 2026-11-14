@@ -10,7 +10,7 @@ hash = "e3020b2adcddabe9978e7b0e5fccfdff3adb8d9288ce6c1111d7d091885381a8"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
-hash = "f4460521e10b2809520e67424a18a30a2e8df92ac3b691826496a4dcaae70820"
+hash = "3e5f8ae87aa630d693c2b0313f8eb467a06dc9ff2f0b3dabf5e2e0e05ed0840a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -166,7 +166,7 @@ hash = "ac8ae74f0a774a766acb9c99747e65d8741f0bd6bf749e5d61877c5e5637449f"
 
 [[files]]
 file = "config/amendments-client.json"
-hash = "1bf07c183b38611061cda728d2f32a8d31047e722cc001ce8eb4cdc329d14892"
+hash = "b9fd23cc574ea658a2e978939855e12eea73ff4e179e92b8ac8ec9a1d2e14d6e"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -558,7 +558,7 @@ hash = "e0419b90dafeeef9b636daa66d252edd3f81a106a804743ba9a32d2483cddb45"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "6a12956af12222138690708af0a903126b0f8a1da40a410fd7409f9e07b03c0d"
+hash = "bc4ef30110a22baf3880c84753e8f321cb59dbdf218e0b322ecbe2dfd6034c58"
 
 [[files]]
 file = "config/immersive-hotbar.json5"
@@ -1642,7 +1642,7 @@ hash = "a2dc02a71020a0056bed420d58cdc2e0baa01c33fccfd1f2bd96c1880bd14abc"
 
 [[files]]
 file = "config/stormiespiders/rotation-overrides.json"
-hash = "9359287f59bd40ff149fa94872d2a181f4d828191835607cdb57c0456fd5b105"
+hash = "07b1e85954e60a1c4b32d5f0d0b06db179c7b207e7a53a8f33f11881af9ba65c"
 
 [[files]]
 file = "config/stormiespiders/stormiespiders.json"
@@ -2320,6 +2320,11 @@ hash = "99c8e05211a5a80ab0ed25369e6b3d52fef45ee6f9b5f9ac78d318e0aeac2382"
 metafile = true
 
 [[files]]
+file = "mods/better-smoke.pw.toml"
+hash = "c5a24d1ca44e5523c0b320e3ed16141398c66cf0d44a81f454fed6cbf341479d"
+metafile = true
+
+[[files]]
 file = "mods/better-sniffers.pw.toml"
 hash = "b7f60f4f97ccfe637bf596f0bcbd1003d7f75f8124a73b3440800b80ae1f385b"
 metafile = true
@@ -2396,6 +2401,11 @@ hash = "bc3f301dd023773faf33193fd1fcc024c8b996eace8ae3a3dac439c43acd0c0b"
 metafile = true
 
 [[files]]
+file = "mods/cinematic-interactions.pw.toml"
+hash = "4f854b13f08372ed06767da8560468c0935073723a3c09588cae9201b1e621c0"
+metafile = true
+
+[[files]]
 file = "mods/clientsort-fabric-3.103.2+26.2.jar"
 hash = "b976e8e284289799a40867a45bdfdd2aa7d19e737dc633284620bc7ad2f38752"
 
@@ -2462,6 +2472,11 @@ file = "mods/coroutil-fabric-1.21.4-1.3.8.jar"
 hash = "a466ee3b4b75b92090aa8047a9fa87e86f5c3a30dba782bc708dd866427733ec"
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "8c2c2388448bf6351b9444693f535348afb0b222151d2103f0f043fd1bd47d07"
+metafile = true
+
+[[files]]
 file = "mods/cratedelight-26.07.01-26.2-fabric.pw.toml"
 hash = "b9916af11fcb0ac2be1e8ae06ba34932be8f6957488df8fb10762a405e0fb294"
 metafile = true
@@ -2504,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "b403dee567479b817ec1e1ad692bdf6603cb556009a57e4913756f4db58d8789"
+hash = "f5cfd0e5ef73992ba20acdd675de3d9a0aafce2aa334e9d6e4e9a555cd01a4f3"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2726,6 +2741,11 @@ hash = "293eea6ae36195037e94505fe7fd550d48bd2ea3c08985638b7d7040fb959fab"
 metafile = true
 
 [[files]]
+file = "mods/field-guide.pw.toml"
+hash = "c440bb118e54ad4661c705c381b49475c081e88160d9f8b96dd3c396685b6841"
+metafile = true
+
+[[files]]
 file = "mods/forgetful-sniffer-v1.2.2.pw.toml"
 hash = "0f1dfa3d10c9351db0a609a9de4af586252135326d3c3831e64f1ac28b6a9564"
 metafile = true
@@ -2777,6 +2797,11 @@ file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
 hash = "10cf677e5778f1011cb3b9403d5c0c82090b10ae9534cf4a48239c1f7e1db6a2"
 
 [[files]]
+file = "mods/grassier-grass.pw.toml"
+hash = "358996155642af50733a24ab5295d1e99c17ba10ac856ae4597cf5f86cb4f2ff"
+metafile = true
+
+[[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
 hash = "4cf5281a7de570424260bbb2a34c56d44be344f5deffe4a1bab096526a409a03"
 
@@ -2800,6 +2825,11 @@ hash = "f2a59b788a142e81e662cbe638ae3a32879d72fc7cfde836127ba7e10cc5c324"
 metafile = true
 
 [[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "654ecf5c92d005ec48af6eeef34c51a3aa8dab8bd6a4ec815926105052437b57"
+metafile = true
+
+[[files]]
 file = "mods/indypets-1.5.5-26.2.pw.toml"
 hash = "4c28be34534e66602fd0950595ceb8210ee24cfde2dd86fd0fc65a8172fbb936"
 metafile = true
@@ -2817,6 +2847,11 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "df03a91d45994220c3bdb286a4fa3f173426636dade93caa4d3e1e5bda772791"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "6eba79755130a75d8ad4d093166206357cde98df321e498ecbc4825042cdd91c"
 metafile = true
 
 [[files]]
@@ -3055,6 +3090,11 @@ hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
 metafile = true
 
 [[files]]
+file = "mods/olafs-relatively-placed-blocks.pw.toml"
+hash = "681748f1cffde5a51efce19a45a321ccac44c54e0469a851401f9b8d683fbdbd"
+metafile = true
+
+[[files]]
 file = "mods/orb-of-dominance.pw.toml.disabled"
 hash = "99d9ccc6965aad478768bf446f8ce772f4179d907c9652f293b955fe9d7bf023"
 
@@ -3288,6 +3328,11 @@ hash = "a8e6e306fcd2e4eb13a732a20cf3a2f5adc8bb5aa0e9710e945e80eec46935bd"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "9eb372290df62dd9df99464429e25e6eceba85575af0504dc59b2447420c938f"
+metafile = true
+
+[[files]]
 file = "mods/sulfurcavesplus-1.1.7-26.2.jar"
 hash = "69e3b6723b9788ff3a16322aad99ac79d3eedf993acb98e730dc9006a890d442"
 
@@ -3448,6 +3493,11 @@ file = "mods/watut-fabric-1.21.4-1.2.5.jar"
 hash = "e399c28611f89f5ab217609a4fd3fa834583bb7b9177cc4cdce843986cef91fd"
 
 [[files]]
+file = "mods/wavify.pw.toml"
+hash = "78a53c122ee9f5d3401fe1210c16f0445793c95586e02200ca4cc95d21ab1b53"
+metafile = true
+
+[[files]]
 file = "mods/waxeditemframe-fabric-26.2.x-1.0.1.pw.toml"
 hash = "d514fef0d3d78df0ce600627380ffe35a6838bedb4f9682f03958753ec51bcd9"
 metafile = true
@@ -3460,6 +3510,16 @@ metafile = true
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
 hash = "1c8633ac26a7eca81515077cf5d3d98ef178929197f50017de2c0ddf4d664ceb"
+
+[[files]]
+file = "mods/wet-sand.pw.toml"
+hash = "ca9a391dce62d0ac78d951f41c24a3d0cdcd1fad64adf859308fd36a0baabf61"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "f5cb275f482faee0800151653b5bd0a71fce6267676ede089e78c7836821ada8"
+metafile = true
 
 [[files]]
 file = "mods/worldedit-mod-7.4.5.jar"
@@ -3500,8 +3560,22 @@ file = "resourcepacks/MobCrates_26.2_v2.4.zip"
 hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
+file = "resourcepacks/MobCrates_26.2_v2.4.zip.original.bak"
+hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
+
+[[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
 hash = "82a99dab8aeafc58a2db583d89b3f94930f0588cb76d8c56d22b7fcd732a598f"
+
+[[files]]
+file = "resourcepacks/oaks-better-cactus.pw.toml"
+hash = "418504bd7478bf6c4f50ae6a69f75d6ad14a9ace6178bf4b12be7ce05f1a91ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/truly-connected.pw.toml"
+hash = "b6284d4f80f27aabad868425e6bd99af7cb28f04d10ae4413edb8b584d5ece1b"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"

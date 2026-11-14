@@ -1,0 +1,13 @@
+name = "Grassier Grass"
+filename = "grassiergrass-fabric-1.4.5+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3jCB9cn2/versions/8AHVOlSX/grassiergrass-fabric-1.4.5%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "941fa67e6024a25c6d7b27013e4009899737983ef21a0209803ace465ec60422f451211dcce826fab38e4315c9ed3d3f67deb3909171689afa51812ac8cb2b7e"
+
+[update]
+[update.modrinth]
+mod-id = "3jCB9cn2"
+version = "8AHVOlSX"

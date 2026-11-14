@@ -1,0 +1,13 @@
+name = "Oaks Better Cactus"
+filename = "Oaks Better Cactus [v1.0].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lQ1taYf6/versions/2eIekjb8/Oaks%20Better%20Cactus%20%5Bv1.0%5D.zip"
+hash-format = "sha512"
+hash = "9c7b55e0d9a49f5b88a96d3b03bd4371a3fe6473872bdd28e0b6397a99777ed3144a9b754c52e2cd5aa33d376ab335d747434986db4d24abdad9fd9cae01f861"
+
+[update]
+[update.modrinth]
+mod-id = "lQ1taYf6"
+version = "2eIekjb8"

@@ -1,0 +1,13 @@
+name = "CoroUtil"
+filename = "coroutil-fabric-1.21.4-1.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88e640091d0c8c5842f1158656f2e025e5fac868"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6325054
+project-id = 237749
