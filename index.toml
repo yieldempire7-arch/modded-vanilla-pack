@@ -166,7 +166,7 @@ hash = "ac8ae74f0a774a766acb9c99747e65d8741f0bd6bf749e5d61877c5e5637449f"
 
 [[files]]
 file = "config/amendments-client.json"
-hash = "b9fd23cc574ea658a2e978939855e12eea73ff4e179e92b8ac8ec9a1d2e14d6e"
+hash = "dd98b4199e0cf2f19c0ac6c60c79458269edd881c2e802800ebf1b7401ebc1d1"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -2519,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "f5cfd0e5ef73992ba20acdd675de3d9a0aafce2aa334e9d6e4e9a555cd01a4f3"
+hash = "4d7d986b449464b764b10a916f5db64e6c4157545c4f114e090198e95226eea0"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3565,7 +3565,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "82a99dab8aeafc58a2db583d89b3f94930f0588cb76d8c56d22b7fcd732a598f"
+hash = "3ade36a11301a1e4726e354a5d4dcc8d1dc74f9c491679446d35f7580df6d5be"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"

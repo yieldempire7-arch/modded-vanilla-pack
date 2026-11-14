@@ -70,7 +70,7 @@
     "potion_texture": true
   },
   "jukebox": {
-    "new_model": false,
+    "new_model": true,
     "disc_spin": true
   },
   "misc": {
