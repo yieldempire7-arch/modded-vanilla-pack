@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "3f894da7482fe4c40643bb33431bf56a3dd85d336c168d7983b4d43ea6ab8078"
+hash = "427bdb473289eb2d1131345f9001091cc79ad16fee2da0ac42922b3103b775d8"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3489,7 +3489,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "4485c4918dafecffd46c7993d2172441f97d90fee77e5a5f4d8c54c82a83857a"
+hash = "82a99dab8aeafc58a2db583d89b3f94930f0588cb76d8c56d22b7fcd732a598f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
