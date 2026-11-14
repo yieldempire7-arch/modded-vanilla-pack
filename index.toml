@@ -2472,11 +2472,6 @@ file = "mods/coroutil-fabric-1.21.4-1.3.8.jar"
 hash = "a466ee3b4b75b92090aa8047a9fa87e86f5c3a30dba782bc708dd866427733ec"
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "8c2c2388448bf6351b9444693f535348afb0b222151d2103f0f043fd1bd47d07"
-metafile = true
-
-[[files]]
 file = "mods/cratedelight-26.07.01-26.2-fabric.pw.toml"
 hash = "b9916af11fcb0ac2be1e8ae06ba34932be8f6957488df8fb10762a405e0fb294"
 metafile = true
@@ -3514,11 +3509,6 @@ hash = "1c8633ac26a7eca81515077cf5d3d98ef178929197f50017de2c0ddf4d664ceb"
 [[files]]
 file = "mods/wet-sand.pw.toml"
 hash = "ca9a391dce62d0ac78d951f41c24a3d0cdcd1fad64adf859308fd36a0baabf61"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "f5cb275f482faee0800151653b5bd0a71fce6267676ede089e78c7836821ada8"
 metafile = true
 
 [[files]]
