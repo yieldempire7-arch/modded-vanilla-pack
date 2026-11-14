@@ -2455,7 +2455,7 @@ hash = "75a7e7f5621d0680379b7b78e6f4467247a0dc44b55b3df3283a2778c0ff2f17"
 
 [[files]]
 file = "mods/coroutil-fabric-1.21.4-1.3.8.jar"
-hash = "6e1aec12e2a4a0469563b58ab4cd942fb8aab0b1410f3b6d9a344767f9525f2d"
+hash = "011dfb433627ab6a736c131b688d3ac279f72782802ee41aef148535a3051475"
 
 [[files]]
 file = "mods/cratedelight-26.07.01-26.2-fabric.pw.toml"
@@ -3441,7 +3441,7 @@ hash = "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a"
 
 [[files]]
 file = "mods/watut-fabric-1.21.4-1.2.5.jar"
-hash = "c14fb79ac6c4626966d9f8be500bd771d7e2f041c3d8875fcc7d7116dd6fc880"
+hash = "c9353c1b47f8650c1e91e696b002f82b7fee8e37cbc36aa545029e8260294c72"
 
 [[files]]
 file = "mods/waxeditemframe-fabric-26.2.x-1.0.1.pw.toml"
