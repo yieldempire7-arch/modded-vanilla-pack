@@ -10,7 +10,7 @@ hash = "e3020b2adcddabe9978e7b0e5fccfdff3adb8d9288ce6c1111d7d091885381a8"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
-hash = "3e5f8ae87aa630d693c2b0313f8eb467a06dc9ff2f0b3dabf5e2e0e05ed0840a"
+hash = "f4460521e10b2809520e67424a18a30a2e8df92ac3b691826496a4dcaae70820"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -166,7 +166,7 @@ hash = "ac8ae74f0a774a766acb9c99747e65d8741f0bd6bf749e5d61877c5e5637449f"
 
 [[files]]
 file = "config/amendments-client.json"
-hash = "dd98b4199e0cf2f19c0ac6c60c79458269edd881c2e802800ebf1b7401ebc1d1"
+hash = "287d98a37b4cc74c6dce8c573adc064d132cd77c91e0da4a7f5bff1b641480e5"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -558,7 +558,7 @@ hash = "e0419b90dafeeef9b636daa66d252edd3f81a106a804743ba9a32d2483cddb45"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "bc4ef30110a22baf3880c84753e8f321cb59dbdf218e0b322ecbe2dfd6034c58"
+hash = "6a12956af12222138690708af0a903126b0f8a1da40a410fd7409f9e07b03c0d"
 
 [[files]]
 file = "config/immersive-hotbar.json5"
@@ -1642,7 +1642,7 @@ hash = "a2dc02a71020a0056bed420d58cdc2e0baa01c33fccfd1f2bd96c1880bd14abc"
 
 [[files]]
 file = "config/stormiespiders/rotation-overrides.json"
-hash = "07b1e85954e60a1c4b32d5f0d0b06db179c7b207e7a53a8f33f11881af9ba65c"
+hash = "9359287f59bd40ff149fa94872d2a181f4d828191835607cdb57c0456fd5b105"
 
 [[files]]
 file = "config/stormiespiders/stormiespiders.json"
