@@ -165,6 +165,10 @@ file = "config/additionaladditions/wrench.json5"
 hash = "ac8ae74f0a774a766acb9c99747e65d8741f0bd6bf749e5d61877c5e5637449f"
 
 [[files]]
+file = "config/amendments-client.json"
+hash = "1bf07c183b38611061cda728d2f32a8d31047e722cc001ce8eb4cdc329d14892"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
@@ -2500,7 +2504,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "1086dd5619d46a61cfff92dc015f22a30640e4e44eda7e2e8bfbd804c7378afd"
+hash = "30f0006fcb05c0d342791469615a35b4c31cd62ce1740e3c7b0e1c93d37af4da"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3441,7 +3445,7 @@ hash = "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a"
 
 [[files]]
 file = "mods/watut-fabric-1.21.4-1.2.5.jar"
-hash = "79817cdd8a94cf334ee6edd20efba8f539f3aa59a64a92cf2953dc7a2eb63c26"
+hash = "1a08741db88a3188d300b0d13bba0d4f93b2b83247d9230c2b6f1f482ec2f951"
 
 [[files]]
 file = "mods/waxeditemframe-fabric-26.2.x-1.0.1.pw.toml"
