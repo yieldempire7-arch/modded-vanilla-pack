@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "69ee6362904de5bf4cd79eeb899c9c6ae249e4918ad1738739d9b011706495f1"
+hash = "3e9cf2906ea6b52415c50bc11b51ece3adcdb71ad7c5aac76a5a9107133a76cc"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3342,7 +3342,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-26.2-4.0.2-fabric.jar"
-hash = "a03696098bba1ff40959f838d472c59e824d6a555a6cffa8ac74da4dc30cf8f2"
+hash = "4f054d3d1b25b0fc3f78f813c41a7f5b832a494c8e15bdc6423bf3188c70190b"
 
 [[files]]
 file = "mods/supplementaries-26.2-4.0.2-fabric.jar.bak_cat2"
@@ -3529,6 +3529,10 @@ file = "resourcepacks/Baby_Mobs_CEM.zip"
 hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
 
 [[files]]
+file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
+hash = "bfc21043f8daf342a46bd5f507c10978c96cc989b22a8ea4dbf9bfea221abb05"
+
+[[files]]
 file = "resourcepacks/Biomes Pillager 1.21.4.zip.disabled"
 hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
 
@@ -3542,7 +3546,7 @@ hash = "ab00b8d8f2e62d3ab413fea1d5d6f83d0bafb95ca0c891cad565dea4e887656f"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
-hash = "cdd1830adf434630ff1c7f731e9026df1bc2955e0cae0636c1973832c1ff2434"
+hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip.original.bak"
