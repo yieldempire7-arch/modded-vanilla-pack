@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "3e9cf2906ea6b52415c50bc11b51ece3adcdb71ad7c5aac76a5a9107133a76cc"
+hash = "ce1f8d0032e55f45658b2636907a232fdd905721401a315019655d185fac99ce"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2812,11 +2812,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-hotbar-1.2.2-26.2.pw.toml"
 hash = "f2a59b788a142e81e662cbe638ae3a32879d72fc7cfde836127ba7e10cc5c324"
-metafile = true
-
-[[files]]
-file = "mods/immersive-overlays.pw.toml"
-hash = "654ecf5c92d005ec48af6eeef34c51a3aa8dab8bd6a4ec815926105052437b57"
 metafile = true
 
 [[files]]
@@ -3554,7 +3549,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "91178f7be452e4984d6cc814143b73c09fd5c7de84a626c92c68d6c055396dc6"
+hash = "e7fbe2b308b29279719be695f5119df00ee86a1c9de5a50a7100920abebf9702"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"
@@ -3576,4 +3571,4 @@ hash = "26fe5b1fe776786d192316dbe8bc6476a85797ae4705f53e2725e2fdf3c6a7a3"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1.zip"
-hash = "4df1d23ff04715a203d83a2b70b8310219d920d69dd10d5fc6a91d7067359042"
+hash = "d056d3f127a4642b95d463de04424f19ec4e8c4298825ec76c340a9481085c13"
