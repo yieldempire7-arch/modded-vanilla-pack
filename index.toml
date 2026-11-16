@@ -2482,7 +2482,7 @@ hash = "e5176fc5dde2baf377e6e06424a1b81ecdb3b741b7cc8fb8ad7071d867feec01"
 
 [[files]]
 file = "mods/creaking_expansion-26.2-1.0.0.jar"
-hash = "540ce6a34fdd7dfb01bc3bf455d3442f8c52bfb392f6b5d40566137610a3dff6"
+hash = "ecba55897deb720969df02b2bd6a286fe82f7d5317cc420889bbeac9676a5a1e"
 
 [[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d4d3b691617dadb3807cfa1e3c1a9429f9a451ea9155f2c11e4f90a4c3ae0ef2"
+hash = "acad0ec71c530344837d3469ec16e71dbfc529dc017714e593d09f73f79ed27a"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2796,10 +2796,6 @@ file = "mods/guardvillagers-2.1.3-26.2.jar"
 hash = "4cf5281a7de570424260bbb2a34c56d44be344f5deffe4a1bab096526a409a03"
 
 [[files]]
-file = "mods/healingbed 26.2 (Fabric).jar"
-hash = "75e8428c6a980b9b0f1fba3cb9e61837466412660abf776547156dbf50c6df5c"
-
-[[files]]
 file = "mods/healingbed 26.2 (Fabric).pw.toml"
 hash = "c5bae41c60f1b0da5eee63b7c63d1d315b198daba718dcb610cae704134149f3"
 metafile = true
@@ -2972,10 +2968,6 @@ hash = "7907c302f117be6a888abc11657e4bcd7b6de39a6e3b1310234c1ddcbefd0a94"
 metafile = true
 
 [[files]]
-file = "mods/mcw-stairs-1.0.2-mc26.2fabric.jar"
-hash = "f726106d6f23567cb9e38a4299da9afe36df4ab743ac05da2b7954be0d17f1aa"
-
-[[files]]
 file = "mods/mcw-stairs-1.0.2-mc26.2fabric.pw.toml"
 hash = "6f643e04d74823012928f13917e6a97636927c595634daf51115729f6aa514b0"
 metafile = true
@@ -3012,10 +3004,6 @@ hash = "b729d94ba32eac16aa2da667d98faac33b31b3bf9d1a735350c749e3ce54eff3"
 file = "mods/mixson-2.2.0-multiloader.pw.toml"
 hash = "b2df8994b9c6fe3005c01e822c7eab549b8a51cfd36294a4206e00150f98c9e5"
 metafile = true
-
-[[files]]
-file = "mods/mob-heads-v5.1.1.jar"
-hash = "5496028a1df619ed9dd3f5a5a45dfcf7ecec582527ca2f72d8f561187f4c345d"
 
 [[files]]
 file = "mods/mob-heads-v5.1.1.pw.toml"
@@ -3129,10 +3117,6 @@ metafile = true
 file = "mods/prb-lrp-prb_lrp-1.20.2-26.2-1.2.pw.toml"
 hash = "15619c5d01facd390ee8477c948b68c50dfa49ef475789d3a4876f486b4d7afa"
 metafile = true
-
-[[files]]
-file = "mods/punchy-2.7e-fabric-26.2.jar"
-hash = "6d21389989a69970cddaed1c3e19b4b80e46ec966b1e4d55e4934fc9759815a2"
 
 [[files]]
 file = "mods/punchy-2.7e-fabric-26.2.pw.toml"
@@ -3428,6 +3412,11 @@ metafile = true
 [[files]]
 file = "mods/unlimited-villager-trades-26.2-1.pw.toml"
 hash = "332ffd145c2727ac1603dfec7dabae11da05189311a6b443e75e561e74d5b24c"
+metafile = true
+
+[[files]]
+file = "mods/untitled-duck-mod.pw.toml"
+hash = "1b54b69691d9d6eb207b219ec46eba56562090ba02ca7b982b4bf26fd1c6af56"
 metafile = true
 
 [[files]]
