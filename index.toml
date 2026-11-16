@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "ce1f8d0032e55f45658b2636907a232fdd905721401a315019655d185fac99ce"
+hash = "4f1aa6c35f23041941a591ee1d46ea41c93095be5359bab34e018834dcfe4702"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3015,7 +3015,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-heads-v5.1.1.jar"
-hash = "b7f763d86183cc79865e414ae7927450b5011156f2a327ac1e6edbdc8f109aa9"
+hash = "5496028a1df619ed9dd3f5a5a45dfcf7ecec582527ca2f72d8f561187f4c345d"
 
 [[files]]
 file = "mods/mob-heads-v5.1.1.pw.toml"
