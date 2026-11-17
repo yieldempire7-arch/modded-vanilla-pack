@@ -1797,6 +1797,10 @@ file = "config/watermedia.toml"
 hash = "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85"
 
 [[files]]
+file = "config/wavify.json"
+hash = "c943db42d2066aa692fe817e6fde616e6f753e0e326716d73f898653976e04d9"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "a6be924fac2f6d5652ffca4a654004b6b9529913925384a34019aa7b89d06a2e"
 
@@ -2514,7 +2518,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "bfd1bd7e4d9e913300309ffac389c89e99ad80b28c8a4798390ee34254575589"
+hash = "4c94a137bab2bf0a607161185aa9f93838029478de6a340d5f5f2617775d04f7"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3514,7 +3518,7 @@ hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
 
 [[files]]
 file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
-hash = "bfc21043f8daf342a46bd5f507c10978c96cc989b22a8ea4dbf9bfea221abb05"
+hash = "1906268a4e660df5726245a7d266675a8f7605c4841f631b51735345bc828b52"
 
 [[files]]
 file = "resourcepacks/Biomes Pillager 1.21.4.zip.disabled"
@@ -3530,7 +3534,7 @@ hash = "ab00b8d8f2e62d3ab413fea1d5d6f83d0bafb95ca0c891cad565dea4e887656f"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
-hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
+hash = "cf580c432b1a3a341d9431ace326047a1c86a7e80d91806055ebd629d2601142"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip.original.bak"
