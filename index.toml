@@ -190,7 +190,7 @@ hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
 
 [[files]]
 file = "config/bettercoppergolemconfig.properties"
-hash = "e75d99290ac3abacda6915e3fb4eb3a6a22a3eee5b2d688dd140fa3354ceec08"
+hash = "e897b4b153c02bfa0b5778b4f4308a9269c7014d39c92fe649ae9e68a8641af4"
 
 [[files]]
 file = "config/betterpalegarden.json"
@@ -1798,7 +1798,7 @@ hash = "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85"
 
 [[files]]
 file = "config/wavify.json"
-hash = "c943db42d2066aa692fe817e6fde616e6f753e0e326716d73f898653976e04d9"
+hash = "53e951138a1b2db3a30c2cdb9755c73bfb698dd2c9e99997dd7f45d8cd91845e"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -3542,7 +3542,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "e7fbe2b308b29279719be695f5119df00ee86a1c9de5a50a7100920abebf9702"
+hash = "4f787d17cf448f9e557fc30321b5a45836ff9a66fa2f47e206cbd3391d0d025e"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"
