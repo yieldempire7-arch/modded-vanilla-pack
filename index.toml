@@ -3067,11 +3067,6 @@ hash = "bb411d430a2a0c2edc0051380f81178158b49a6660c666ac5a7df82c9a1d3d48"
 metafile = true
 
 [[files]]
-file = "mods/olafs-relatively-placed-blocks.pw.toml"
-hash = "681748f1cffde5a51efce19a45a321ccac44c54e0469a851401f9b8d683fbdbd"
-metafile = true
-
-[[files]]
 file = "mods/orb-of-dominance.pw.toml.disabled"
 hash = "99d9ccc6965aad478768bf446f8ce772f4179d907c9652f293b955fe9d7bf023"
 
