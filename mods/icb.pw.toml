@@ -1,0 +1,13 @@
+name = "Ice Caves Backport"
+filename = "ice_caves_backport-fabric-0.1.11+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8laIEMSc/versions/F62TR0IR/ice_caves_backport-fabric-0.1.11%2B26.2.jar"
+hash-format = "sha512"
+hash = "623c06296b9fe4297294ab986dd572903b3b23db34ae9a73749e1f0c8b57817e1b1e5c6c4d54ffba68ae67db376b4094fa9c7ed43351e58df493774d9773515c"
+
+[update]
+[update.modrinth]
+mod-id = "8laIEMSc"
+version = "F62TR0IR"

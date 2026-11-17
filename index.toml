@@ -2810,6 +2810,11 @@ hash = "a8f7b9fffdeb269a7d556bea5809ce2832b70e64711f7351bd8aaac4c2388607"
 metafile = true
 
 [[files]]
+file = "mods/icb.pw.toml"
+hash = "c65aca5441ce70fefdc4174298bdb329a5a77334acaaece4c380c793e13a9f7e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-hotbar-1.2.2-26.2.pw.toml"
 hash = "f2a59b788a142e81e662cbe638ae3a32879d72fc7cfde836127ba7e10cc5c324"
 metafile = true
