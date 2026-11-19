@@ -3471,6 +3471,11 @@ file = "mods/watermedia-3.0.0.23.jar"
 hash = "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a"
 
 [[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
 file = "mods/watut-fabric-1.21.4-1.2.5.jar"
 hash = "e399c28611f89f5ab217609a4fd3fa834583bb7b9177cc4cdce843986cef91fd"
 
