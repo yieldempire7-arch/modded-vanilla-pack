@@ -3127,6 +3127,10 @@ hash = "15619c5d01facd390ee8477c948b68c50dfa49ef475789d3a4876f486b4d7afa"
 metafile = true
 
 [[files]]
+file = "mods/puddles-and-floods.jar"
+hash = "e5789d0a134f63edbbd0961ed4138df71cfe56cb3303268b3e6c2ba1c75abe39"
+
+[[files]]
 file = "mods/punchy-2.7e-fabric-26.2.pw.toml"
 hash = "e737f8a744bb19df255bc4da612743a38b8eeb56119acc66d0a05ab3f583a2c0"
 metafile = true
