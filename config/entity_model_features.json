@@ -8,18 +8,10 @@
   "automaticModelExporting": false,
   "attemptPhysicsModPatch_2": "CUSTOM",
   "modelUpdateFrequency": "Average",
-  "entityRenderModeOverrides": {
-    "sulfurcavesplus:sulfur_spider": "VANILLA",
-    "minecraft:spider": "VANILLA",
-    "minecraft:cave_spider": "VANILLA"
-  },
+  "entityRenderModeOverrides": {},
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
-  "modelsNamesDisabled": [
-    "sulfur_spider",
-    "spider",
-    "cave_spider"
-  ],
+  "modelsNamesDisabled": [],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
