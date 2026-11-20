@@ -2522,7 +2522,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "79d27bd822c8c5b0778b92b9cd178e3ec1df71ba31000dfc871f41768c258fb7"
+hash = "fe64544c35205cef2d1bc5f823161555ad373bbce5f30abbd0d7c700020e82ad"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3534,8 +3534,32 @@ file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
 hash = "bfc21043f8daf342a46bd5f507c10978c96cc989b22a8ea4dbf9bfea221abb05"
 
 [[files]]
+file = "resourcepacks/Better-Leaves-9.6.zip"
+hash = "cbeeccd774f910ed270dbe9651d789a8f785d055499f846e466d86f9cae91e90"
+
+[[files]]
 file = "resourcepacks/Biomes Pillager 1.21.4.zip.disabled"
 hash = "90e0375306ab1af3f45fa88f9ef97870c574fa161d3568a749d87bda6d2b5637"
+
+[[files]]
+file = "resourcepacks/FA+All_Extensions-v1.10.1.zip"
+hash = "10bcd8cfec9c70694ceaf37ec52e4b69f3a9b2fcab2ba67f202d6cbfcb7a38c9"
+
+[[files]]
+file = "resourcepacks/FA+Details-v2.4.zip"
+hash = "b2130beea5d343f779866a4bba5741e9b9aff8ed0b649193a7240b5fc3ef3111"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+
+[[files]]
+file = "resourcepacks/Fresh Move Plus [26.2].zip"
+hash = "6afbbd4d78319b188a6a6b39a51142694447cb450383cd7a996cdc993749c29b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip"
+hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
 
 [[files]]
 file = "resourcepacks/Icon Fresh 0.5.zip"
