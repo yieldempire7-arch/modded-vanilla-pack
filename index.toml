@@ -2522,7 +2522,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "375fa4d8b82eecf1eb1da70a962827bb37f0fb51328e02241488ba378b685c02"
+hash = "1068a0f3660cb89a1c6cefe60f10be81e1ec6ae451ecae158749c0a4c18ac9d0"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3583,7 +3583,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "4279207fdc7c0542d44fe64fc990d3cf3e2fe47318040fc3afca2401cb435080"
+hash = "0d0b75e2b502c525c5b666acdc5630b3c93a75461286512114f9d3af0ed064e2"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"
