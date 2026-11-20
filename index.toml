@@ -3550,6 +3550,10 @@ file = "resourcepacks/FA+Details-v2.4.zip"
 hash = "b2130beea5d343f779866a4bba5741e9b9aff8ed0b649193a7240b5fc3ef3111"
 
 [[files]]
+file = "resourcepacks/FA+Emissive-v1.7.zip"
+hash = "fb1c800b4e2ca71906b5a61f16ef7cae4cb81298148c78a3a9195e992a8cb5dd"
+
+[[files]]
 file = "resourcepacks/FA+Player-v1.1.zip"
 hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
 
