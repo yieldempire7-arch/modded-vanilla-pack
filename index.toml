@@ -1798,7 +1798,7 @@ hash = "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85"
 
 [[files]]
 file = "config/wavify.json"
-hash = "53e951138a1b2db3a30c2cdb9755c73bfb698dd2c9e99997dd7f45d8cd91845e"
+hash = "bfeedc05c3c9266e3953903afe7643be972ac1b6446e576a516433a88e03e766"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -2522,7 +2522,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "33b348ca2d77f96f561326af00e02a0f3876b4a7dda03220283be55ce0cfeb47"
+hash = "79d27bd822c8c5b0778b92b9cd178e3ec1df71ba31000dfc871f41768c258fb7"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -3555,7 +3555,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "4f787d17cf448f9e557fc30321b5a45836ff9a66fa2f47e206cbd3391d0d025e"
+hash = "2771bc859c16d27b2d306ccff85cdc4bd1eaac49735d317a190056f2a9e0f43f"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"
