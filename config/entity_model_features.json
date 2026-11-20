@@ -8,10 +8,14 @@
   "automaticModelExporting": false,
   "attemptPhysicsModPatch_2": "CUSTOM",
   "modelUpdateFrequency": "Average",
-  "entityRenderModeOverrides": {},
+  "entityRenderModeOverrides": {
+    "sulfurcavesplus:sulfur_spider": "VANILLA"
+  },
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
-  "modelsNamesDisabled": [],
+  "modelsNamesDisabled": [
+    "sulfur_spider"
+  ],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
@@ -33,5 +37,6 @@
   "exportRotations": false,
   "asmMaths": true,
   "logASM": false,
-  "sulfurCubeBlockAnimatesByDefault": false
+  "sulfurCubeBlockAnimatesByDefault": false,
+  "parrotShoulderPositionAnimatesByDefault": true
 }
