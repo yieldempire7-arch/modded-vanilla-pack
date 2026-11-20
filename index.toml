@@ -2102,6 +2102,14 @@ hash = "05332ff33b624fc6bedce013d0f8db783150de1bfb20c545083bc3ae186dc4a2"
 metafile = true
 
 [[files]]
+file = "mods/MoogsEndStructures-universal-1.21-2.1.1.jar"
+hash = "00726445a0b2aaa9ab61ac5fa8a165280a45a0e22f1d67898d0b4934614729d5"
+
+[[files]]
+file = "mods/MoogsStructureLib-fabric-26.2-3.4.2.jar"
+hash = "f5f79053dad2f52cf42a427289762c0581510eefea269b48acd494907971963d"
+
+[[files]]
 file = "mods/MoreBarrelVariants-2.0.5+26.1(2)-Fabric.pw.toml"
 hash = "601da3bad7e4452c9d6de63147026a4f773469af85398dfa42a3d50d3446054b"
 metafile = true
@@ -2522,7 +2530,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "e3dba81dd520fcd99ad66dd18704e102c2b3aee07f247cd874c2201cc12648bb"
+hash = "72ff47186b2a34e37c753559987ef7fc237d386f8d7a3efe901cdc00882caa86"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
