@@ -394,7 +394,7 @@ hash = "07ad4ad48d524e4fa13cccff9875182e8f21cb0a2d08b997f852d137f509ab02"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "3c130f7fa0ea9cce9a8200bd9b71881ab40e4fd8bb26a9c75a876f85617723e8"
+hash = "b93c212de2e4df3a36c04d3e88a44ff0a3589200323f47b3845792d1fb435460"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -2522,7 +2522,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d31d8ab9331e194cf4dbc4d3c9275188323ee39bd24ba69a4ae52c2c654fc418"
+hash = "6e3275b284d87e1d75484679d9f6ee2ec8998a11c63ceda6382637396d173303"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
