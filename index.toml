@@ -2530,7 +2530,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "cb6e2d120d783305335f715ded864b74d9cbd8af02dd2fcfe411afea4a040992"
+hash = "22d0f33ab97b7e0b357b4f79044ef833a58d294576287536b7702b6ba6416412"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2653,7 +2653,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "69e68efb22a5d27c5fc4ec52449684e13b9ff2b5d07e1faa7cddaa2ce123fbda"
+hash = "be8961f67e2ac71ad712cbd93d3f07b994a5deb27eb3a85069be699baf2889b8"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3595,7 +3595,7 @@ hash = "a08886aed70dc08ac0f5406740878bf82059260804e9c03c1c32ee84cf832fc5"
 
 [[files]]
 file = "resourcepacks/Sulfur_Cinnabar_Mob_Variants.zip"
-hash = "b043cdce8dd8fade98be682046622e2dfaac350f2724517c129785aa6eb21c24"
+hash = "61b946a224d049cbc3e07208c92ab862f516f11e00a8fb55b0d974d74b316ada"
 
 [[files]]
 file = "resourcepacks/oaks-better-cactus.pw.toml"
