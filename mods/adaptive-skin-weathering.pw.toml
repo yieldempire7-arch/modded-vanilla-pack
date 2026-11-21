@@ -1,0 +1,13 @@
+name = "[ASW] Adaptive Skin Weathering"
+filename = "skin-weathering-1.2.1-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9ck9GFB/versions/pQmHbTbD/skin-weathering-1.2.1-26.2.jar"
+hash-format = "sha512"
+hash = "2789e4cdb61611e2a625a9200d1af2729554fb699bc2584bf706adb971a1e3c0d0aa4a2c16c86d1530a8855bcd6026ad6c0e20b44da54fb7f7b50104295ecc23"
+
+[update]
+[update.modrinth]
+mod-id = "N9ck9GFB"
+version = "pQmHbTbD"

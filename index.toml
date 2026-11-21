@@ -245,6 +245,10 @@ file = "config/chisel.json"
 hash = "f30375505d2b59c55c43f5157f53c97251c1ad40aa64dd210a38b80c9cdd7d0b"
 
 [[files]]
+file = "config/cinematic-client.json"
+hash = "e8258c5922a2d308b6417c7bbcd75bde1032986a666ee9777780efcc15a586cb"
+
+[[files]]
 file = "config/clientsort-server.json"
 hash = "0fbb153c5f8dcba35bc67ee09a93d86949c141ae7a50540bb442660bdc3992aa"
 
@@ -350,7 +354,7 @@ hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 
 [[files]]
 file = "config/easyanvils-client.toml"
-hash = "b264c6aea08c79682be73c32b6413b70d6c8f9c80328e207a33726b1a80c92e3"
+hash = "70f5ea23f4c93a85d5e7e9aec7b4cb7fb5108df4808979f92bfdc96e5eb09fba"
 
 [[files]]
 file = "config/easyanvils-server.toml"
@@ -366,7 +370,7 @@ hash = "06492d55e2afe4afc88d4c31b9a05a56c84ec6fbf4742afd4d2e9ee8d2cc05a0"
 
 [[files]]
 file = "config/easymagic-client.toml"
-hash = "e7eed8b4b8d5800ccc755b80990be82b2ab67a8837eedd72aa5a8557cdefa0c4"
+hash = "1c3a772b6de07c23299765a0c44d4af2a49bb7604f3efd951461b8ab313a1407"
 
 [[files]]
 file = "config/easymagic-server.toml"
@@ -2257,13 +2261,13 @@ file = "mods/VibrantParrots-v26.2.2-mc26.2.x-Fabric.jar"
 hash = "9578233507b803e36c77aa0f1a126bb1f3dd1a95bbd4d14606f5aa2303e5f161"
 
 [[files]]
-file = "mods/VisualWorkbench-v26.2.1-mc26.2.x-Fabric.pw.toml"
-hash = "8a4ec0f7a0a1cd79351799badf6aebfcb4c9a13e97fbc16ddbfaeb0ead8317be"
-metafile = true
-
-[[files]]
 file = "mods/WilderWild-4.3-mc26.2-fabric.jar"
 hash = "455f769fe671bbeef5c33ca93c1f32e6feb476ed855c0c66f046ace7d4b7381a"
+
+[[files]]
+file = "mods/adaptive-skin-weathering.pw.toml"
+hash = "b50a3db04fe605dd1f87dfb1f13b0fabb27c749f33ec8acc22b4c66b032f697c"
+metafile = true
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -2417,6 +2421,10 @@ hash = "bc3f301dd023773faf33193fd1fcc024c8b996eace8ae3a3dac439c43acd0c0b"
 metafile = true
 
 [[files]]
+file = "mods/cinematic-compat-1.0.0+26.2-fabric.jar"
+hash = "2e1d3d59a04c89e07661c33b6f289de3fc27f1072da9d171b860bde702f9ae73"
+
+[[files]]
 file = "mods/cinematic-interactions.pw.toml"
 hash = "4f854b13f08372ed06767da8560468c0935073723a3c09588cae9201b1e621c0"
 metafile = true
@@ -2501,6 +2509,10 @@ file = "mods/creaking_expansion-26.2-1.0.0.jar"
 hash = "ecba55897deb720969df02b2bd6a286fe82f7d5317cc420889bbeac9676a5a1e"
 
 [[files]]
+file = "mods/creeperoverhaul-fabric-26.2-4.0.6+26.2.jar"
+hash = "b8d20d884bd2d0ba76ce97d8f5ab67e8c944f9bc71a8f7ca7322cee330432f3e"
+
+[[files]]
 file = "mods/critterarmory-26.2-0.6.5-fabric.pw.toml"
 hash = "45218a07d0ceed1b57861da65ef417ce16e986ea959d3cf9d04b9ba3d1efe5fb"
 metafile = true
@@ -2568,6 +2580,10 @@ metafile = true
 file = "mods/delightlib-26.06.23-26.2-fabric.pw.toml"
 hash = "8dd11fb415422a7df0b52ee49e150598983fdae239395ae10cfd865bc7a6b65d"
 metafile = true
+
+[[files]]
+file = "mods/diegesis-fabric-26.2-1.0.0-beta.13.1.jar"
+hash = "b1faf1077d11681e316ccfaebb3cd648f5b38a4de84eb2b805dd9c50fa841332"
 
 [[files]]
 file = "mods/display-delight-1.8.4-mc26.2.pw.toml"
@@ -2704,6 +2720,10 @@ file = "mods/enchantwithmob-fabric-26.2-26.2-1.0.0.jar"
 hash = "0d67ddb93017f3abad4146bcbdb99de6aefd9ff6b8c1ca66a2f015052a62ba72"
 
 [[files]]
+file = "mods/endermanoverhaul-fabric-26.2-2.0.3+26.2.jar"
+hash = "8f415e5a115d963c04d0db0dff74b24aeb4ea25cdce2fc4f0fe3d291a1086a84"
+
+[[files]]
 file = "mods/energy-4.1.0-named.jar"
 hash = "4ddf4ec4f6e677ca6745d2c0716b2240891fbbe0ab4092ed3c123441fa6c468c"
 
@@ -2729,7 +2749,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
+hash = "3b615694b633006198041ee97429408f2325e81b63f8d2778188d60204e6b7a1"
 metafile = true
 
 [[files]]
@@ -2814,6 +2834,10 @@ hash = "46b6eaa73c848eeb35808385911b085d8015ec412dc6150b15be52133411084c"
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
 hash = "4cf5281a7de570424260bbb2a34c56d44be344f5deffe4a1bab096526a409a03"
+
+[[files]]
+file = "mods/handson_delight-fabric-26.2-1.6.0.jar"
+hash = "aa072433251163d0ea10d3e19c3490665848e28b588bd18c747b316d83f93e8a"
 
 [[files]]
 file = "mods/healingbed 26.2 (Fabric).pw.toml"
@@ -3255,6 +3279,10 @@ hash = "e8f6f4f28b4e6c2b4e71c9c60d55f66a44933d3369414026f51cae3e119ba31f"
 metafile = true
 
 [[files]]
+file = "mods/slopstrocity-fabric-1.0.0+26.2-fabric.jar"
+hash = "e9cef821cf865f40ece6cf4aeb360d757d51d78ef2cad593208d58e58e4076d0"
+
+[[files]]
 file = "mods/sniffers-sniffs-delights.pw.toml"
 hash = "a7f6ec5b69ff3bc7cd39de5b1725f3ac9eb2c3eb41f3bab575eaad697deeb246"
 metafile = true
@@ -3513,6 +3541,11 @@ metafile = true
 [[files]]
 file = "mods/wearable_lantern-1.0.0.jar"
 hash = "1c8633ac26a7eca81515077cf5d3d98ef178929197f50017de2c0ddf4d664ceb"
+
+[[files]]
+file = "mods/weather-glass.pw.toml"
+hash = "fee6ca98b87960284fe57d0359d4ed9756997c765725a450eea62bec5d9c5077"
+metafile = true
 
 [[files]]
 file = "mods/wet-sand.pw.toml"

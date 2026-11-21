@@ -1,0 +1,13 @@
+name = "Weather Glass"
+filename = "weatherglass-0.6.2-26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37bacb828876ee30550cb879405b5844e8d09212"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9613408
+project-id = 1757481

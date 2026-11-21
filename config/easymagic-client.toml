@@ -1,14 +1,14 @@
 #Render inventory contents of an enchanting table.
 #Default Value: FLOATING
 #Allowed Values: NONE, FLAT, FLOATING
-render_enchanting_table_contents = "FLOATING"
+render_enchanting_table_contents = "NONE"
 #Show a tooltip for the hovered book in a chiseled bookshelf.
 #DISABLED: Vanilla behavior, no tooltip shows.
 #CROUCHING: A tooltip only shows while the player is crouching.
 #ENABLED: A tooltip always shows when a book is looked at.
 #Default Value: ENABLED
 #Allowed Values: DISABLED, CROUCHING, ENABLED
-chiseled_bookshelf_tooltip = "ENABLED"
+chiseled_bookshelf_tooltip = "DISABLED"
 #Offset on x-axis for chiseled bookshelf book tooltips from original position.
 #Default Value: 0
 # Default: 0
