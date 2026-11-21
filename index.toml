@@ -3280,7 +3280,7 @@ metafile = true
 
 [[files]]
 file = "mods/slopstrocity-fabric-1.0.0+26.2-fabric.jar"
-hash = "e9cef821cf865f40ece6cf4aeb360d757d51d78ef2cad593208d58e58e4076d0"
+hash = "4ffcbe0c7ccdd10c0b734664736baa25909532e2cf6313887295e9955a4c4186"
 
 [[files]]
 file = "mods/sniffers-sniffs-delights.pw.toml"
