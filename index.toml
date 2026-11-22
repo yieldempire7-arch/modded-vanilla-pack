@@ -2542,7 +2542,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "2a5cd6ca91a60b465b89a4d0c1d403370ecca1fd75d60420604c7548c7c7c18a"
+hash = "2a7f65284f19f0804c6b3fe95e071075c98f6fa5aac9201d63bd7c56527e278b"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2669,7 +2669,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "218e4ad86386b02f3d2638d5376edbeb643f2006b44a7761c848e8f16475c9cc"
+hash = "7f85e2360aa68863713d3955f8a90a5ab59a5161392e551c3bcd4d662a85cb52"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -2833,7 +2833,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dandori-fabric-26.2-1.0.0+26.2.jar"
-hash = "46b6eaa73c848eeb35808385911b085d8015ec412dc6150b15be52133411084c"
+hash = "85f7a1bea8289ff739c26acd02e36acb604534b126242afd20ace31c7f5bcc78"
 
 [[files]]
 file = "mods/guardvillagers-2.1.3-26.2.jar"
@@ -3572,7 +3572,7 @@ metafile = true
 
 [[files]]
 file = "mods/yazz-dungeons-sequel-fabric-26.2-1.0.1+26.2.jar"
-hash = "c53c6e2d35045190902da9031452f2e109fcd2c2332e9900095615affad76969"
+hash = "4c40bf96a43c198700d6b2b94cd650336d847fb07b822b50f4e175177ab60f6c"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
@@ -3584,7 +3584,7 @@ hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
 
 [[files]]
 file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
-hash = "2b67cda3d6038133279aa2dde3dd6f3ede6cc35f5cbda43a9b6ae0fc31e22018"
+hash = "8891537072e24ef05bb03f6a857af0c466f7a7b8dc042902fa033e453207af23"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-9.6.zip"
@@ -3620,7 +3620,7 @@ hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
-hash = "b5e2d114a32ef71130b09ee97ea62d55af9331bc038727a086d3090b34f96742"
+hash = "e393af8f926b7bd477f05533e0eb6c8890733cfb21caea5c8f85f7788ee44072"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
