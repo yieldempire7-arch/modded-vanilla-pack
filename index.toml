@@ -3366,6 +3366,10 @@ file = "mods/sulfurcubesplus-1.0.0.jar"
 hash = "924755cd121a562a6fb3413b85cdcf662fe0de6b7825221543a17e91e4991fae"
 
 [[files]]
+file = "mods/sunken-spires-1.0+26.2.jar"
+hash = "4ec092b624745d2a6e56676be52d52b4214a96737ca49827bffa728760e588dc"
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-fabric-mc26.2.pw.toml"
 hash = "7089515820aafcdd4c5f2b76cdb7c0ead8c1b6bc0b13352f49b6c0ee6dc63856"
 metafile = true
