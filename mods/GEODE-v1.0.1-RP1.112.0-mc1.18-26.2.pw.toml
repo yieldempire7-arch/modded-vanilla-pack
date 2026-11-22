@@ -1,13 +1,13 @@
 name = "GEODE v1.0.1 - RP 1.112.0 - MC 1.18-26.2"
-filename = "GEODE-v1.0.4-RP1.117.0-mc1.18-26.3.jar"
+filename = "GEODE-v1.0.1-RP1.112.0-mc1.18-26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U8Iw4AfP/versions/Kc5khGR3/GEODE-v1.0.4-RP1.117.0-mc1.18-26.3.jar"
-hash-format = "sha512"
-hash = "3d38263fc94b4f5737519b1953fe0f35964cd0bf91a75b95cd4912520993f0725c432dce48212575718d3e28e6d309b47f22bf4e253a07883293ddf5b4f402c0"
+url = "https://cdn.modrinth.com/data/U8Iw4AfP/versions/ozZZKZQp/GEODE-v1.0.1-RP1.112.0-mc1.18-26.2.jar"
+hash-format = "sha1"
+hash = "92f5007050b363d11d8e5ceb96d4fc346269d26f"
 
 [update]
 [update.modrinth]
 mod-id = "U8Iw4AfP"
-version = "Kc5khGR3"
+version = "ozZZKZQp"
