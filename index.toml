@@ -2542,7 +2542,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "5595afcf923ae6ded92179c703b23ac4bbafecf8d3d2ca6abd18f77aac12d7fb"
+hash = "3975eec5180b056e4c1af5e7dcd364b259a2fe395119c1da420eb43ffd0d1a08"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2669,7 +2669,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "418465bc13246d84c84b783727d6de592679c629b1f35eee32d21ffacfe31123"
+hash = "3c47081ab7c908ca8b20cb5ed213b5328abf3d9374d4d4a487a89f977a882fdd"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3567,6 +3567,10 @@ hash = "42fc816708b86c71e87af7c2801d26cfe079e49a1a5a01a1efb798a2855c1c83"
 metafile = true
 
 [[files]]
+file = "mods/yazz-dungeons-sequel-fabric-26.2-1.0.1+26.2.jar"
+hash = "395ed0b1e95e42e52e845b162c3b01e3cc21d3c40e389bc781b6a2c159b16f74"
+
+[[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
 hash = "ad8a20f00a5f0337f53aeaf391d8286a0d498814ab508c346f7c8e4b0eff3858"
 
@@ -3576,7 +3580,7 @@ hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
 
 [[files]]
 file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
-hash = "8f7f68f15a52f5ba4d57bd1b940fa89db06b69a4c423f3563795bbcdf32ffacb"
+hash = "7e9020839ec71c3ce500d4f98a91c02da1a6e66d08af9cfad4c6c1f465996173"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-9.6.zip"
@@ -3609,10 +3613,6 @@ hash = "6afbbd4d78319b188a6a6b39a51142694447cb450383cd7a996cdc993749c29b"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip"
 hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
-
-[[files]]
-file = "resourcepacks/Icon Fresh 0.5.zip"
-hash = "07c8808213653cc167494db0d0b9b432755d9d70d4a96134c735c9aa9d0873ce"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
