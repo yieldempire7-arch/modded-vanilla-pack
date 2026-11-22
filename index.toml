@@ -3572,7 +3572,7 @@ metafile = true
 
 [[files]]
 file = "mods/yazz-dungeons-sequel-fabric-26.2-1.0.1+26.2.jar"
-hash = "52855fccf6f53a2928fa750201791f848f56205730b92514b3cfceb59682dfe6"
+hash = "c53c6e2d35045190902da9031452f2e109fcd2c2332e9900095615affad76969"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
