@@ -2542,7 +2542,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "8f3139fd820205225d7c891f6650478abbc8ae9e80427b4710b740afef514345"
+hash = "f5416d26e534cad570c1808bdb040d290ed6a3df103570e194c057c9a6caf13f"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2669,7 +2669,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "9693d310bec5a8f022af8cb43e8f69668bc6e569a87ee8cd502a0129e01eb1e5"
+hash = "673841ea7220880964c672407b735ecc03621d7dd4295647699edaba261c2e7d"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3620,7 +3620,7 @@ hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
-hash = "c5ca997de088103dda12159b2c4d1ea2a348c882739ddd76a9757e99292d3614"
+hash = "ebc2d9f7ba6044765c2b56e5e33949354ea3a0492e58c6661cc5fd75a99d3e52"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
