@@ -1,13 +1,13 @@
 name = "[26.2] Underlay v1.0.4-hotfix.1"
-filename = "underlay-1.0.4-hotfix.1-fabric-mc26.2.jar"
+filename = "underlay-1.0.5-hotfix.1-fabric-mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iltKD9qU/versions/eeBnfFu6/underlay-1.0.4-hotfix.1-fabric-mc26.2.jar"
-hash-format = "sha1"
-hash = "9b0568a6af78efa65e25a71532a1d4a11f358ed8"
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/x4fdNhUx/underlay-1.0.5-hotfix.1-fabric-mc26.2.jar"
+hash-format = "sha512"
+hash = "fdd19cfdc47fefa315dcc8722b2fae5c53a0c39861d3f6794c31b21df2b8da87934d839542c4d04eb5f5857758bee24722a54a8bf1734d1b43a3711fb64976bb"
 
 [update]
 [update.modrinth]
 mod-id = "iltKD9qU"
-version = "eeBnfFu6"
+version = "x4fdNhUx"

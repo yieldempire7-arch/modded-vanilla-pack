@@ -1,13 +1,13 @@
 name = "Lanterns Belong on Walls 3.1.3-fabric for 26.2"
-filename = "walllanterns-3.1.3.jar"
+filename = "walllanterns-3.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V1CFwy2A/versions/HEMxN9mR/walllanterns-3.1.3.jar"
-hash-format = "sha1"
-hash = "f73e49bec68033604e2d23b32b93ed79e760e1c3"
+url = "https://cdn.modrinth.com/data/V1CFwy2A/versions/HGdJdcwP/walllanterns-3.5.1.jar"
+hash-format = "sha512"
+hash = "bffb3abaebf3d5e0dffe2ed803b19b4e6de23a0ef379d8b046c8bffabb56525e20f84eb91d31c3cd9a6146db786e13b6601d936c63ca03708133c305949abb7c"
 
 [update]
 [update.modrinth]
 mod-id = "V1CFwy2A"
-version = "HEMxN9mR"
+version = "HGdJdcwP"

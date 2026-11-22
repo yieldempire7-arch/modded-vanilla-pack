@@ -1,13 +1,13 @@
 name = "Lowered scaffolding (hotfix)"
-filename = "slabbed-0.5.2-alpha.10+26.2.jar"
+filename = "slabbed-0.7.2-alpha+26.2-26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5nraCxl9/versions/BJ7G8eJs/slabbed-0.5.2-alpha.10%2B26.2.jar"
-hash-format = "sha1"
-hash = "a4b054fda72e2dea0c66533c6b72f41e8ff54083"
+url = "https://cdn.modrinth.com/data/5nraCxl9/versions/psuzLKkx/slabbed-0.7.2-alpha%2B26.2-26.3.jar"
+hash-format = "sha512"
+hash = "ed3437c5185b861c85e1a744bc49cd214b7fc2ffbda78ab7ad37e0f0fde7bb20f63c9d31bb6398ff0896eb285d5af7627689c781582cf18d91de7a8215424c52"
 
 [update]
 [update.modrinth]
 mod-id = "5nraCxl9"
-version = "BJ7G8eJs"
+version = "psuzLKkx"

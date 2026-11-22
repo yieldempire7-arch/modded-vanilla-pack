@@ -1,13 +1,13 @@
 name = "Field Guide"
-filename = "fieldguide-1.23.2+26.2-fabric.jar"
+filename = "fieldguide-1.25.0+26.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/72RRCWM6/versions/YMBbcAgD/fieldguide-1.23.2%2B26.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/8Mz83VNC/fieldguide-1.25.0%2B26.2-fabric.jar"
 hash-format = "sha512"
-hash = "b830948f9b19b523d2a5343e990635c983dc560903d0404779a005ab865f874caadf831b75c5607bcb70547321f3488e690e1aaf320dfdfdc1a9bd4021aae086"
+hash = "efd9fef43e4341ae9be17c61f87f879181a725fa173c995c875336f9135b2a918ce16c5ddda0e144ad6878a46549262785a774a1b379f4be000ea32d0d3528d8"
 
 [update]
 [update.modrinth]
 mod-id = "72RRCWM6"
-version = "YMBbcAgD"
+version = "8Mz83VNC"

@@ -1,13 +1,13 @@
 name = "Punchy 2.7e (Fabric) - 26.2"
-filename = "punchy-2.7e-fabric-26.2.jar"
+filename = "punchy-3.2b-fabric-26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aoMKplv/versions/4RFDZkOs/punchy-2.7e-fabric-26.2.jar"
-hash-format = "sha1"
-hash = "ebdfa335bffe2330061946c443d34380303a3bb4"
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/d7XmaPmL/punchy-3.2b-fabric-26.2.jar"
+hash-format = "sha512"
+hash = "5ed7bc790ae59a8907d78df65a66db04efddfc8569b8d3508375709aa7b2ef704d7307e03d641c7ca739178edaef59ff7c1e615543f690664b10d17bd7f57646"
 
 [update]
 [update.modrinth]
 mod-id = "8aoMKplv"
-version = "4RFDZkOs"
+version = "d7XmaPmL"

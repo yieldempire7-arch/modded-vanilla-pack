@@ -3,11 +3,11 @@ filename = "flowerymooblooms-fabric-3.0.3+mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ECOSu6pa/versions/uotD4N05/flowerymooblooms-fabric-3.0.3%2Bmc26.2.jar"
+url = "https://cdn.modrinth.com/data/ECOSu6pa/versions/W6rSTIw9/flowerymooblooms-fabric-3.0.3%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "a065adb6ea6e8be274c5693269296dde957d81d9bfe438b6048953995bdd9633df1863da2f5beb1a1370f39f6ad9f066b04affcbe3d3e4044b8451b89d055c51"
+hash = "d4fe9628e889dcc171c8b8eba07285ccad138da251a1cc98eef3d03908fdda4d65e3ca10629648f3388698df23e677992faa54b0cff9f4f16368f48f45f41be8"
 
 [update]
 [update.modrinth]
 mod-id = "ECOSu6pa"
-version = "uotD4N05"
+version = "W6rSTIw9"

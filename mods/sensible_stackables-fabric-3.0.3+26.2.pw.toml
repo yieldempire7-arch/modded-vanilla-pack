@@ -1,13 +1,13 @@
 name = "3.0.3 for Fabric 26.2"
-filename = "sensible_stackables-fabric-3.0.3+26.2.jar"
+filename = "sensible_stackables-fabric-3.1.2+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/idGrQ43h/sensible_stackables-fabric-3.0.3%2B26.2.jar"
-hash-format = "sha1"
-hash = "ccbb370ed2e7dc4018e0c26422a70f45d52cb60a"
+url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/p3BUnNFG/sensible_stackables-fabric-3.1.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "38da603c2e70c24965159e8d14d1430b8f4cbf21bf1d44c49537c1ed205b99f764f59daa0ed8df13b9741f054d0fc63668b3b1d0114e5daf85739ceb02f7b581"
 
 [update]
 [update.modrinth]
 mod-id = "5lQcMjaC"
-version = "idGrQ43h"
+version = "p3BUnNFG"

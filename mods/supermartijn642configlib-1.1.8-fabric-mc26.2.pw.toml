@@ -1,13 +1,13 @@
 name = "SuperMartijn642's Config Library 1.1.8"
-filename = "supermartijn642configlib-1.1.8-fabric-mc26.2.jar"
+filename = "supermartijn642configlib-1.1.8a-fabric-mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LN9BxssP/versions/tg619S8t/supermartijn642configlib-1.1.8-fabric-mc26.2.jar"
-hash-format = "sha1"
-hash = "56c3d9cb1c5b7d6a1f6eef525ef0487e79503ada"
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/iInTTGso/supermartijn642configlib-1.1.8a-fabric-mc26.2.jar"
+hash-format = "sha512"
+hash = "5479b2dc62b73706817007803c4b2bac4c007705484d8b57daef20649793ae524f2123a66842e6490da766a0eada3c3469dcc1bba6b4a430dbdb16d221d6c9f1"
 
 [update]
 [update.modrinth]
 mod-id = "LN9BxssP"
-version = "tg619S8t"
+version = "iInTTGso"

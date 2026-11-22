@@ -1,13 +1,13 @@
 name = "[Fabric/Forge/Neo] 26.2.0-1.2"
-filename = "wanderingtradermayleave-26.2.0-1.2.jar"
+filename = "wanderingtradermayleave-26.2.0-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kj7dPTJo/versions/zUbuYDqs/wanderingtradermayleave-26.2.0-1.2.jar"
-hash-format = "sha1"
-hash = "7ad0f13ef942f56aab1ae1ea28b8e90f72cba021"
+url = "https://cdn.modrinth.com/data/kj7dPTJo/versions/a3GSyTbJ/wanderingtradermayleave-26.2.0-2.0.jar"
+hash-format = "sha512"
+hash = "747f9a1fd37400e2241791ad6aa9e38a5693e8b26a5258be7069d9334ced50dc512768887267e3e10c7cf5205d40ddda3658275e4c59571a84b9715dec436f79"
 
 [update]
 [update.modrinth]
 mod-id = "kj7dPTJo"
-version = "zUbuYDqs"
+version = "a3GSyTbJ"

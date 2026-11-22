@@ -1,13 +1,13 @@
 name = "[fabric/26.2] Cats Don't Care v1.0.1"
-filename = "cats-dont-care-1.0.1+26.2+fabric.jar"
+filename = "cats-dont-care-1.0.2+26.2+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OihWKxvL/versions/GKXO9gpo/cats-dont-care-1.0.1%2B26.2%2Bfabric.jar"
-hash-format = "sha1"
-hash = "e8d1cb75672778448c30f08af039053002b7ea99"
+url = "https://cdn.modrinth.com/data/OihWKxvL/versions/mnzwIgsM/cats-dont-care-1.0.2%2B26.2%2Bfabric.jar"
+hash-format = "sha512"
+hash = "eeb07bcc8a0c19e7b984f54ce6229156fb78f46c7507cc74f65bddf3e6d01cfadb74a9c0ae8dfcb8f4169a0807b29fa43fb46cce37ec14feefab973a13ff3a02"
 
 [update]
 [update.modrinth]
 mod-id = "OihWKxvL"
-version = "GKXO9gpo"
+version = "mnzwIgsM"

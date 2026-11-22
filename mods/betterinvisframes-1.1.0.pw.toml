@@ -1,13 +1,13 @@
 name = "better invisible item frames 1.1.0"
-filename = "betterinvisframes-1.1.0.jar"
+filename = "betterinvisframes-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4u0tqtaI/versions/HE2LoxTP/betterinvisframes-1.1.0.jar"
-hash-format = "sha1"
-hash = "9d7de8686f546f99dcc6adb561c112ccb5a38b5e"
+url = "https://cdn.modrinth.com/data/4u0tqtaI/versions/WlP2OGfV/betterinvisframes-1.1.2.jar"
+hash-format = "sha512"
+hash = "046da098c973efebdc36a1a26441673c3383a1f53cdafd996d3d0563c25a3cd076cbbeebaa99735fb823980b4cf3772d4b7b1313fe68f7f646c4f438dc1d160c"
 
 [update]
 [update.modrinth]
 mod-id = "4u0tqtaI"
-version = "HE2LoxTP"
+version = "WlP2OGfV"

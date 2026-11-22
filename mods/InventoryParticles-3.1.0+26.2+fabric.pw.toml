@@ -1,13 +1,13 @@
 name = "[fabric/26.2] Inventory Particles v3.1.0"
-filename = "InventoryParticles-3.1.0+26.2+fabric.jar"
+filename = "InventoryParticles-4.0.0+26.2+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/ll9yicH2/InventoryParticles-3.1.0%2B26.2%2Bfabric.jar"
-hash-format = "sha1"
-hash = "b5ce2722f839eaa07201b8f077b53e5c68afa239"
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/4FyFskDj/InventoryParticles-4.0.0%2B26.2%2Bfabric.jar"
+hash-format = "sha512"
+hash = "b158f1819709af4665f9f708da99c64fc9d3b17ec315e87b5239f38631064bb7be9d6d8b99aac03edc352f3ad1eb11d0fbd85f4354a1450fb39281fd9dbedc7b"
 
 [update]
 [update.modrinth]
 mod-id = "XYnKrsxH"
-version = "ll9yicH2"
+version = "4FyFskDj"

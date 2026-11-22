@@ -1,13 +1,13 @@
 name = "More Axolotl Variants API"
-filename = "mavapi-2.3.2+26.2-fabric.jar"
+filename = "mavapi-fabric-2.4.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/Q2wzwIqW/mavapi-2.3.2%2B26.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/G7NeIm7f/mavapi-fabric-2.4.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "3fbf94a6d8e1344036aa4ba615a4e89ae4a8af61e3b7862bd9e8eac379aeed80d59b650fd1519002204c79d2191caeedd2b64031e4c27509d1f1cdff3d794515"
+hash = "530b1e09983d308de21dc220804ef48ce3c08d6cce35f7932ceb6e67c3aee2495582af64b41bf22392e2981c2d33937b02d4555443227b3b38b082e728a47e49"
 
 [update]
 [update.modrinth]
 mod-id = "t4Ybtys2"
-version = "Q2wzwIqW"
+version = "G7NeIm7f"

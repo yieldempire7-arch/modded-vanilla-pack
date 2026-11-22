@@ -1,13 +1,13 @@
 name = "More Axolotl Variants Mod"
-filename = "mavm-2.1.2+26.2-fabric.jar"
+filename = "mavm-fabric-2.2.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zitu8weW/versions/xEOYt4fj/mavm-2.1.2%2B26.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/zitu8weW/versions/O5vGFWAP/mavm-fabric-2.2.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "aad3a94c512c40a921242959a7b4b5c92d58e87b56d4714684b59d9a8f00ec6b775ad9ce37c752d01f1511a1b9c826be4540c0230418fafbe662df5c4c572144"
+hash = "8f6a4b798312f80a27ff965529431f8784efa53d498d64bdda20c6690a6e99c9523205e295780e20be8ddaf842a0533cafca89cff0a6e568f8e08ba501eb703b"
 
 [update]
 [update.modrinth]
 mod-id = "zitu8weW"
-version = "xEOYt4fj"
+version = "O5vGFWAP"

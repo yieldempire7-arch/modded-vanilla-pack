@@ -1,13 +1,13 @@
 name = "Skniro's Furniture 1.5.2-26.2-Fabric"
-filename = "SkniroFurniture-1.5.2-26.2-Fabric.jar"
+filename = "SkniroFurniture-1.6.0-26.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pezpt98N/versions/yH66cUHk/SkniroFurniture-1.5.2-26.2-Fabric.jar"
-hash-format = "sha1"
-hash = "e9af4973997d86f8360eb2f3ec7ec9d15cfaf4f4"
+url = "https://cdn.modrinth.com/data/pezpt98N/versions/n6uG34xf/SkniroFurniture-1.6.0-26.2-Fabric.jar"
+hash-format = "sha512"
+hash = "d9518b47d152cde2f8a4ec52c15dab69eb9a943be4b705b685f620038bd46fabe1ad80fefc17625a0bfe170fb2b0b971e258e714218431993596f379b9131cde"
 
 [update]
 [update.modrinth]
 mod-id = "pezpt98N"
-version = "yH66cUHk"
+version = "n6uG34xf"
