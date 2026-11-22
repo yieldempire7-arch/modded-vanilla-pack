@@ -2542,7 +2542,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "260534682898ac971702a41c02a67ee8940591cfc8f4c30245a6f49bf0397326"
+hash = "38aab2dec949dc5dc5747f776ce6099c167ed540ca97e165a10d8a47e2eced8b"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2669,7 +2669,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "8520a33108ac51a7db194eb36639995cb516cfb23d934a367ff24f4c444c6b63"
+hash = "c3663f3de383f13030c2a42a0e665882c10e7bfa93fbe913f89e80ecf64dae24"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3584,7 +3584,7 @@ hash = "0a47819dd3a5752a59e520a7ef56172f3ea1635fb361dcdd30dec182217a9610"
 
 [[files]]
 file = "resourcepacks/Bespoke_Spawn_Eggs_v1.0.zip"
-hash = "afa1bf84a794a63fdcf3d14cb65c23a35dc21c11a5ea5f576008cb97ac6b020a"
+hash = "9689606c6e65351d4721a4ff7c431aa977b5d72c7ee15b24d7642bfa9fd77985"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-9.6.zip"
@@ -3620,7 +3620,7 @@ hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
-hash = "a9b18aa629b4a605cef51cda2a4ddb743316140e3df13f3e4a9af1d7ad220b09"
+hash = "d6db784e2ad6d6acf0af46bbe31b189aabcad1f510bd75b3f6bbc3279e6f0f09"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
