@@ -1457,6 +1457,10 @@ file = "config/maxhealthfix.json"
 hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
 [[files]]
+file = "config/mc2_interactivefoliage.json"
+hash = "a0f4a8278c89ae825b0359ee61ca9b68d8a18111054b491024dddf3325d7b0f8"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
@@ -1514,7 +1518,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "e876761ce016bf2ac33c8ebce77bdd5cc20540f39a1c4bad90a1af32163ea939"
+hash = "207df82e88c1443c3ad88d2770b46c4a6eafe4fb0ba90f630675971fc205d239"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -1683,6 +1687,10 @@ hash = "943b379d4778fdd21536ad2b8251698b7d52da057915251c5120aaf8e7f17e1e"
 [[files]]
 file = "config/swampier_swamps/Common.json5"
 hash = "18a9dcb96ee25246f31e703afb8819ed8c8931f6fbb369d204813a972ba0a51f"
+
+[[files]]
+file = "config/sway.json"
+hash = "dc5d872735f5ef6817963e367735e2ab3312e1f8b558ef4598e564f1208800b4"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -2542,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "14ff8a8ee051d98fdc2f6e6e95a2ff72667b9878232fc3a0eed1afbb2a2cde5c"
+hash = "2f14b429c058739d22c1c679227baa3503cedf647cd32be54fe7f6fe5161a357"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2669,7 +2677,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "134d18b2d6b1f9f0a791448f338bc7a45a1de0d8cf08a5701487eab551628752"
+hash = "d00f3a5a16e660a23566957dfd915d40f326bf3469d1147a1b173dc2228cb87e"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"

@@ -35,7 +35,13 @@
   "enableBlurGlowAtDark": true,
   "firstPersonModelHideEnabled": true,
   "firstPersonModelHidePitch": 60.0,
-  "itemBlacklist": [],
+  "itemBlacklist": [
+    "minecraft:egg",
+    "minecraft:brown_egg",
+    "minecraft:blue_egg",
+    "earthmobsmod:fancy_egg",
+    "earthmobsmod:smelly_egg"
+  ],
   "blacklistApplyDualHanded": {},
   "animationPackSelections": {},
   "animationPackTypeSelections": {},

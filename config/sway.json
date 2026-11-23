@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "maxDistance": 16.0,
+  "influenceRadius": 1.2,
+  "intensity": 0.35
+}
