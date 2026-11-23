@@ -1518,7 +1518,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "207df82e88c1443c3ad88d2770b46c4a6eafe4fb0ba90f630675971fc205d239"
+hash = "49b91ecac6901e6a7386c99dd826a5c1ec130894b1ca45a3caaaf7947897c3bf"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
