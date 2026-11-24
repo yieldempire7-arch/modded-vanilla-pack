@@ -2226,6 +2226,10 @@ hash = "a345bf2208dcf86894a9f0a5997b35f10d5fe9ca0795d27ec760bff49eb9672a"
 metafile = true
 
 [[files]]
+file = "mods/Simple Structures Mushroom Fields 26.2.jar"
+hash = "fa902f08631fec51a503bcfc49a2d68900e3ae4cfb93f00568baf7e84089d4dd"
+
+[[files]]
 file = "mods/SkniroFurniture-1.5.2-26.2-Fabric.pw.toml"
 hash = "ca6b85c8de194077926ca0d5f100f8b72fd4868ccbcc71a377bb3de669cdba08"
 metafile = true
@@ -2550,7 +2554,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "a6b1e7c478f67311d285f6d1180f497b52275a2caca5b6b5fabe4bf753c951db"
+hash = "beecf059c05ed5bbcde97bb18cbc99106b034146ca6e746ae510452936801a97"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2677,7 +2681,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "d904c4bc45e2770b943915771b0054c2a7ad3bb08bf7cd73ded743a9537e3e26"
+hash = "a2ec60972d1728f16b02bce4e9f030cb1dc1a10f5436be3ce44a525d051a0e0b"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
