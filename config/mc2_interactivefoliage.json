@@ -1,10 +1,10 @@
 {
-  "gpuRenderer": true,
+  "gpuRenderer": false,
   "gpuDistance": "adaptive",
   "defaultRadiusApplied": true,
   "windWalls": [],
-  "wavingFoliage": true,
+  "wavingFoliage": false,
   "wavingLeaves": false,
   "weatherWind": false,
-  "wavingIntensity": 0.3
+  "wavingIntensity": 0.25
 }

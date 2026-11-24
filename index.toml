@@ -1458,7 +1458,7 @@ hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
 [[files]]
 file = "config/mc2_interactivefoliage.json"
-hash = "d7d7898876fcf5e9da52037029f4187c09e0f17c535119a7296f5e01ec39281d"
+hash = "da66a166fa04bd77213b0b5b6b4c7bf3792f720e71d7ff8e1e6f5d4969a64c36"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1518,7 +1518,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "e876761ce016bf2ac33c8ebce77bdd5cc20540f39a1c4bad90a1af32163ea939"
+hash = "66e11ed6478f9863c6853a19a4eb83bd7da46cfdc51430b0e588f3e04bf0bc3f"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -2550,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "1e153025e036bc6b28ab45737e066753fe664022a0247ea3e6d58f979ac0b390"
+hash = "d46b26f33ff41aed1b3c6e77ef6142a37af320de46b018d677bf20bd78033172"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2677,7 +2677,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "94de494c674652eea01e9175902b5b7f799bf55642c24609067012a1c447a089"
+hash = "2d474b8e1177442192c0a012e6b2d8d2ddd015b82c5268154a0bee4d5026bd82"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
