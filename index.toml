@@ -406,7 +406,7 @@ hash = "6fdb451e7b9c107e1c9c1ef6ba5869e73d04c8b96790df326e9799fffbe1e98c"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+hash = "817775d7be3a88267f5e144c064a8f04e98585a16446a8ea7700251c5fb022db"
 
 [[files]]
 file = "config/etf_warnings.json"
@@ -1498,7 +1498,7 @@ hash = "b91c5e02339d06493cdc9179503e78bf9747f9960f5378e463fbe7b92cd66982"
 
 [[files]]
 file = "config/particle_core_config.toml"
-hash = "9f78cd6740c669aceea023504efd2e600168af4bb41c2f0b12caa9988384b609"
+hash = "9185f0d6a3c4bd34f05485438ed1e50c8096cf674765f34730b07fa03775a4db"
 
 [[files]]
 file = "config/particle_core_disabled_optimizations_v2.json"
@@ -2550,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d46b26f33ff41aed1b3c6e77ef6142a37af320de46b018d677bf20bd78033172"
+hash = "54c1cdb3995b40ba4e27a988d77d501341b54a502530c1fdb20443ba6b590caa"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2677,7 +2677,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "2d474b8e1177442192c0a012e6b2d8d2ddd015b82c5268154a0bee4d5026bd82"
+hash = "6f4e0373505fb48baa804a3dd9e3ab78afcc251c26fcbe1545dc2e179c581bda"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
