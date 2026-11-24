@@ -1518,7 +1518,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "49b91ecac6901e6a7386c99dd826a5c1ec130894b1ca45a3caaaf7947897c3bf"
+hash = "d3e5bcdb385ee60cc88ad518933a1051af6c85dc7556acfb28301af907915b3c"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -2550,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "2eaba256a476af2f19188e3d2a9bb64a8732e00e9789bbf4dc06bb219fa898e8"
+hash = "1e153025e036bc6b28ab45737e066753fe664022a0247ea3e6d58f979ac0b390"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2677,7 +2677,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "de8c940f6054afdf0c581d202eeacf424c6e6057d2ad362449eca7368ceb4318"
+hash = "94de494c674652eea01e9175902b5b7f799bf55642c24609067012a1c447a089"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
