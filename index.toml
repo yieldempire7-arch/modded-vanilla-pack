@@ -2554,7 +2554,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d19f2d32a7f79a94838fe100b2871f7d2d7ec2b9f3d4f4b9538ccec44b6ad4f4"
+hash = "3120bf27e20b0f136d7f567e648142010a638c29de9be8d2fd74a0d8c3cc6f70"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2681,7 +2681,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "2e57a5fbe8d7a8227668191cdfe6e4b7ebe9aabc8289ed39cf9ecb4f74b2679a"
+hash = "0f74b75ed27bb8b42a15a006512a0b292529fff93d9b4a67968f70ccf78840b0"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3062,8 +3062,8 @@ hash = "68cae58f45c4f01e501dc373c297b99662294ef487ae04a405d70ce6cbb0f601"
 metafile = true
 
 [[files]]
-file = "mods/mielon's-the-sift-1.0.2-mc26.2-fabric.jar"
-hash = "b729d94ba32eac16aa2da667d98faac33b31b3bf9d1a735350c749e3ce54eff3"
+file = "mods/mielon's-the-sift-2.0.6-mc26.2-fabric.jar"
+hash = "cfbf48671d43b0f7fdaeab1e109e72d27062ec0f6e6dc3c0b906d490049e1b99"
 
 [[files]]
 file = "mods/mixson-2.2.0-multiloader.pw.toml"
