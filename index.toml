@@ -1450,7 +1450,7 @@ hash = "4a99d1c2a64cd16837107f9a522416e0f34908fc2775228c85a15e19e8e30517"
 
 [[files]]
 file = "config/magnumtorch-server.toml"
-hash = "f8300df229219a36139319267892ce4952cac702aaedd73678b8156959453f64"
+hash = "abab4aca710182837058193ef188a5836edb4a317f0c097f7d79df155d213c92"
 
 [[files]]
 file = "config/maxhealthfix.json"

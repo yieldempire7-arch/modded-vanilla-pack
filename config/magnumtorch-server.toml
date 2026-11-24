@@ -12,7 +12,7 @@
 	#Default Value: 2
 	# Default: 2
 	# Range: 1 ~ 16
-	vertical_chunk_range = 2
+	vertical_chunk_range = 3
 	#Type of shape used for calculating area in which spawns are prevented.
 	#This basically let's you choose between maximum or euclidean metrics.
 	#Default Value: ELLIPSOID
@@ -57,13 +57,13 @@
 		spawner = false
 		#Mobs spawned by game events, mainly zombie sieges, raids, wandering trader visits.
 		#Default Value: false
-		event = false
+		event = true
 		#Zombified piglin from nether portals.
 		#Default Value: true
 		structure = true
 		#Zombie reinforcements spawned when a zombie is hurt.
 		#Default Value: false
-		reinforcement = false
+		reinforcement = true
 
 [emerald_torch]
 	#Mobs that should not be allowed to spawn despite being absent from "mob_category".
