@@ -2550,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "c53ba8ce7a7b4c822ff458479eb6dc1315e23fc60d50ea8eaacad232b8c30cb0"
+hash = "2d89dcf55ff67edcc3270dc3c830c6e89855eb12b7c0817ba4301e26b16d025a"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2677,7 +2677,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "dd1df6385cdfa21e59ba8be12ce2de6dc920bd505d069eaebf28b307b708b184"
+hash = "d3df020b56f7479149abef83866a3361b7a51430cf8ee44a842846c32ebc47e6"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -3580,7 +3580,7 @@ metafile = true
 
 [[files]]
 file = "mods/yazz-dungeons-sequel-fabric-26.2-1.0.1+26.2.jar"
-hash = "9a5f6c03e94b2ab251f962baaf0abfb5e343e2506a8068bd2d49290432acca4e"
+hash = "4c88af070fcbbb1cd6d2539e63b95d425852fb6fb1d4908af84b83dba0aa697e"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar"
@@ -3628,7 +3628,7 @@ hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
 
 [[files]]
 file = "resourcepacks/Icon Xaeros 1.22.zip"
-hash = "29c2c1411db9f98afb8a05479011ad06cad0169f0b65b9820f4d3c9c9ae6e902"
+hash = "66437905d572f518e4bd7ba426788692a247b154ad48257eaf2596ee2e7c8ea1"
 
 [[files]]
 file = "resourcepacks/MobCrates_26.2_v2.4.zip"
