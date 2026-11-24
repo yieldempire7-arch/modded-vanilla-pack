@@ -398,7 +398,7 @@ hash = "07ad4ad48d524e4fa13cccff9875182e8f21cb0a2d08b997f852d137f509ab02"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "1ffd4339691b0335bec29f5602ed985b6d8ca0ee1fccece21aa0e4b88ce38070"
+hash = "3a32fc06e1e6c2ef616456e067db77ceae43379bf2631f9feebd41b503faae65"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -1458,7 +1458,7 @@ hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
 [[files]]
 file = "config/mc2_interactivefoliage.json"
-hash = "a0f4a8278c89ae825b0359ee61ca9b68d8a18111054b491024dddf3325d7b0f8"
+hash = "d7d7898876fcf5e9da52037029f4187c09e0f17c535119a7296f5e01ec39281d"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1518,7 +1518,7 @@ hash = "c67c48df20afbb88f50d132200bc617412faaab83269481145301c013148c003"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "d3e5bcdb385ee60cc88ad518933a1051af6c85dc7556acfb28301af907915b3c"
+hash = "e876761ce016bf2ac33c8ebce77bdd5cc20540f39a1c4bad90a1af32163ea939"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -1690,7 +1690,7 @@ hash = "18a9dcb96ee25246f31e703afb8819ed8c8931f6fbb369d204813a972ba0a51f"
 
 [[files]]
 file = "config/sway.json"
-hash = "dc5d872735f5ef6817963e367735e2ab3312e1f8b558ef4598e564f1208800b4"
+hash = "e18884e413f9f47c1446e66e232f1edc7d370eb51c371632702759c2704daaed"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -1810,7 +1810,7 @@ hash = "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85"
 
 [[files]]
 file = "config/wavify.json"
-hash = "bfeedc05c3c9266e3953903afe7643be972ac1b6446e576a516433a88e03e766"
+hash = "859e959dedf11bd0931c7829292027cad9d08cb0e76096ef31d63cc7a3fe0eaf"
 
 [[files]]
 file = "config/waystones-common.toml"
