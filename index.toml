@@ -2118,6 +2118,10 @@ file = "mods/MoogsEndStructures-universal-1.21-2.1.1.jar"
 hash = "00726445a0b2aaa9ab61ac5fa8a165280a45a0e22f1d67898d0b4934614729d5"
 
 [[files]]
+file = "mods/MoogsNetherStructures-universal-1.21-3.1.1.jar"
+hash = "045c5f978274600464655d32c58ec4e809e427feeb74dee1f949819ce4ba8a2e"
+
+[[files]]
 file = "mods/MoogsStructureLib-fabric-26.2-3.4.2.jar"
 hash = "f5f79053dad2f52cf42a427289762c0581510eefea269b48acd494907971963d"
 
@@ -2554,7 +2558,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "d6cd8f5a4fcd7802c94e20227267678aeaa2dc16b4194e01f8009e662c8638a4"
+hash = "db9c82b8a11b8eb9ee752428ab962cb51ab6621eb0731b428dff9678b0a2998f"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2681,7 +2685,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "f47167b6881f25ccab48f8ce8bc44a8fee6d862035f19cd6ac9bec1cc99ac131"
+hash = "e00a24c6499e4012d2b8b0d392aca613b20b51f0e092e161ae277e9829e69782"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
