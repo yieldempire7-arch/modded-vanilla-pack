@@ -2558,7 +2558,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom_blocks-1.0.0.jar"
-hash = "c9cd15dfd0010c71fbce3fa95bebf7f3361fcc29351f8582b124171fe6010584"
+hash = "2b6b90336d025d5ca91c4da71df24360f63bc7f2e344f846591217afaea091eb"
 
 [[files]]
 file = "mods/customizableelytra-fabric-2.2.9+26.2.pw.toml"
@@ -2685,7 +2685,7 @@ hash = "e9d01468fa5267e48569674e51d4440e0fa71002439ee92b3893a2a09d30c33f"
 
 [[files]]
 file = "mods/dungeons-mobs-fabric-26.2-1.0.0+26.2.jar"
-hash = "278391a28c1031eb42ce82040abf373e8f03f11b474409a93c15cccfe16d59bf"
+hash = "ca35d41886b67450b12f7a7e41dfaedb23277af05e39f6d41e3fc33e3a2731b9"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
